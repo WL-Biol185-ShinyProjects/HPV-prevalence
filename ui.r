@@ -1,1 +1,1 @@
-View(HPV_Prevalence)
+View(HPV.type.prevalence)
