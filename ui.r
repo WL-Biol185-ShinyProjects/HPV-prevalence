@@ -13,7 +13,7 @@ fluidPage(
         inputId = "country",
         label = "Country",
         choices = list(unique(HPV_cancers$country),
-          
+                       
         ),
         multiple = TRUE,
         selected = unique(HPV_cancers$country)
