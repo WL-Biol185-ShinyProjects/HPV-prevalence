@@ -1,3 +1,4 @@
+
 library(shiny)
 library(ggplot2)
 library(tidyverse)
@@ -26,7 +27,6 @@ fluidPage(
         choices = unique(HPV_cancers$age_range),
         multiple = TRUE,
         selected = unique(HPV_cancers$age_range)
-        
       )
     ),
     
@@ -35,3 +35,4 @@ fluidPage(
     )
   )
 )
+
