@@ -10,5 +10,15 @@ function(input, output) {
       ggplot(aes_string("HPV_Prevalence", fill = input$prevalence.group.by)) +
       geom_density(alpha = 0.2)
   })
+}
+
+function(input, output){
+
+  output$HPV_relcancers_prevalencebyage <- renderPlot({
+    
+    HPV_cancers %>%
+      ggplot(aes_string("country", "age_range", fill = "age range")) + 
+      geom_col(alpha = 0.2)
+  })
   
 }
