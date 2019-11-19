@@ -40,16 +40,12 @@ dashboardPage(
                     choices  = unique(HPV_Prevalence$Country),
                     multiple = FALSE,
                     selected = unique(HPV_Prevalence$Country)
-                  ),
+                  )
+                ),
+                  
                   mainPanel(
                     plotOutput("Country_bar")
                   ) 
-                
-           
-                )
-              
-              
-              )
             ), 
       
       tabItem(tabName = "Related_cancers", 
@@ -71,14 +67,15 @@ dashboardPage(
                     selected = unique(HPV_cancers$age_range)
                   
                   
-                  ),
+                  )
+                ),
                 
                   mainPanel(
                     plotOutput("Cancer_bar")
                   ),
 
                 
-                )
+                
               )
             )
       
@@ -86,3 +83,4 @@ dashboardPage(
         )
       )
     )
+)
