@@ -42,11 +42,11 @@ dashboardPage(
                     selected = unique(HPV_Prevalence$Country)
                   ),
                   mainPanel(
-                    plotOutput("Country_density")
-                  ), 
+                    plotOutput("Country_bar")
+                  ) 
                 
            
-                ),
+                )
               
               
               )
@@ -55,25 +55,34 @@ dashboardPage(
       tabItem(tabName = "Related_cancers", 
               sidebarLayout(
                 sidebarPanel(
-                selectInput(
-                  inputId = "country",
-                  label = "Country",
-                  choices = list(unique(HPV_cancers$country),
-                                 
+                  selectInput(
+                    inputId  = "country",
+                    label    = "Country",
+                    choices  = unique(HPV_cancers$country),
+                    multiple = TRUE,
+                    selected = unique(HPV_cancers$country)             
                   ),
-                  multiple = TRUE,
-                  selected = unique(HPV_cancers$country)
+                    
+                  selectizeInput(
+                    inputId = "age_range",
+                    label = "Age Range",
+                    choices = unique(HPV_cancers$age_range),
+                    multiple = TRUE,
+                    selected = unique(HPV_cancers$age_range)
+                  
+                  
+                  ),
+                
+                  mainPanel(
+                    plotOutput("Cancer_bar")
+                  ),
 
-                ),
-
-                mainPanel(
-                  plotOutput("Country_density")
+                
                 )
-              ),
-            ),
+              )
+            )
       
      
         )
       )
     )
-)
