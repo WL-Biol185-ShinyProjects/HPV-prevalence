@@ -14,7 +14,7 @@ function(input, output) {
   output$Cancer_bar <- renderPlot({
     
     HPV_cancers %>%
-      ggplot(aes_string("country", "age_range", fill = "age range")) + 
+      ggplot(aes_string("country", "cancer_type", fill = "age_range")) + 
       geom_col(alpha = 0.2)
   })
   
