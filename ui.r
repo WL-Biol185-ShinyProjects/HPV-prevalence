@@ -41,11 +41,13 @@ dashboardPage(
                     multiple = FALSE,
                     selected = unique(HPV_Prevalence$Country)
                   )
-                )
-              ),
-              
-              mainPanel(
+                ), 
+                
+             mainPanel(
                 plotOutput("Country_density")
+                ),
+              
+              
               )
             ), 
       
