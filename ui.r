@@ -30,7 +30,7 @@ dashboardPage(
                     inputId  = "Prevalence_group_by",
                     label    = "Input",
                     choices  = list(Country = "Country",
-                                    Type    = "HPV_Type"),
+                                    Type    = "Type"),
                     selected = "Country"
 
                   ),
