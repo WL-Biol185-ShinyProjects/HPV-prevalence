@@ -9,7 +9,7 @@ function(input, output) {
       filter(Country %in% input$Prevalence_include_countries) %>%
       ggplot(aes_string("HPV_Prevalence", fill = input$Prevalence_group_by)) +
       geom_density(alpha = 0.2)
-  }),
+  })
 
   output$HPV_relcancers_prevalencebyage <- renderPlot({
     
