@@ -60,11 +60,11 @@ dashboardPage(
                   ),
                     
                   selectizeInput(
-                    inputId = "age_range",
-                    label = "Age Range",
-                    choices = unique(HPV_cancers$age_range),
+                    inputId = "cancer_type",
+                    label = "Cancer",
+                    choices = unique(HPV_cancers$cancer_type),
                     multiple = TRUE,
-                    selected = unique(HPV_cancers$age_range)
+                    selected = unique(HPV_cancers$cancer_type)
                   
                   
                   )
