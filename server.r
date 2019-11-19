@@ -4,15 +4,12 @@ library(tidyverse)
 
 function(input, output) {
   
-  output$country.density <- renderPlot({
+  output$Country_density <- renderPlot({
     HPV_Prevalence %>%
-      filter(Country %in% input$prevalence.include.countries) %>%
-      ggplot(aes_string("HPV_Prevalence", fill = input$prevalence.group.by)) +
+      filter(Country %in% input$Prevalence_include_countries) %>%
+      ggplot(aes_string("HPV_Prevalence", fill = input$Prevalence_group_by)) +
       geom_density(alpha = 0.2)
-  })
-}
-
-function(input, output){
+  }),
 
   output$HPV_relcancers_prevalencebyage <- renderPlot({
     
