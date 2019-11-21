@@ -13,9 +13,12 @@ function(input, output) {
 
   output$Cancer_bar <- renderPlot({
     
-    HPV_cancers %>%
-      ggplot(aes_string("country", "cancer_type", fill = "age_range")) + 
-      geom_col(alpha = 0.2)
+    HPV_cancers                                 %>%
+      filter(country %in% input$country_choice) %>%
+      filter(cancer_type %in% input$cancers)    %>%
+      filter(age_range %in% input$ages)         %>%
+      ggplot(aes_string("country", "Total", fill = "age_range")) + 
+      geom_col(alpha = 0.8)
   })
   
 }

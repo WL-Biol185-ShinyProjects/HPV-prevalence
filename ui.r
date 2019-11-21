@@ -52,27 +52,37 @@ dashboardPage(
               sidebarLayout(
                 sidebarPanel(
                   selectInput(
-                    inputId  = "country",
+                    inputId  = "country_choice",
                     label    = "Country",
                     choices  = unique(HPV_cancers$country),
                     multiple = TRUE,
                     selected = unique(HPV_cancers$country)             
                   ),
-                    
+                  
                   selectizeInput(
-                    inputId = "cancer_type",
-                    label = "Cancer",
-                    choices = unique(HPV_cancers$cancer_type),
+                    inputId  = "cancers",
+                    label    = "Cancer",
+                    choices  = unique(HPV_cancers$cancer_type),
+                    multiple = FALSE,
+                    selected = "Cervical"
+                    
+                  ),
+                  
+                  selectizeInput(
+                    inputId  = "ages",
+                    label    = "Age Range",
+                    choices  = unique(HPV_cancers$age_range),
                     multiple = TRUE,
-                    selected = unique(HPV_cancers$cancer_type)
-                  
-                  
+                    selected = unique(HPV_cancers$age_range)
+                    
                   )
                 ),
                 
-                  mainPanel(
-                    plotOutput("Cancer_bar")
-                  ),
+                mainPanel(
+                  plotOutput("Cancer_bar")
+                )
+              )
+              
 
                 
                 
@@ -83,4 +93,3 @@ dashboardPage(
         )
       )
     )
-)
