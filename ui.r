@@ -1,5 +1,6 @@
-View(HPV_Prevalence)
-View(HPV_cancers)
+write.csv(HPV_Prevalence)
+write.csv(HPV_cancers)
+write.csv(HPV_cervicalcancers)
 
 library(shiny)
 library(shinydashboard)
@@ -48,7 +49,8 @@ dashboardPage(
                   
                   mainPanel(
                     plotOutput("Country_bar")
-                  ) 
+                  )
+              )
             ), 
       
       tabItem(tabName = "Related_cancers", 
@@ -85,9 +87,7 @@ dashboardPage(
                   plotOutput("Cancer_bar")
                 )
                ),
-              
-                
-              )
+          
             ),
       
       tabItem(tabName = "Cervical_cancer",
@@ -118,6 +118,6 @@ dashboardPage(
       )
       
      
-        )
-      )
     )
+  )
+)
