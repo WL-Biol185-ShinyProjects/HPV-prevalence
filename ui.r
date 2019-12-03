@@ -36,8 +36,8 @@ dashboardPage(
                     choices  = list(Country = "Country",
                                     Type    = "HPV_Type"),
                     selected = "Country"
-
                   ),
+                  
                   selectizeInput(
                     inputId  = "Prevalence_include_countries",
                     label    = "Include Countries",
@@ -86,10 +86,10 @@ dashboardPage(
                 mainPanel(
                   plotOutput("Cancer_bar")
                 )
-              )
-
-      ),
-
+               )
+          
+            ),
+      
       tabItem(tabName = "Cervical_cancer",
               sidebarLayout(
                 sidebarPanel(
@@ -114,10 +114,9 @@ dashboardPage(
                 mainPanel(
                   plotOutput("Cervical_cancer_bar")
                 )
-              )
+            )
+          )
+        )
       )
-      
-     
     )
-  )
-)
+
