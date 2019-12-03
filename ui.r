@@ -86,17 +86,10 @@ dashboardPage(
                 mainPanel(
                   plotOutput("Cancer_bar")
                 )
-<<<<<<< HEAD
                )
           
             ),
       
-=======
-              )
-
-      ),
-
->>>>>>> e4147606c58a8e21a7af111f058c23c410b5b417
       tabItem(tabName = "Cervical_cancer",
               sidebarLayout(
                 sidebarPanel(
@@ -114,24 +107,16 @@ dashboardPage(
                     choices  = unique(HPV_cervicalcancers$age_range),
                     multiple = TRUE,
                     selected = unique(HPV_cervicalcancers$age_range)
-<<<<<<< HEAD
-                    
-=======
 
                   )
                 ),
 
                 mainPanel(
                   plotOutput("Cervical_cancer_bar")
->>>>>>> e4147606c58a8e21a7af111f058c23c410b5b417
                 )
-              ),
-              
-              mainPanel(
-                plotOutput("Cervical_cancer_bar")
-              )
             )
           )
         )
       )
     )
+

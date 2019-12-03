@@ -5,13 +5,8 @@ library(tidyverse)
 function(input, output) {
   
   output$Country_bar <- renderPlot({
-<<<<<<< HEAD
     HPV_Prevalence      %>%
       filter(Country    %in% input$Prevalence_include_countries)    %>%
-=======
-    HPV_Prevalence                                            %>%
-      filter(Country %in% input$Prevalence_include_countries) %>%
->>>>>>> e4147606c58a8e21a7af111f058c23c410b5b417
       ggplot(aes_string("HPV_Prevalence", fill = input$Prevalence_group_by)) +
       geom_density(alpha = 0.2)
   })
