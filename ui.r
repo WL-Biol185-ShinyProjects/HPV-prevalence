@@ -32,8 +32,16 @@ dashboardPage(
                     choices  = list(Country = "Country",
                                     Type    = "HPV_Type"),
                     selected = "Country"
-
                   ),
+                  
+                  selectInput(
+                    inputId  = "X_axis",
+                    label    = "Input",
+                    choices  = list(Country = "Country",
+                                    Type    = "Type"),
+                    selected = "Country"
+                  ),
+                  
                   selectizeInput(
                     inputId  = "Prevalence_include_countries",
                     label    = "Include Countries",
@@ -60,9 +68,9 @@ dashboardPage(
                   ),
                     
                   selectizeInput(
-                    inputId = "cancer_type",
-                    label = "Cancer",
-                    choices = unique(HPV_cancers$cancer_type),
+                    inputId  = "cancer_type",
+                    label    = "Cancer",
+                    choices  = unique(HPV_cancers$cancer_type),
                     multiple = TRUE,
                     selected = unique(HPV_cancers$cancer_type)
                   
@@ -73,14 +81,9 @@ dashboardPage(
                   mainPanel(
                     plotOutput("Cancer_bar")
                   ),
-
-                
-                
+                )
               )
             )
-      
-     
+          )
         )
       )
-    )
-)
