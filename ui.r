@@ -38,14 +38,6 @@ dashboardPage(
                     selected = "Country"
                   ),
                   
-                  selectInput(
-                    inputId  = "X_axis",
-                    label    = "Input",
-                    choices  = list(Country = "Country",
-                                    Type    = "Type"),
-                    selected = "Country"
-                  ),
-                  
                   selectizeInput(
                     inputId  = "Prevalence_include_countries",
                     label    = "Include Countries",
@@ -82,9 +74,6 @@ dashboardPage(
                   ),
                   
                   selectizeInput(
-                    inputId  = "cancer_type",
-                    label    = "Cancer",
-                    choices  = unique(HPV_cancers$cancer_type),
                     inputId  = "ages",
                     label    = "Age Range",
                     choices  = unique(HPV_cancers$age_range),
@@ -97,7 +86,7 @@ dashboardPage(
                 mainPanel(
                   plotOutput("Cancer_bar")
                 )
-               ),
+               )
           
             ),
       
@@ -105,36 +94,28 @@ dashboardPage(
               sidebarLayout(
                 sidebarPanel(
                   selectInput(
-                    inputId  = "country_choice",
+                    inputId  = "country_choice_cer",
                     label    = "Country",
                     choices  = unique(HPV_cervicalcancers$country),
                     multiple = TRUE,
                     selected = unique(HPV_cervicalcancers$country)             
                   ),
-                )
-              )
-            )
-          )
-        )
-      )
                   
                   selectizeInput(
-                    inputId  = "ages",
+                    inputId  = "ages_cer",
                     label    = "Age Range",
                     choices  = unique(HPV_cervicalcancers$age_range),
                     multiple = TRUE,
                     selected = unique(HPV_cervicalcancers$age_range)
                     
-                  )
-                ),
-                
-                mainPanel(
-                  plotOutput("Cervical_cancer_bar")
                 )
+              ),
+              
+              mainPanel(
+                plotOutput("Cervical_cancer_bar")
               )
+            )
+          )
+        )
       )
-      
-     
     )
-  )
-)

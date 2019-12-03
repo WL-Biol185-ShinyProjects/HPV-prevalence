@@ -26,8 +26,8 @@ function(input, output) {
   output$Cervical_cancer_bar <- renderPlot({
     
     HPV_cervicalcancers                         %>%
-      filter(country %in% input$country_choice) %>%
-      filter(age_range %in% input$ages)         %>%
+      filter(country %in% input$country_choice_cer) %>%
+      filter(age_range %in% input$ages_cer)         %>%
       ggplot(aes_string("country", "number_of_cases", fill = "age_range")) + 
       geom_col(alpha = 0.8)
     
