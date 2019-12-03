@@ -1,4 +1,4 @@
-"Country" "Total" "age_range" "number_of_cases"
+"country" "Total" "age_range" "number_of_cases"
 "1" "Australia" 924 "0-14 years" "-"
 "2" "China" 106430 "0-14 years" "-"
 "3" "Russian Federation" 18164 "0-14 years" "1"
