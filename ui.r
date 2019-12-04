@@ -36,11 +36,22 @@ dashboardPage(
   ),
   dashboardBody(
      tabItems(
+      tabItem(tabName = "dashboard",
+              fluidRow(
+                box(
+                  title      = "HPV and Related Cancers",
+                  width      = 15,
+                  background = "fuchsia", 
+                  "Whitley Drinkard and Mikki Whittington"
+                )
+              )
+            ), 
+      
       tabItem(tabName = "information", 
               fluidRow(
                 box(
-                  title = "Box Title",
-                  width = 10, 
+                  title      = "Box Title",
+                  width      = 10, 
                   background = "light-blue", 
                   "A box with a light blue background"
                 )
