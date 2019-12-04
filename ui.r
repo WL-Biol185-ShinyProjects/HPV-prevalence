@@ -53,7 +53,7 @@ dashboardPage(
                 )
               )
             ),
-      
+
       tabItem(tabName = "Related_cancers",
               sidebarLayout(
                 sidebarPanel(
@@ -88,9 +88,9 @@ dashboardPage(
                   plotOutput("Cancer_bar")
                 )
                )
-          
+
             ),
-      
+
       tabItem(tabName = "Cervical_cancer",
               sidebarLayout(
                 sidebarPanel(
