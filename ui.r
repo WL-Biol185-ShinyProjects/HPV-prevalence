@@ -46,14 +46,13 @@ dashboardPage(
                   ),
                   
                   uiOutput("Choice")
+                ),
+                
+                mainPanel(
+                  plotOutput("Country_bar")
                 )
-              ),
-                  
-                  mainPanel(
-                    plotOutput("Country_bar")
-                  )
               )
-            ), 
+            ),
       
       tabItem(tabName = "Related_cancers",
               sidebarLayout(
@@ -121,4 +120,3 @@ dashboardPage(
         )
       )
     )
-
