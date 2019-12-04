@@ -12,8 +12,13 @@ dashboardPage(
   dashboardSidebar(
     sidebarMenu(
       menuItem("Dashboard", 
-               tabName = "dashboard", 
-               icon    = icon("dashboard")), 
+               icon    = icon("dashboard"),
+               tabName = "dashboard" 
+               ), 
+      menuItem("Information", 
+               icon    = icon("angle-right"), 
+               tabName = "resources"
+               ),
       menuItem("HPV Types", 
                icon    = icon("angle-right"), 
                tabName = "HPV_types"), 
@@ -22,7 +27,11 @@ dashboardPage(
                tabName = "Related_cancers"),
       menuItem("HPV Cervical Cancer",
                icon    = icon("angle-right"),
-               tabName = "Cervical_cancer")
+               tabName = "Cervical_cancer"),
+      menuItem("Resources",
+               icon    = icon("angle-right"),
+               tabName = "resources"
+               )
     )
   ),
   dashboardBody(
