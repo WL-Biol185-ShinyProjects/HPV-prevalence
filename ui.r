@@ -32,20 +32,22 @@ dashboardPage(
                 sidebarPanel(
                   selectInput(
                     inputId  = "Prevalence_group_by",
-                    label    = "Input",
-                    choices  = list(Country = "Country",
-                                    Type    = "HPV_Type"),
-                    selected = "Country"
+                    label    = "Output",
+                    choices  = "Prevalence",
+                    selected = "Prevalence"
                   ),
                   
-                  selectizeInput(
-                    inputId  = "Prevalence_include_countries",
-                    label    = "Include Countries",
-                    choices  = unique(HPV_Prevalence$Country),
-                    multiple = FALSE,
-                    selected = unique(HPV_Prevalence$Country)
-                  )
-                ),
+                  selectInput(
+                    inputId  = "X_axis",
+                    label    = "Input",
+                    choices  = list(Country = "Country",
+                                    Type    = "Type"),
+                    selected = "Type"
+                  ),
+                  
+                  uiOutput("Choice")
+                )
+              ),
                   
                   mainPanel(
                     plotOutput("Country_bar")

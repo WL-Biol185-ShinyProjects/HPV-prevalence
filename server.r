@@ -5,10 +5,27 @@ library(tidyverse)
 function(input, output) {
   
   output$Country_bar <- renderPlot({
-    HPV_Prevalence      %>%
-      filter(Country    %in% input$Prevalence_include_countries)    %>%
-      ggplot(aes_string("HPV_Prevalence", fill = input$Prevalence_group_by)) +
-      geom_density(alpha = 0.2)
+    if (input$X_axis == "Type"){
+      HPV_Prevalence %>%
+        filter(Country == input$chosen_country) %>%
+        ggplot(aes_string("Type", "Prevalence")) +
+        geom_bar(stat = 'identity') +
+        theme(axis.text.x = element_text(size = 9, angle = 90, hjust = 1))
+    } else{
+      HPV_Prevalence %>%
+        filter(Type == input$chosen_type) %>%
+        ggplot(aes_string("Country", "Prevalence")) +
+        geom_bar(stat = 'identity') +
+        theme(axis.text.x = element_text(size = 9, angle = 90, hjust = 1))
+    }
+  })
+  
+  output$Choice <- renderUI({
+    if (input$X_axis == "Type") {
+      selectInput('chosen_country', "Choose Country", choices = unique(HPV_Prevalence$Country))
+    } else {
+      selectInput('chosen_type', "Choose Type", choices = unique(HPV_Prevalence$Type))
+    }
   })
 
   output$Cancer_bar <- renderPlot({
