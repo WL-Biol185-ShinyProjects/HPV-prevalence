@@ -15,9 +15,9 @@ dashboardPage(
                icon    = icon("dashboard"),
                tabName = "dashboard" 
                ), 
-      menuItem("Information", 
+      menuItem("About HPV", 
                icon    = icon("angle-right"), 
-               tabName = "resources"
+               tabName = "information"
                ),
       menuItem("HPV Types", 
                icon    = icon("angle-right"), 
@@ -36,6 +36,17 @@ dashboardPage(
   ),
   dashboardBody(
      tabItems(
+      tabItem(tabName = "information", 
+              fluidRow(
+                box(
+                  title = "Box Title",
+                  width = 10, 
+                  background = "light-blue", 
+                  "A box with a light blue background"
+                )
+              )
+      ),
+      
       tabItem(tabname = "HPV_types",
               sidebarLayout(
                 sidebarPanel(
