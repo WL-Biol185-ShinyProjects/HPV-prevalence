@@ -1,3 +1,7 @@
+read.csv("HPV_Prevalence.csv")
+read.csv("HPV_cancers.csv")
+read.csv("HPV_cervicalcancers.csv")
+
 library(shiny)
 library(ggplot2)
 library(tidyverse)
