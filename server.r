@@ -40,7 +40,7 @@ function(input, output) {
       ggplot(aes_string("country", "number_of_cases", fill = "age_range")) +
       geom_col(alpha = 0.8)+
       theme(axis.text.x = element_text(size = 9, angle = 60, hjust = 1)) + 
-      labs(y = "Number of Cases", x = "Country")
+      labs(y = "Number of Cases", x = "Country", fill = "Age Range")
       
   })
   
@@ -52,7 +52,7 @@ function(input, output) {
       ggplot(aes_string("country", "number_of_cases", fill = "age_range")) +
       geom_col(alpha = 0.8)+
       theme(axis.text.x = element_text(size = 9, angle = 60, hjust = 1)) +
-      labs(y = "Number of Cases", x = "Country")
+      labs(y = "Number of Cases", x = "Country", fill = "Age Range")
 
   })
   
@@ -64,7 +64,7 @@ function(input, output) {
       ggplot(aes_string("age_range", "number_of_cases", fill = "cancer_type")) +
       geom_col(alpha = 0.8)+
       theme(axis.text.x = element_text(size = 9, angle = 60, hjust = 1)) +
-      labs(y = "Number of Cases", x = "Age Range")
+      labs(y = "Number of Cases", x = "Age Range", fill = "Cancer Type")
     
   })
   
