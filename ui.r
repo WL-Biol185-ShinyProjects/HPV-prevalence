@@ -100,7 +100,12 @@ dashboardPage(
                       begin having papsmears at the age of 21. If the papsmear 
                       is normal, it only needs to be repeated every three years.
                       More than half of the women in the United States who have 
-                      cervical cancer have never had a papsmear.")
+                      cervical cancer have never had a papsmear."), 
+                    br(), 
+                    p("Symptoms of cervical cancer include: vaginal bleeding after
+                      intercourse, between periods, or after menopause, watery,
+                      bloody vaginal discharge that may be heavy and have a foul 
+                      odor, and pelvic pain or pain during intercourse.")
                   ), 
                   tabPanel(
                     "Vulvar Cancer", 
@@ -109,7 +114,25 @@ dashboardPage(
                       commonly diagnosed in older women. Exposure to HPV and smoking
                       increase the risk of developing vulvar cancer. It usually 
                       presents as a sore or lump, and can usually be removed 
-                      surgically.")
+                      surgically."), 
+                    br(), 
+                    p("Symptoms of vulvar canccer include: itching that doesn't 
+                      go away, pain and tenderness, bleeding that isn't from 
+                      menstruation, skin changes (such as color changes or 
+                      thickening), and a lump, wart-like bumps or an open sore.")
+                  ), 
+                  tabPanel(
+                    "Vaginal Cancer", 
+                    p("Most vaginal cancers are related to HPV, and vaginal pre-
+                      cancers can sometimes be found with a papsmear. If vaginal 
+                      pre-cancer is found, it can usually be removed before it 
+                      develops into cancer. Vaginal cancer is rare, but if it is
+                      allowed to spread beyond the vagina, it becomes difficult 
+                      to treat."), 
+                    br(), 
+                    p("Symptoms of vaginal cancer include: unusual vaginal bleeding, 
+                      watery vaginal discharge, a lump or mass in the vagina, painful
+                      urination, frequent urination, constipation, and pelvic pain.")
                   )
                 )
               )
@@ -207,6 +230,7 @@ dashboardPage(
                   p("American Sexual Health Association"), 
                   p("Cancer.Net"),
                   p("HPV Information Centre"), 
+                  p("Mayo Clinic"),
                   p("Planned Parenthood")
                 )
               )
