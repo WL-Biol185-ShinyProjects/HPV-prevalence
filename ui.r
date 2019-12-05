@@ -7,6 +7,7 @@ library(shinydashboard)
 library(ggplot2)
 library(tidyverse)
 
+fluidPage(
 dashboardPage(
   skin = "black",
   dashboardHeader(title = "HPV and Related Cancers", 
@@ -169,7 +170,7 @@ dashboardPage(
               )
       ),
       
-      tabItem(tabname = "HPV_types",
+      tabItem(tabname = "HPV_Types",
               sidebarLayout(
                 sidebarPanel(
                   selectInput(
@@ -187,7 +188,7 @@ dashboardPage(
                   plotOutput("Country_bar")
                 )
               )
-            ),
+          ),
 
       tabItem(tabName = "Related_cancers",
               sidebarLayout(
@@ -271,3 +272,4 @@ dashboardPage(
           )
         )
       )
+)
