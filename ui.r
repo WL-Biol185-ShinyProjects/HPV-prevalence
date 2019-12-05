@@ -54,7 +54,7 @@ dashboardPage(
               fluidRow(
                 box(
                   title      = "What is HPV?",
-                  width      = 10, 
+                  width      = 12, 
                   background = "teal", 
                   p("HPV stands for human papilloma virus and refers to 
                     a group of viruses that affect the skin. HPV is the 
@@ -76,6 +76,41 @@ dashboardPage(
                   4250,
                   "deaths from cervical cancer this year",
                   icon = icon("ambulance")
+                ),
+                box(
+                  title = "Different Types of HPV", 
+                  width = 12, 
+                  background = "teal", 
+                  p("There are more than 200 different types of HPV. About 40
+                    different types can cause genital warts, and the others can 
+                    cause warts such as those that you may get on your hands or 
+                    feet. HPV types 6 and 11 cause most of the cases of genital 
+                    warts, while HPV types 16 and 18 cause a significant number 
+                    of the cases of HPV-related cancers.")
+                ), 
+                tabBox(
+                  title  = "HPV-Related Cancers", 
+                  height = 250, 
+                  width  = 12, 
+                  tabPanel(
+                    "Cervical Cancer", 
+                    p("Essentially all cases of cervical cancer are due to HPV 
+                      infection. Fortunately cervical cancer can be caught early
+                      and even prevented with routine screenings. Women should 
+                      begin having papsmears at the age of 21. If the papsmear 
+                      is normal, it only needs to be repeated every three years.
+                      More than half of the women in the United States who have 
+                      cervical cancer have never had a papsmear.")
+                  ), 
+                  tabPanel(
+                    "Vulvar Cancer", 
+                    p("HPV can also cause cancer of the vulva which is the external
+                      components of the female genitalia. Vulvar cancer is most 
+                      commonly diagnosed in older women. Exposure to HPV and smoking
+                      increase the risk of developing vulvar cancer. It usually 
+                      presents as a sore or lump, and can usually be removed 
+                      surgically.")
+                  )
                 )
               )
       ),
