@@ -5,25 +5,25 @@ library(tidyverse)
 function(input, output) {
   
   output$Country_bar <- renderPlot({
-    if (input$X_axis == "Type"){
+    if (input$X_axis     == "Type"){
       HPV_Prevalence %>%
-        filter(Country == input$chosen_country) %>%
+        filter(Country   == input$chosen_country) %>%
         filter(Histology == "Any Histology") %>%
         ggplot(aes_string("Type", "Prevalence")) +
-        geom_bar(stat = 'identity', fill = "#8B14A8") +
+        geom_bar(stat     = 'identity', fill = "#8B14A8") +
         theme(axis.text.x = element_text(size = 9, angle = 90, hjust = 1))
     } else{
       HPV_Prevalence %>%
-        filter(Type == input$chosen_type) %>%
+        filter(Type      == input$chosen_type) %>%
         filter(Histology == "Any Histology") %>%
         ggplot(aes_string("Country", "Prevalence")) +
-        geom_bar(stat = 'identity') +
+        geom_bar(stat     = 'identity') +
         theme(axis.text.x = element_text(size = 9, angle = 90, hjust = 1))
     }
   })
   
   output$Choice <- renderUI({
-    if (input$X_axis == "Type") {
+    if (input$X_axis     == "Type") {
       selectInput('chosen_country', "Choose Country", choices = unique(HPV_Prevalence$Country))
     } else {
       selectInput('chosen_type', "Choose Type", choices = unique(HPV_Prevalence$Type))
@@ -40,7 +40,7 @@ function(input, output) {
       ggplot(aes_string("country", "number_of_cases", fill = "age_range")) +
       geom_col(alpha = 0.8)+
       theme(axis.text.x = element_text(size = 9, angle = 60, hjust = 1)) + 
-      labs(y = "Number of Cases", x = "Country", fill = "Age Range")
+      labs(y = "Number of Cases", x = "Country",      fill = "Age Range")
       
   })
   
@@ -50,9 +50,9 @@ function(input, output) {
       filter(country %in% input$country_choice_cer) %>%
       filter(age_range %in% input$ages_cer)         %>%
       ggplot(aes_string("country", "number_of_cases", fill = "age_range")) +
-      geom_col(alpha = 0.8)+
+      geom_col(alpha    = 0.8)+
       theme(axis.text.x = element_text(size = 9, angle = 60, hjust = 1)) +
-      labs(y = "Number of Cases", x = "Country", fill = "Age Range")
+      labs(y = "Number of Cases", x = "Country",      fill = "Age Range")
 
   })
   
@@ -62,9 +62,9 @@ function(input, output) {
       filter(country %in% input$country_choice_coun) %>%
       filter(age_range %in% input$ages_coun)         %>%
       ggplot(aes_string("age_range", "number_of_cases", fill = "cancer_type")) +
-      geom_col(alpha = 0.8)+
+      geom_col(alpha    = 0.8)+
       theme(axis.text.x = element_text(size = 9, angle = 60, hjust = 1)) +
-      labs(y = "Number of Cases", x = "Age Range", fill = "Cancer Type")
+      labs(y = "Number of Cases", x = "Age Range",      fill = "Cancer Type")
     
   })
   
