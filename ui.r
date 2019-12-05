@@ -10,16 +10,16 @@ library(tidyverse)
 dashboardPage(
   skin = "black",
   dashboardHeader(title = "HPV and Related Cancers", 
-                  titleWidth = 300),
+                  titleWidth = 275),
   dashboardSidebar(
     sidebarMenu(
       menuItem("Dashboard", 
                icon    = icon("dashboard"),
-               tabName = "dashboard" 
+               tabName = "Dashboard" 
                ), 
       menuItem("About HPV", 
                icon    = icon("angle-right"), 
-               tabName = "information"
+               tabName = "Information"
                ),
       menuItem("HPV Types", 
                icon    = icon("chart-bar"), 
@@ -32,13 +32,13 @@ dashboardPage(
                tabName = "Cervical_cancer"),
       menuItem("Resources",
                icon    = icon("list"),
-               tabName = "resources"
+               tabName = "Resources"
                )
     )
   ),
   dashboardBody(
      tabItems(
-      tabItem(tabName = "dashboard",
+      tabItem(tabName = "Dashboard",
               fluidRow(
                 box(
                   title      = h3("HPV and Related Cancers"),
@@ -50,7 +50,7 @@ dashboardPage(
               )
             ), 
       
-      tabItem(tabName = "information", 
+      tabItem(tabName = "Information", 
               fluidRow(
                 box(
                   title      = "What is HPV?",
@@ -252,7 +252,7 @@ dashboardPage(
                 )
             )
           ), 
-      tabItem(tabName = "resources", 
+      tabItem(tabName = "Resources", 
               fluidRow(
                 box(
                   title = strong("Resources"),
