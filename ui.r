@@ -8,7 +8,9 @@ library(ggplot2)
 library(tidyverse)
 
 dashboardPage(
-  dashboardHeader(title = "HPV and Related Cancers"),
+  skin = "black",
+  dashboardHeader(title = "HPV and Related Cancers", 
+                  titleWidth = 300),
   dashboardSidebar(
     sidebarMenu(
       menuItem("Dashboard", 
@@ -41,7 +43,7 @@ dashboardPage(
                 box(
                   title      = "HPV and Related Cancers",
                   width      = 15,
-                  background = "fuchsia", 
+                  background = "teal", 
                   "Whitley Drinkard and Mikki Whittington"
                 )
               )
@@ -52,8 +54,18 @@ dashboardPage(
                 box(
                   title      = "Box Title",
                   width      = 10, 
-                  background = "light-blue", 
-                  "A box with a light blue background"
+                  background = "teal", 
+                  "A box with a teal background"
+                ),
+                valueBox(
+                 14, 
+                 "million new cases of HPV every year in the US", 
+                 icon = icon("diagnoses")
+                ), 
+                valueBox(
+                  630, 
+                  "million people worldwide are infected with HPV", 
+                  icon = icon("users")
                 )
               )
       ),
@@ -147,7 +159,18 @@ dashboardPage(
                   plotOutput("Cervical_cancer_bar")
                 )
             )
+          ), 
+      tabItem(tabName = "resources", 
+              fluidRow(
+                box(
+                  title = "Resources",
+                  width = 15, 
+                  background = "teal", 
+                  "American Sexual Health Association 
+                   HPV Information Centre"
+                )
+              )
+            )
           )
         )
       )
-    )
