@@ -60,7 +60,11 @@ dashboardPage(
                     a group of viruses that affect the skin. HPV is the 
                     most common STI in the world. While it usually disappears
                     on its own, HPV can cause genital warts and may lead to 
-                    cancer.")
+                    cancer. Without treatment it is likely that the body's
+                    immune system will eliminate the virus within about two years.
+                    However, you can be reinfected with HPV, and as long as the 
+                    virus is still present in your body, you can transmit HPV
+                    to your sexual partners.")
                 ),
                 valueBox(
                  14, 
@@ -81,12 +85,13 @@ dashboardPage(
                   title = "Different Types of HPV", 
                   width = 12, 
                   background = "teal", 
-                  p("There are more than 200 different types of HPV. About 40
-                    different types can cause genital warts, and the others can 
-                    cause warts such as those that you may get on your hands or 
-                    feet. HPV types 6 and 11 cause most of the cases of genital 
-                    warts, while HPV types 16 and 18 cause a significant number 
-                    of the cases of HPV-related cancers.")
+                  p("There are more than 200 different types of HPV. HPV is often
+                    asymptomatic in either sex. However, about 40 different types 
+                    can cause genital warts, and the others can cause warts such 
+                    as those that you may get on your hands or feet. HPV types 6 
+                    and 11 cause most of the cases of genital warts, while HPV 
+                    types 16 and 18 cause a significant number of the cases of HPV-
+                    related cancers.")
                 ), 
                 tabBox(
                   title  = "HPV-Related Cancers", 
@@ -133,6 +138,20 @@ dashboardPage(
                     p("Symptoms of vaginal cancer include: unusual vaginal bleeding, 
                       watery vaginal discharge, a lump or mass in the vagina, painful
                       urination, frequent urination, constipation, and pelvic pain.")
+                  ), 
+                  tabPanel(
+                    "Penile Cancer", 
+                    p("HPV can cause penile cancer in men; however penile cancer is 
+                      more likely to result from HIV than from HPV. Almost all 
+                      penile cancers start underneath the foreskin and are likely to
+                      be noticed early in the disease."),
+                    br(), 
+                    p("Symptoms of penile cnacer include: skin changes, swelling at
+                      the end of the penis, and lumps under the skin in the groin area.")
+                  ), 
+                  tabPanel(
+                    "Anal Cancer", 
+                    p("")
                   )
                 )
               )
@@ -227,6 +246,7 @@ dashboardPage(
                   title = strong("Resources"),
                   width = 15, 
                   background = "teal", 
+                  p("American Cancer Society"),
                   p("American Sexual Health Association"), 
                   p("Cancer.Net"),
                   p("HPV Information Centre"), 
