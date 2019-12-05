@@ -128,8 +128,8 @@ dashboardPage(
                   ), 
                   tabPanel(
                     "Vaginal Cancer", 
-                    p("Most vaginal cancers are related to HPV, and vaginal pre-
-                      cancers can sometimes be found with a papsmear. If vaginal 
+                    p("Most vaginal cancers are related to HPV, and vaginal 
+                      pre-cancers can sometimes be found with a papsmear. If vaginal 
                       pre-cancer is found, it can usually be removed before it 
                       develops into cancer. Vaginal cancer is rare, but if it is
                       allowed to spread beyond the vagina, it becomes difficult 
@@ -141,17 +141,29 @@ dashboardPage(
                   ), 
                   tabPanel(
                     "Penile Cancer", 
-                    p("HPV can cause penile cancer in men; however penile cancer is 
-                      more likely to result from HIV than from HPV. Almost all 
-                      penile cancers start underneath the foreskin and are likely to
-                      be noticed early in the disease."),
+                    p("HPV can cause penile cancer in men, and HPV type 16 antibodies
+                      have been found in many patients with penile cancer; however 
+                      penile cancer is more likely to result from HIV than from HPV. 
+                      Almost all penile cancers start underneath the foreskin and are 
+                      likely to be noticed early in the disease. Men who are not 
+                      circumcised or are smokers are at a greater risk for penile 
+                      cancer."),
                     br(), 
                     p("Symptoms of penile cnacer include: skin changes, swelling at
                       the end of the penis, and lumps under the skin in the groin area.")
                   ), 
                   tabPanel(
                     "Anal Cancer", 
-                    p("")
+                    p("HPV can also cause cancer of the anal canal in both men and women,
+                      but similarly to penile cancer, it is more commonly associated
+                      with HIV infection. However, anal cancer is still relatively 
+                      uncommon. For those deemed to be at high risk of developing 
+                      anal cancer, anal pap tests can be performed. However, this is 
+                      not routinely recommended for most people."),
+                    br(), 
+                    p("Symptoms of anal cancer include: bleeding from the anus or
+                      rectum, pain in the area of the anus, a mass or growth in the 
+                      anal canal, and anal itching.")
                   )
                 )
               )
@@ -251,7 +263,8 @@ dashboardPage(
                   p("Cancer.Net"),
                   p("HPV Information Centre"), 
                   p("Mayo Clinic"),
-                  p("Planned Parenthood")
+                  p("Planned Parenthood"), 
+                  p("Urology Care Foundation")
                 )
               )
             )
