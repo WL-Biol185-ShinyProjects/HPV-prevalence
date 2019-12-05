@@ -30,6 +30,9 @@ dashboardPage(
       menuItem("HPV Cervical Cancer",
                icon    = icon("chart-bar"),
                tabName = "Cervical_cancer"),
+      menuItem("HPV Age Distribution",
+               icon    = icon("chart-bar"),
+               tabName = "Age_country"),
       menuItem("Resources",
                icon    = icon("list"),
                tabName = "Resources"
@@ -251,7 +254,43 @@ dashboardPage(
                   plotOutput("Cervical_cancer_bar")
                 )
             )
-          ), 
+          ),
+      tabItem(tabName = "Age_country",
+              sidebarLayout(
+                sidebarPanel(
+                  selectInput(
+                    inputId  = "country_choice_coun",
+                    label    = "Country",
+                    choices  = unique(HPV_cancers$country),
+                    multiple = FALSE,
+                    selected = "United States of America"
+                  ),
+                  
+                  selectizeInput(
+                    inputId  = "cancers",
+                    label    = "Cancer",
+                    choices  = unique(HPV_cancers$cancer_type),
+                    multiple = TRUE,
+                    selected = unique(HPV_cancers$cancer_type)
+                    
+                  ),
+                  
+                  selectizeInput(
+                    inputId  = "ages_coun",
+                    label    = "Age Range",
+                    choices  = unique(HPV_cancers$age_range),
+                    multiple = TRUE,
+                    selected = unique(HPV_cancers$age_range)
+                    
+                  )
+                ),
+                
+                mainPanel(
+                  plotOutput("Age_bar")
+                )
+              )
+              
+      ),
       tabItem(tabName = "Resources", 
               fluidRow(
                 box(
