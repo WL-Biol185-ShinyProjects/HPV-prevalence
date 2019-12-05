@@ -170,7 +170,7 @@ dashboardPage(
                   )
                 )
               )
-      ),
+            ),
       
       tabItem(tabname = "HPV_Types",
               sidebarLayout(
@@ -190,7 +190,7 @@ dashboardPage(
                   plotOutput("Country_bar")
                 )
               )
-      ),
+            ),
 
       tabItem(tabName = "Related_cancers",
               sidebarLayout(
@@ -225,8 +225,7 @@ dashboardPage(
                 mainPanel(
                   plotOutput("Cancer_bar")
                 )
-               )
-
+              )
             ),
 
       tabItem(tabName = "Cervical_cancer",
@@ -253,8 +252,9 @@ dashboardPage(
                 mainPanel(
                   plotOutput("Cervical_cancer_bar")
                 )
-            )
-          ),
+              )
+            ),
+      
       tabItem(tabName = "Age_country",
               sidebarLayout(
                 sidebarPanel(
@@ -289,8 +289,8 @@ dashboardPage(
                   plotOutput("Age_bar")
                 )
               )
-              
-      ),
+            ),
+      
       tabItem(tabName = "Resources", 
               fluidRow(
                 box(
