@@ -41,10 +41,11 @@ dashboardPage(
       tabItem(tabName = "dashboard",
               fluidRow(
                 box(
-                  title      = "HPV and Related Cancers",
+                  title      = h3("HPV and Related Cancers"),
                   width      = 15,
                   background = "teal", 
-                  "Whitley Drinkard and Mikki Whittington"
+                  h4("Whitley Drinkard and Mikki Whittington"),
+                  p("BIOL185 Winter 2019 Final Project")
                 )
               )
             ), 
@@ -52,10 +53,14 @@ dashboardPage(
       tabItem(tabName = "information", 
               fluidRow(
                 box(
-                  title      = "Box Title",
+                  title      = "What is HPV?",
                   width      = 10, 
                   background = "teal", 
-                  "A box with a teal background"
+                  p("HPV stands for human papilloma virus and refers to 
+                    a group of viruses that affect the skin. HPV is the 
+                    most common STI in the world. While it usually disappears
+                    on its own, HPV can cause genital warts and may lead to 
+                    cancer.")
                 ),
                 valueBox(
                  14, 
@@ -78,13 +83,6 @@ dashboardPage(
       tabItem(tabname = "HPV_types",
               sidebarLayout(
                 sidebarPanel(
-                  selectInput(
-                    inputId  = "Prevalence_group_by",
-                    label    = "Output",
-                    choices  = "Prevalence",
-                    selected = "Prevalence"
-                  ),
-                  
                   selectInput(
                     inputId  = "X_axis",
                     label    = "Input",
@@ -168,12 +166,13 @@ dashboardPage(
       tabItem(tabName = "resources", 
               fluidRow(
                 box(
-                  title = "Resources",
+                  title = strong("Resources"),
                   width = 15, 
                   background = "teal", 
                   p("American Sexual Health Association"), 
                   p("Cancer.Net"),
-                  p("HPV Information Centre")
+                  p("HPV Information Centre"), 
+                  p("Planned Parenthood")
                 )
               )
             )
