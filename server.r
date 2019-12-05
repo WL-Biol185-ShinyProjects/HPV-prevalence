@@ -9,7 +9,7 @@ function(input, output) {
       HPV_Prevalence %>%
         filter(Country == input$chosen_country) %>%
         ggplot(aes_string("Type", "Prevalence")) +
-        geom_bar(stat = 'identity') +
+        geom_bar(stat = 'identity', fill = "#8B14A8") +
         theme(axis.text.x = element_text(size = 9, angle = 90, hjust = 1))
     } else{
       HPV_Prevalence %>%
