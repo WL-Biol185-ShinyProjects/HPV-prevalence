@@ -66,6 +66,11 @@ dashboardPage(
                   630, 
                   "million people worldwide are infected with HPV", 
                   icon = icon("users")
+                ), 
+                valueBox(
+                  4250,
+                  "deaths from cervical cancer this year",
+                  icon = icon("ambulance")
                 )
               )
       ),
@@ -166,8 +171,9 @@ dashboardPage(
                   title = "Resources",
                   width = 15, 
                   background = "teal", 
-                  "American Sexual Health Association 
-                   HPV Information Centre"
+                  p("American Sexual Health Association"), 
+                  p("Cancer.Net"),
+                  p("HPV Information Centre")
                 )
               )
             )
