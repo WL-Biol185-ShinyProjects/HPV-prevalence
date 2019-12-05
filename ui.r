@@ -22,16 +22,16 @@ dashboardPage(
                tabName = "information"
                ),
       menuItem("HPV Types", 
-               icon    = icon("angle-right"), 
+               icon    = icon("chart-bar"), 
                tabName = "HPV_types"), 
       menuItem("Related Cancers", 
-               icon    = icon("angle-right"), 
+               icon    = icon("chart-bar"), 
                tabName = "Related_cancers"),
       menuItem("HPV Cervical Cancer",
-               icon    = icon("angle-right"),
+               icon    = icon("chart-bar"),
                tabName = "Cervical_cancer"),
       menuItem("Resources",
-               icon    = icon("angle-right"),
+               icon    = icon("list"),
                tabName = "resources"
                )
     )
