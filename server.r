@@ -39,7 +39,8 @@ function(input, output) {
       filter(age_range %in% input$ages)         %>%
       ggplot(aes_string("country", "number_of_cases", fill = "age_range")) +
       geom_col(alpha = 0.8)+
-      theme(axis.text.x = element_text(size = 9, angle = 60, hjust = 1))
+      theme(axis.text.x = element_text(size = 9, angle = 60, hjust = 1)) + 
+      labs(y = "Number of Cases", x = "Country")
       
   })
   
@@ -50,7 +51,8 @@ function(input, output) {
       filter(age_range %in% input$ages_cer)         %>%
       ggplot(aes_string("country", "number_of_cases", fill = "age_range")) +
       geom_col(alpha = 0.8)+
-      theme(axis.text.x = element_text(size = 9, angle = 60, hjust = 1))
+      theme(axis.text.x = element_text(size = 9, angle = 60, hjust = 1)) +
+      labs(y = "Number of Cases", x = "Country")
 
   })
   
@@ -61,7 +63,8 @@ function(input, output) {
       filter(age_range %in% input$ages_coun)         %>%
       ggplot(aes_string("age_range", "number_of_cases", fill = "cancer_type")) +
       geom_col(alpha = 0.8)+
-      theme(axis.text.x = element_text(size = 9, angle = 60, hjust = 1))
+      theme(axis.text.x = element_text(size = 9, angle = 60, hjust = 1)) +
+      labs(y = "Number of Cases", x = "Age Range")
     
   })
   
