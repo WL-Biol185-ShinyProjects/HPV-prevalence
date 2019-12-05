@@ -1,6 +1,6 @@
-write.csv(HPV_Prevalence)
-write.csv(HPV_cancers)
-write.csv(HPV_cervicalcancers)
+read.csv("HPV_Prevalence.txt")
+read.csv("HPV_cancers.txt")
+read.csv("HPV_cervicalcancers.txt")
 
 library(shiny)
 library(shinydashboard)
