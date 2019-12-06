@@ -1,6 +1,4 @@
-read.csv("HPV_Prevalence.txt")
-read.csv("HPV_cancers.txt")
-read.csv("HPV_cervicalcancers.txt")
+load(file = ".RData")
 
 library(shiny)
 library(shinydashboard)
