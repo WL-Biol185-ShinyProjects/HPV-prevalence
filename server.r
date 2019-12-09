@@ -51,7 +51,7 @@ function(input, output) {
       filter(cancer_type %in% input$cancers)    %>%
       filter(age_range %in% input$ages)         %>%
       ggplot(aes_string("country", "number_of_cases", fill = "age_range")) +
-      geom_col(alpha = 0.8)+
+      geom_col(position = "dodge", alpha = 0.8)+
       theme(axis.text.x = element_text(size = 9, angle = 60, hjust = 1)) + 
       labs(y = "Number of Cases", x = "Country",      fill = "Age Range")
       
