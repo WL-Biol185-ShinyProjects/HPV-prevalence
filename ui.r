@@ -287,7 +287,7 @@ dashboardPage(
                   ),
                   
                   selectizeInput(
-                    inputId  = "cancers",
+                    inputId  = "cancers_coun",
                     label    = "Cancer",
                     choices  = unique(HPV_cancers$cancer_type),
                     multiple = TRUE,
