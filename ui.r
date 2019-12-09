@@ -21,16 +21,20 @@ dashboardPage(
                ),
       menuItem("HPV Types", 
                icon    = icon("chart-bar"), 
-               tabName = "HPV_types"), 
+               tabName = "HPV_types"
+               ), 
       menuItem("Related Cancers", 
                icon    = icon("chart-bar"), 
-               tabName = "Related_cancers"),
+               tabName = "Related_cancers"
+               ),
       menuItem("HPV Cervical Cancer",
                icon    = icon("chart-bar"),
-               tabName = "Cervical_cancer"),
+               tabName = "Cervical_cancer"
+               ),
       menuItem("HPV Age Distribution",
                icon    = icon("chart-bar"),
-               tabName = "Age_country"),
+               tabName = "Age_country"
+               ),
       menuItem("Resources",
                icon    = icon("list"),
                tabName = "Resources"
