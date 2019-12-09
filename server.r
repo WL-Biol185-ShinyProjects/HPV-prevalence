@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-read.csv("HPV_Prevalence.csv")
-read.csv("HPV_cancers.csv")
-read.csv("HPV_cervicalcancers.csv")
-=======
 load(file = ".RData")
->>>>>>> 59670a6ee987f97abe161e9edc65bd46510e2360
+
 
 library(shiny)
 library(ggplot2)
@@ -39,7 +34,7 @@ function(input, output) {
    })
 
   output$Cancer_bar <- renderPlot({
-    HPV_cancers                                 %>%
+    HPV_cancersFIX                              %>%
       filter(country %in% input$country_choice) %>%
       #should a have a filter for registry == National
       filter(cancer_type %in% input$cancers)    %>%
@@ -65,9 +60,10 @@ function(input, output) {
   
   output$Age_bar <- renderPlot({
     
-    HPV_cancers                                     %>%
+    HPV_cancersFIX                                   %>%
       filter(country %in% input$country_choice_coun) %>%
       filter(age_range %in% input$ages_coun)         %>%
+      filter(cancer_type %in% input$cancers)         %>%
       ggplot(aes_string("age_range", "number_of_cases", fill = "cancer_type")) +
       geom_col(alpha    = 0.8)+
       theme(axis.text.x = element_text(size = 9, angle = 60, hjust = 1)) +

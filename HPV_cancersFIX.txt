@@ -1,0 +1,442 @@
+"country" "Registry" "Period" "Sex" "cancer_type" "Total" "age_range" "number_of_cases"
+"1" "Australia" "National" "2008-2012" "Female" "Cervical" 43 "0-04 years" 0
+"2" "Australia" "National" "2008-2012" "Female" "Cervical" 4037 "0-04 years" 0
+"3" "Australia" "National" "2008-2012" "Female" "Cervical" 446 "0-04 years" 0
+"4" "Australia" "National" "2008-2012" "Female" "Cervical" 286 "0-04 years" 0
+"60" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Cervical" 15526 "0-04 years" 0
+"94" "United States of America" "National" "2008-2012" "Female" "Cervical" 61857 "0-04 years" 1
+"179" "Australia" "National" "2008-2012" "Male" "Penile" 441 "0-04 years" 0
+"237" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Male" "Penile" 2758 "0-04 years" 1
+"271" "United States of America" "National" "2008-2012" "Male" "Penile" 6193 "0-04 years" 2
+"356" "Australia" "National" "2008-2012" "Male" "Anal" 751 "0-04 years" 0
+"414" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Male" "Anal" 2095 "0-04 years" 1
+"448" "United States of America" "National" "2008-2012" "Male" "Anal" 11132 "0-04 years" 1
+"533" "Australia" "National" "2008-2012" "Female" "Anal" 1106 "0-04 years" 0
+"591" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Anal" 3598 "0-04 years" 0
+"625" "United States of America" "National" "2008-2012" "Female" "Anal" 18750 "0-04 years" 0
+"710" "Australia" "National" "2008-2012" "Female" "Vulvar" 1574 "0-04 years" 0
+"768" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Vulvar" 5999 "0-04 years" 2
+"802" "United States of America" "National" "2008-2012" "Female" "Vulvar" 22152 "0-04 years" 5
+"887" "Australia" "National" "2008-2012" "Female" "Vaginal" 360 "0-04 years" 2
+"945" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Vaginal" 1323 "0-04 years" 7
+"979" "United States of America" "National" "2008-2012" "Female" "Vaginal" 6299 "0-04 years" 31
+"1063" "Australia" "National" "2008-2012" "Female" "Cervical" 43 "05-09 years" 0
+"1064" "Australia" "National" "2008-2012" "Female" "Cervical" 4037 "05-09 years" 0
+"1065" "Australia" "National" "2008-2012" "Female" "Cervical" 446 "05-09 years" 0
+"1066" "Australia" "National" "2008-2012" "Female" "Cervical" 286 "05-09 years" 0
+"1122" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Cervical" 15526 "05-09 years" 0
+"1156" "United States of America" "National" "2008-2012" "Female" "Cervical" 61857 "05-09 years" 2
+"1241" "Australia" "National" "2008-2012" "Male" "Penile" 441 "05-09 years" 0
+"1299" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Male" "Penile" 2758 "05-09 years" 0
+"1333" "United States of America" "National" "2008-2012" "Male" "Penile" 6193 "05-09 years" 0
+"1418" "Australia" "National" "2008-2012" "Male" "Anal" 751 "05-09 years" 0
+"1476" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Male" "Anal" 2095 "05-09 years" 0
+"1510" "United States of America" "National" "2008-2012" "Male" "Anal" 11132 "05-09 years" 0
+"1595" "Australia" "National" "2008-2012" "Female" "Anal" 1106 "05-09 years" 0
+"1653" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Anal" 3598 "05-09 years" 0
+"1687" "United States of America" "National" "2008-2012" "Female" "Anal" 18750 "05-09 years" 0
+"1772" "Australia" "National" "2008-2012" "Female" "Vulvar" 1574 "05-09 years" 0
+"1830" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Vulvar" 5999 "05-09 years" 0
+"1864" "United States of America" "National" "2008-2012" "Female" "Vulvar" 22152 "05-09 years" 0
+"1949" "Australia" "National" "2008-2012" "Female" "Vaginal" 360 "05-09 years" 0
+"2007" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Vaginal" 1323 "05-09 years" 1
+"2041" "United States of America" "National" "2008-2012" "Female" "Vaginal" 6299 "05-09 years" 0
+"2125" "Australia" "National" "2008-2012" "Female" "Cervical" 43 "10-14 years" 0
+"2126" "Australia" "National" "2008-2012" "Female" "Cervical" 4037 "10-14 years" 2
+"2127" "Australia" "National" "2008-2012" "Female" "Cervical" 446 "10-14 years" 0
+"2128" "Australia" "National" "2008-2012" "Female" "Cervical" 286 "10-14 years" 0
+"2184" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Cervical" 15526 "10-14 years" 2
+"2218" "United States of America" "National" "2008-2012" "Female" "Cervical" 61857 "10-14 years" 10
+"2303" "Australia" "National" "2008-2012" "Male" "Penile" 441 "10-14 years" 0
+"2361" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Male" "Penile" 2758 "10-14 years" 0
+"2395" "United States of America" "National" "2008-2012" "Male" "Penile" 6193 "10-14 years" 0
+"2480" "Australia" "National" "2008-2012" "Male" "Anal" 751 "10-14 years" 0
+"2538" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Male" "Anal" 2095 "10-14 years" 0
+"2572" "United States of America" "National" "2008-2012" "Male" "Anal" 11132 "10-14 years" 1
+"2657" "Australia" "National" "2008-2012" "Female" "Anal" 1106 "10-14 years" 0
+"2715" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Anal" 3598 "10-14 years" 0
+"2749" "United States of America" "National" "2008-2012" "Female" "Anal" 18750 "10-14 years" 1
+"2834" "Australia" "National" "2008-2012" "Female" "Vulvar" 1574 "10-14 years" 0
+"2892" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Vulvar" 5999 "10-14 years" 0
+"2926" "United States of America" "National" "2008-2012" "Female" "Vulvar" 22152 "10-14 years" 1
+"3011" "Australia" "National" "2008-2012" "Female" "Vaginal" 360 "10-14 years" 1
+"3069" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Vaginal" 1323 "10-14 years" 1
+"3103" "United States of America" "National" "2008-2012" "Female" "Vaginal" 6299 "10-14 years" 6
+"3187" "Australia" "National" "2008-2012" "Female" "Cervical" 43 "15-19 years" 0
+"3188" "Australia" "National" "2008-2012" "Female" "Cervical" 4037 "15-19 years" 3
+"3189" "Australia" "National" "2008-2012" "Female" "Cervical" 446 "15-19 years" 1
+"3190" "Australia" "National" "2008-2012" "Female" "Cervical" 286 "15-19 years" 0
+"3246" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Cervical" 15526 "15-19 years" 9
+"3280" "United States of America" "National" "2008-2012" "Female" "Cervical" 61857 "15-19 years" 89
+"3365" "Australia" "National" "2008-2012" "Male" "Penile" 441 "15-19 years" 0
+"3423" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Male" "Penile" 2758 "15-19 years" 0
+"3457" "United States of America" "National" "2008-2012" "Male" "Penile" 6193 "15-19 years" 1
+"3542" "Australia" "National" "2008-2012" "Male" "Anal" 751 "15-19 years" 0
+"3600" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Male" "Anal" 2095 "15-19 years" 0
+"3634" "United States of America" "National" "2008-2012" "Male" "Anal" 11132 "15-19 years" 1
+"3719" "Australia" "National" "2008-2012" "Female" "Anal" 1106 "15-19 years" 1
+"3777" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Anal" 3598 "15-19 years" 0
+"3811" "United States of America" "National" "2008-2012" "Female" "Anal" 18750 "15-19 years" 2
+"3896" "Australia" "National" "2008-2012" "Female" "Vulvar" 1574 "15-19 years" 0
+"3954" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Vulvar" 5999 "15-19 years" 1
+"3988" "United States of America" "National" "2008-2012" "Female" "Vulvar" 22152 "15-19 years" 24
+"4073" "Australia" "National" "2008-2012" "Female" "Vaginal" 360 "15-19 years" 1
+"4131" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Vaginal" 1323 "15-19 years" 1
+"4165" "United States of America" "National" "2008-2012" "Female" "Vaginal" 6299 "15-19 years" 3
+"4249" "Australia" "National" "2008-2012" "Female" "Cervical" 43 "20-24 years" 0
+"4250" "Australia" "National" "2008-2012" "Female" "Cervical" 4037 "20-24 years" 74
+"4251" "Australia" "National" "2008-2012" "Female" "Cervical" 446 "20-24 years" 13
+"4252" "Australia" "National" "2008-2012" "Female" "Cervical" 286 "20-24 years" 9
+"4308" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Cervical" 15526 "20-24 years" 316
+"4342" "United States of America" "National" "2008-2012" "Female" "Cervical" 61857 "20-24 years" 671
+"4427" "Australia" "National" "2008-2012" "Male" "Penile" 441 "20-24 years" 0
+"4485" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Male" "Penile" 2758 "20-24 years" 4
+"4519" "United States of America" "National" "2008-2012" "Male" "Penile" 6193 "20-24 years" 7
+"4604" "Australia" "National" "2008-2012" "Male" "Anal" 751 "20-24 years" 1
+"4662" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Male" "Anal" 2095 "20-24 years" 2
+"4696" "United States of America" "National" "2008-2012" "Male" "Anal" 11132 "20-24 years" 19
+"4781" "Australia" "National" "2008-2012" "Female" "Anal" 1106 "20-24 years" 1
+"4839" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Anal" 3598 "20-24 years" 3
+"4873" "United States of America" "National" "2008-2012" "Female" "Anal" 18750 "20-24 years" 8
+"4958" "Australia" "National" "2008-2012" "Female" "Vulvar" 1574 "20-24 years" 3
+"5016" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Vulvar" 5999 "20-24 years" 15
+"5050" "United States of America" "National" "2008-2012" "Female" "Vulvar" 22152 "20-24 years" 50
+"5135" "Australia" "National" "2008-2012" "Female" "Vaginal" 360 "20-24 years" 0
+"5193" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Vaginal" 1323 "20-24 years" 1
+"5227" "United States of America" "National" "2008-2012" "Female" "Vaginal" 6299 "20-24 years" 10
+"5311" "Australia" "National" "2008-2012" "Female" "Cervical" 43 "25-29 years" 3
+"5312" "Australia" "National" "2008-2012" "Female" "Cervical" 4037 "25-29 years" 322
+"5313" "Australia" "National" "2008-2012" "Female" "Cervical" 446 "25-29 years" 39
+"5314" "Australia" "National" "2008-2012" "Female" "Cervical" 286 "25-29 years" 24
+"5370" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Cervical" 15526 "25-29 years" 2032
+"5404" "United States of America" "National" "2008-2012" "Female" "Cervical" 61857 "25-29 years" 2692
+"5489" "Australia" "National" "2008-2012" "Male" "Penile" 441 "25-29 years" 3
+"5547" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Male" "Penile" 2758 "25-29 years" 8
+"5581" "United States of America" "National" "2008-2012" "Male" "Penile" 6193 "25-29 years" 20
+"5666" "Australia" "National" "2008-2012" "Male" "Anal" 751 "25-29 years" 4
+"5724" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Male" "Anal" 2095 "25-29 years" 5
+"5758" "United States of America" "National" "2008-2012" "Male" "Anal" 11132 "25-29 years" 50
+"5843" "Australia" "National" "2008-2012" "Female" "Anal" 1106 "25-29 years" 5
+"5901" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Anal" 3598 "25-29 years" 7
+"5935" "United States of America" "National" "2008-2012" "Female" "Anal" 18750 "25-29 years" 27
+"6020" "Australia" "National" "2008-2012" "Female" "Vulvar" 1574 "25-29 years" 11
+"6078" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Vulvar" 5999 "25-29 years" 21
+"6112" "United States of America" "National" "2008-2012" "Female" "Vulvar" 22152 "25-29 years" 132
+"6197" "Australia" "National" "2008-2012" "Female" "Vaginal" 360 "25-29 years" 3
+"6255" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Vaginal" 1323 "25-29 years" 9
+"6289" "United States of America" "National" "2008-2012" "Female" "Vaginal" 6299 "25-29 years" 27
+"6373" "Australia" "National" "2008-2012" "Female" "Cervical" 43 "30-34 years" 5
+"6374" "Australia" "National" "2008-2012" "Female" "Cervical" 4037 "30-34 years" 434
+"6375" "Australia" "National" "2008-2012" "Female" "Cervical" 446 "30-34 years" 50
+"6376" "Australia" "National" "2008-2012" "Female" "Cervical" 286 "30-34 years" 28
+"6432" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Cervical" 15526 "30-34 years" 1982
+"6466" "United States of America" "National" "2008-2012" "Female" "Cervical" 61857 "30-34 years" 5087
+"6551" "Australia" "National" "2008-2012" "Male" "Penile" 441 "30-34 years" 3
+"6609" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Male" "Penile" 2758 "30-34 years" 16
+"6643" "United States of America" "National" "2008-2012" "Male" "Penile" 6193 "30-34 years" 52
+"6728" "Australia" "National" "2008-2012" "Male" "Anal" 751 "30-34 years" 7
+"6786" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Male" "Anal" 2095 "30-34 years" 14
+"6820" "United States of America" "National" "2008-2012" "Male" "Anal" 11132 "30-34 years" 132
+"6905" "Australia" "National" "2008-2012" "Female" "Anal" 1106 "30-34 years" 5
+"6963" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Anal" 3598 "30-34 years" 26
+"6997" "United States of America" "National" "2008-2012" "Female" "Anal" 18750 "30-34 years" 91
+"7082" "Australia" "National" "2008-2012" "Female" "Vulvar" 1574 "30-34 years" 20
+"7140" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Vulvar" 5999 "30-34 years" 67
+"7174" "United States of America" "National" "2008-2012" "Female" "Vulvar" 22152 "30-34 years" 253
+"7259" "Australia" "National" "2008-2012" "Female" "Vaginal" 360 "30-34 years" 5
+"7317" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Vaginal" 1323 "30-34 years" 9
+"7351" "United States of America" "National" "2008-2012" "Female" "Vaginal" 6299 "30-34 years" 65
+"7435" "Australia" "National" "2008-2012" "Female" "Cervical" 43 "35-39 years" 6
+"7436" "Australia" "National" "2008-2012" "Female" "Cervical" 4037 "35-39 years" 506
+"7437" "Australia" "National" "2008-2012" "Female" "Cervical" 446 "35-39 years" 59
+"7438" "Australia" "National" "2008-2012" "Female" "Cervical" 286 "35-39 years" 42
+"7494" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Cervical" 15526 "35-39 years" 2049
+"7528" "United States of America" "National" "2008-2012" "Female" "Cervical" 61857 "35-39 years" 6952
+"7613" "Australia" "National" "2008-2012" "Male" "Penile" 441 "35-39 years" 14
+"7671" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Male" "Penile" 2758 "35-39 years" 48
+"7705" "United States of America" "National" "2008-2012" "Male" "Penile" 6193 "35-39 years" 107
+"7790" "Australia" "National" "2008-2012" "Male" "Anal" 751 "35-39 years" 14
+"7848" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Male" "Anal" 2095 "35-39 years" 38
+"7882" "United States of America" "National" "2008-2012" "Male" "Anal" 11132 "35-39 years" 303
+"7967" "Australia" "National" "2008-2012" "Female" "Anal" 1106 "35-39 years" 13
+"8025" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Anal" 3598 "35-39 years" 68
+"8059" "United States of America" "National" "2008-2012" "Female" "Anal" 18750 "35-39 years" 298
+"8144" "Australia" "National" "2008-2012" "Female" "Vulvar" 1574 "35-39 years" 41
+"8202" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Vulvar" 5999 "35-39 years" 125
+"8236" "United States of America" "National" "2008-2012" "Female" "Vulvar" 22152 "35-39 years" 527
+"8321" "Australia" "National" "2008-2012" "Female" "Vaginal" 360 "35-39 years" 3
+"8379" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Vaginal" 1323 "35-39 years" 31
+"8413" "United States of America" "National" "2008-2012" "Female" "Vaginal" 6299 "35-39 years" 99
+"8497" "Australia" "National" "2008-2012" "Female" "Cervical" 43 "40-44 years" 3
+"8498" "Australia" "National" "2008-2012" "Female" "Cervical" 4037 "40-44 years" 448
+"8499" "Australia" "National" "2008-2012" "Female" "Cervical" 446 "40-44 years" 55
+"8500" "Australia" "National" "2008-2012" "Female" "Cervical" 286 "40-44 years" 27
+"8556" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Cervical" 15526 "40-44 years" 1829
+"8590" "United States of America" "National" "2008-2012" "Female" "Cervical" 61857 "40-44 years" 7777
+"8675" "Australia" "National" "2008-2012" "Male" "Penile" 441 "40-44 years" 11
+"8733" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Male" "Penile" 2758 "40-44 years" 97
+"8767" "United States of America" "National" "2008-2012" "Male" "Penile" 6193 "40-44 years" 214
+"8852" "Australia" "National" "2008-2012" "Male" "Anal" 751 "40-44 years" 27
+"8910" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Male" "Anal" 2095 "40-44 years" 104
+"8944" "United States of America" "National" "2008-2012" "Male" "Anal" 11132 "40-44 years" 789
+"9029" "Australia" "National" "2008-2012" "Female" "Anal" 1106 "40-44 years" 47
+"9087" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Anal" 3598 "40-44 years" 153
+"9121" "United States of America" "National" "2008-2012" "Female" "Anal" 18750 "40-44 years" 748
+"9206" "Australia" "National" "2008-2012" "Female" "Vulvar" 1574 "40-44 years" 67
+"9264" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Vulvar" 5999 "40-44 years" 255
+"9298" "United States of America" "National" "2008-2012" "Female" "Vulvar" 22152 "40-44 years" 973
+"9383" "Australia" "National" "2008-2012" "Female" "Vaginal" 360 "40-44 years" 13
+"9441" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Vaginal" 1323 "40-44 years" 45
+"9475" "United States of America" "National" "2008-2012" "Female" "Vaginal" 6299 "40-44 years" 235
+"9559" "Australia" "National" "2008-2012" "Female" "Cervical" 43 "45-49 years" 8
+"9560" "Australia" "National" "2008-2012" "Female" "Cervical" 4037 "45-49 years" 424
+"9561" "Australia" "National" "2008-2012" "Female" "Cervical" 446 "45-49 years" 49
+"9562" "Australia" "National" "2008-2012" "Female" "Cervical" 286 "45-49 years" 27
+"9618" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Cervical" 15526 "45-49 years" 1368
+"9652" "United States of America" "National" "2008-2012" "Female" "Cervical" 61857 "45-49 years" 7843
+"9737" "Australia" "National" "2008-2012" "Male" "Penile" 441 "45-49 years" 27
+"9795" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Male" "Penile" 2758 "45-49 years" 180
+"9829" "United States of America" "National" "2008-2012" "Male" "Penile" 6193 "45-49 years" 340
+"9914" "Australia" "National" "2008-2012" "Male" "Anal" 751 "45-49 years" 65
+"9972" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Male" "Anal" 2095 "45-49 years" 142
+"10006" "United States of America" "National" "2008-2012" "Male" "Anal" 11132 "45-49 years" 1345
+"10091" "Australia" "National" "2008-2012" "Female" "Anal" 1106 "45-49 years" 100
+"10149" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Anal" 3598 "45-49 years" 251
+"10183" "United States of America" "National" "2008-2012" "Female" "Anal" 18750 "45-49 years" 1663
+"10268" "Australia" "National" "2008-2012" "Female" "Vulvar" 1574 "45-49 years" 109
+"10326" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Vulvar" 5999 "45-49 years" 347
+"10360" "United States of America" "National" "2008-2012" "Female" "Vulvar" 22152 "45-49 years" 1644
+"10445" "Australia" "National" "2008-2012" "Female" "Vaginal" 360 "45-49 years" 15
+"10503" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Vaginal" 1323 "45-49 years" 58
+"10537" "United States of America" "National" "2008-2012" "Female" "Vaginal" 6299 "45-49 years" 361
+"10621" "Australia" "National" "2008-2012" "Female" "Cervical" 43 "50-54 years" 3
+"10622" "Australia" "National" "2008-2012" "Female" "Cervical" 4037 "50-54 years" 368
+"10623" "Australia" "National" "2008-2012" "Female" "Cervical" 446 "50-54 years" 46
+"10624" "Australia" "National" "2008-2012" "Female" "Cervical" 286 "50-54 years" 25
+"10680" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Cervical" 15526 "50-54 years" 1010
+"10714" "United States of America" "National" "2008-2012" "Female" "Cervical" 61857 "50-54 years" 7081
+"10799" "Australia" "National" "2008-2012" "Male" "Penile" 441 "50-54 years" 26
+"10857" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Male" "Penile" 2758 "50-54 years" 213
+"10891" "United States of America" "National" "2008-2012" "Male" "Penile" 6193 "50-54 years" 416
+"10976" "Australia" "National" "2008-2012" "Male" "Anal" 751 "50-54 years" 89
+"11034" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Male" "Anal" 2095 "50-54 years" 189
+"11068" "United States of America" "National" "2008-2012" "Male" "Anal" 11132 "50-54 years" 1580
+"11153" "Australia" "National" "2008-2012" "Female" "Anal" 1106 "50-54 years" 145
+"11211" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Anal" 3598 "50-54 years" 373
+"11245" "United States of America" "National" "2008-2012" "Female" "Anal" 18750 "50-54 years" 2743
+"11330" "Australia" "National" "2008-2012" "Female" "Vulvar" 1574 "50-54 years" 149
+"11388" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Vulvar" 5999 "50-54 years" 391
+"11422" "United States of America" "National" "2008-2012" "Female" "Vulvar" 22152 "50-54 years" 2016
+"11507" "Australia" "National" "2008-2012" "Female" "Vaginal" 360 "50-54 years" 27
+"11565" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Vaginal" 1323 "50-54 years" 94
+"11599" "United States of America" "National" "2008-2012" "Female" "Vaginal" 6299 "50-54 years" 526
+"11683" "Australia" "National" "2008-2012" "Female" "Cervical" 43 "55-59 years" 2
+"11684" "Australia" "National" "2008-2012" "Female" "Cervical" 4037 "55-59 years" 327
+"11685" "Australia" "National" "2008-2012" "Female" "Cervical" 446 "55-59 years" 26
+"11686" "Australia" "National" "2008-2012" "Female" "Cervical" 286 "55-59 years" 19
+"11742" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Cervical" 15526 "55-59 years" 962
+"11776" "United States of America" "National" "2008-2012" "Female" "Cervical" 61857 "55-59 years" 6183
+"11861" "Australia" "National" "2008-2012" "Male" "Penile" 441 "55-59 years" 42
+"11919" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Male" "Penile" 2758 "55-59 years" 300
+"11953" "United States of America" "National" "2008-2012" "Male" "Penile" 6193 "55-59 years" 575
+"12038" "Australia" "National" "2008-2012" "Male" "Anal" 751 "55-59 years" 93
+"12096" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Male" "Anal" 2095 "55-59 years" 244
+"12130" "United States of America" "National" "2008-2012" "Male" "Anal" 11132 "55-59 years" 1565
+"12215" "Australia" "National" "2008-2012" "Female" "Anal" 1106 "55-59 years" 141
+"12273" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Anal" 3598 "55-59 years" 416
+"12307" "United States of America" "National" "2008-2012" "Female" "Anal" 18750 "55-59 years" 2862
+"12392" "Australia" "National" "2008-2012" "Female" "Vulvar" 1574 "55-59 years" 130
+"12450" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Vulvar" 5999 "55-59 years" 392
+"12484" "United States of America" "National" "2008-2012" "Female" "Vulvar" 22152 "55-59 years" 2124
+"12569" "Australia" "National" "2008-2012" "Female" "Vaginal" 360 "55-59 years" 40
+"12627" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Vaginal" 1323 "55-59 years" 134
+"12661" "United States of America" "National" "2008-2012" "Female" "Vaginal" 6299 "55-59 years" 641
+"12745" "Australia" "National" "2008-2012" "Female" "Cervical" 43 "60-64 years" 3
+"12746" "Australia" "National" "2008-2012" "Female" "Cervical" 4037 "60-64 years" 255
+"12747" "Australia" "National" "2008-2012" "Female" "Cervical" 446 "60-64 years" 24
+"12748" "Australia" "National" "2008-2012" "Female" "Cervical" 286 "60-64 years" 21
+"12804" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Cervical" 15526 "60-64 years" 847
+"12838" "United States of America" "National" "2008-2012" "Female" "Cervical" 61857 "60-64 years" 5226
+"12923" "Australia" "National" "2008-2012" "Male" "Penile" 441 "60-64 years" 48
+"12981" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Male" "Penile" 2758 "60-64 years" 337
+"13015" "United States of America" "National" "2008-2012" "Male" "Penile" 6193 "60-64 years" 748
+"13100" "Australia" "National" "2008-2012" "Male" "Anal" 751 "60-64 years" 106
+"13158" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Male" "Anal" 2095 "60-64 years" 308
+"13192" "United States of America" "National" "2008-2012" "Male" "Anal" 11132 "60-64 years" 1403
+"13277" "Australia" "National" "2008-2012" "Female" "Anal" 1106 "60-64 years" 131
+"13335" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Anal" 3598 "60-64 years" 482
+"13369" "United States of America" "National" "2008-2012" "Female" "Anal" 18750 "60-64 years" 2630
+"13454" "Australia" "National" "2008-2012" "Female" "Vulvar" 1574 "60-64 years" 149
+"13512" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Vulvar" 5999 "60-64 years" 634
+"13546" "United States of America" "National" "2008-2012" "Female" "Vulvar" 22152 "60-64 years" 2114
+"13631" "Australia" "National" "2008-2012" "Female" "Vaginal" 360 "60-64 years" 43
+"13689" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Vaginal" 1323 "60-64 years" 154
+"13723" "United States of America" "National" "2008-2012" "Female" "Vaginal" 6299 "60-64 years" 743
+"13807" "Australia" "National" "2008-2012" "Female" "Cervical" 43 "65-69 years" 3
+"13808" "Australia" "National" "2008-2012" "Female" "Cervical" 4037 "65-69 years" 224
+"13809" "Australia" "National" "2008-2012" "Female" "Cervical" 446 "65-69 years" 20
+"13810" "Australia" "National" "2008-2012" "Female" "Cervical" 286 "65-69 years" 16
+"13866" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Cervical" 15526 "65-69 years" 689
+"13900" "United States of America" "National" "2008-2012" "Female" "Cervical" 61857 "65-69 years" 4008
+"13985" "Australia" "National" "2008-2012" "Male" "Penile" 441 "65-69 years" 43
+"14043" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Male" "Penile" 2758 "65-69 years" 345
+"14077" "United States of America" "National" "2008-2012" "Male" "Penile" 6193 "65-69 years" 797
+"14162" "Australia" "National" "2008-2012" "Male" "Anal" 751 "65-69 years" 89
+"14220" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Male" "Anal" 2095 "65-69 years" 285
+"14254" "United States of America" "National" "2008-2012" "Male" "Anal" 11132 "65-69 years" 1244
+"14339" "Australia" "National" "2008-2012" "Female" "Anal" 1106 "65-69 years" 141
+"14397" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Anal" 3598 "65-69 years" 398
+"14431" "United States of America" "National" "2008-2012" "Female" "Anal" 18750 "65-69 years" 2141
+"14516" "Australia" "National" "2008-2012" "Female" "Vulvar" 1574 "65-69 years" 191
+"14574" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Vulvar" 5999 "65-69 years" 809
+"14608" "United States of America" "National" "2008-2012" "Female" "Vulvar" 22152 "65-69 years" 2302
+"14693" "Australia" "National" "2008-2012" "Female" "Vaginal" 360 "65-69 years" 42
+"14751" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Vaginal" 1323 "65-69 years" 152
+"14785" "United States of America" "National" "2008-2012" "Female" "Vaginal" 6299 "65-69 years" 719
+"14869" "Australia" "National" "2008-2012" "Female" "Cervical" 43 "70-74 years" 4
+"14870" "Australia" "National" "2008-2012" "Female" "Cervical" 4037 "70-74 years" 195
+"14871" "Australia" "National" "2008-2012" "Female" "Cervical" 446 "70-74 years" 20
+"14872" "Australia" "National" "2008-2012" "Female" "Cervical" 286 "70-74 years" 12
+"14928" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Cervical" 15526 "70-74 years" 635
+"14962" "United States of America" "National" "2008-2012" "Female" "Cervical" 61857 "70-74 years" 2888
+"15047" "Australia" "National" "2008-2012" "Male" "Penile" 441 "70-74 years" 72
+"15105" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Male" "Penile" 2758 "70-74 years" 380
+"15139" "United States of America" "National" "2008-2012" "Male" "Penile" 6193 "70-74 years" 846
+"15224" "Australia" "National" "2008-2012" "Male" "Anal" 751 "70-74 years" 85
+"15282" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Male" "Anal" 2095 "70-74 years" 261
+"15316" "United States of America" "National" "2008-2012" "Male" "Anal" 11132 "70-74 years" 903
+"15401" "Australia" "National" "2008-2012" "Female" "Anal" 1106 "70-74 years" 99
+"15459" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Anal" 3598 "70-74 years" 437
+"15493" "United States of America" "National" "2008-2012" "Female" "Anal" 18750 "70-74 years" 1665
+"15578" "Australia" "National" "2008-2012" "Female" "Vulvar" 1574 "70-74 years" 163
+"15636" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Vulvar" 5999 "70-74 years" 797
+"15670" "United States of America" "National" "2008-2012" "Female" "Vulvar" 22152 "70-74 years" 2371
+"15755" "Australia" "National" "2008-2012" "Female" "Vaginal" 360 "70-74 years" 43
+"15813" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Vaginal" 1323 "70-74 years" 149
+"15847" "United States of America" "National" "2008-2012" "Female" "Vaginal" 6299 "70-74 years" 702
+"15931" "Australia" "National" "2008-2012" "Female" "Cervical" 43 "75+ years" 3
+"15932" "Australia" "National" "2008-2012" "Female" "Cervical" 4037 "75+ years" 455
+"15933" "Australia" "National" "2008-2012" "Female" "Cervical" 446 "75+ years" 44
+"15934" "Australia" "National" "2008-2012" "Female" "Cervical" 286 "75+ years" 36
+"15990" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Cervical" 15526 "75+ years" 1796
+"16024" "United States of America" "National" "2008-2012" "Female" "Cervical" 61857 "75+ years" 5347
+"16109" "Australia" "National" "2008-2012" "Male" "Penile" 441 "75+ years" 57
+"16167" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Male" "Penile" 2758 "75+ years" 336
+"16201" "United States of America" "National" "2008-2012" "Male" "Penile" 6193 "75+ years" 764
+"16286" "Australia" "National" "2008-2012" "Male" "Anal" 751 "75+ years" 67
+"16344" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Male" "Anal" 2095 "75+ years" 226
+"16378" "United States of America" "National" "2008-2012" "Male" "Anal" 11132 "75+ years" 723
+"16463" "Australia" "National" "2008-2012" "Female" "Anal" 1106 "75+ years" 94
+"16521" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Anal" 3598 "75+ years" 358
+"16555" "United States of America" "National" "2008-2012" "Female" "Anal" 18750 "75+ years" 1382
+"16640" "Australia" "National" "2008-2012" "Female" "Vulvar" 1574 "75+ years" 245
+"16698" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Vulvar" 5999 "75+ years" 1104
+"16732" "United States of America" "National" "2008-2012" "Female" "Vulvar" 22152 "75+ years" 3154
+"16817" "Australia" "National" "2008-2012" "Female" "Vaginal" 360 "75+ years" 39
+"16875" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Vaginal" 1323 "75+ years" 132
+"16909" "United States of America" "National" "2008-2012" "Female" "Vaginal" 6299 "75+ years" 674
+"16993" "Australia" "National" "2008-2012" "Female" "Cervical" 43 "75-79 years" 0
+"16994" "Australia" "National" "2008-2012" "Female" "Cervical" 4037 "75-79 years" 158
+"16995" "Australia" "National" "2008-2012" "Female" "Cervical" 446 "75-79 years" 10
+"16996" "Australia" "National" "2008-2012" "Female" "Cervical" 286 "75-79 years" 13
+"17052" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Cervical" 15526 "75-79 years" 667
+"17086" "United States of America" "National" "2008-2012" "Female" "Cervical" 61857 "75-79 years" 2098
+"17171" "Australia" "National" "2008-2012" "Male" "Penile" 441 "75-79 years" 55
+"17229" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Male" "Penile" 2758 "75-79 years" 268
+"17263" "United States of America" "National" "2008-2012" "Male" "Penile" 6193 "75-79 years" 680
+"17348" "Australia" "National" "2008-2012" "Male" "Anal" 751 "75-79 years" 55
+"17406" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Male" "Anal" 2095 "75-79 years" 159
+"17440" "United States of America" "National" "2008-2012" "Male" "Anal" 11132 "75-79 years" 595
+"17525" "Australia" "National" "2008-2012" "Female" "Anal" 1106 "75-79 years" 97
+"17583" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Anal" 3598 "75-79 years" 306
+"17617" "United States of America" "National" "2008-2012" "Female" "Anal" 18750 "75-79 years" 1261
+"17702" "Australia" "National" "2008-2012" "Female" "Vulvar" 1574 "75-79 years" 0
+"17760" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Vulvar" 5999 "75-79 years" 0
+"17794" "United States of America" "National" "2008-2012" "Female" "Vulvar" 22152 "75-79 years" 0
+"17879" "Australia" "National" "2008-2012" "Female" "Vaginal" 360 "75-79 years" 31
+"17937" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Vaginal" 1323 "75-79 years" 136
+"17971" "United States of America" "National" "2008-2012" "Female" "Vaginal" 6299 "75-79 years" 657
+"18055" "Australia" "National" "2008-2012" "Female" "Cervical" 43 "80+ years" 3
+"18056" "Australia" "National" "2008-2012" "Female" "Cervical" 4037 "80+ years" 297
+"18057" "Australia" "National" "2008-2012" "Female" "Cervical" 446 "80+ years" 34
+"18058" "Australia" "National" "2008-2012" "Female" "Cervical" 286 "80+ years" 23
+"18114" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Cervical" 15526 "80+ years" 1129
+"18148" "United States of America" "National" "2008-2012" "Female" "Cervical" 61857 "80+ years" 3249
+"18233" "Australia" "National" "2008-2012" "Male" "Penile" 441 "80+ years" 40
+"18291" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Male" "Penile" 2758 "80+ years" 225
+"18325" "United States of America" "National" "2008-2012" "Male" "Penile" 6193 "80+ years" 624
+"18410" "Australia" "National" "2008-2012" "Male" "Anal" 751 "80+ years" 49
+"18468" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Male" "Anal" 2095 "80+ years" 117
+"18502" "United States of America" "National" "2008-2012" "Male" "Anal" 11132 "80+ years" 478
+"18587" "Australia" "National" "2008-2012" "Female" "Anal" 1106 "80+ years" 86
+"18645" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Anal" 3598 "80+ years" 320
+"18679" "United States of America" "National" "2008-2012" "Female" "Anal" 18750 "80+ years" 1228
+"18764" "Australia" "National" "2008-2012" "Female" "Vulvar" 1574 "80+ years" NA
+"18822" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Vulvar" 5999 "80+ years" NA
+"18856" "United States of America" "National" "2008-2012" "Female" "Vulvar" 22152 "80+ years" NA
+"18941" "Australia" "National" "2008-2012" "Female" "Vaginal" 360 "80+ years" 52
+"18999" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Vaginal" 1323 "80+ years" 209
+"19033" "United States of America" "National" "2008-2012" "Female" "Vaginal" 6299 "80+ years" 800
+"19117" "Australia" "National" "2008-2012" "Female" "Cervical" 43 "80-84 years" 2
+"19118" "Australia" "National" "2008-2012" "Female" "Cervical" 4037 "80-84 years" 139
+"19119" "Australia" "National" "2008-2012" "Female" "Cervical" 446 "80-84 years" 15
+"19120" "Australia" "National" "2008-2012" "Female" "Cervical" 286 "80-84 years" 14
+"19176" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Cervical" 15526 "80-84 years" 553
+"19210" "United States of America" "National" "2008-2012" "Female" "Cervical" 61857 "80-84 years" 1619
+"19295" "Australia" "National" "2008-2012" "Male" "Penile" 441 "80-84 years" 0
+"19353" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Male" "Penile" 2758 "80-84 years" 0
+"19387" "United States of America" "National" "2008-2012" "Male" "Penile" 6193 "80-84 years" 0
+"19472" "Australia" "National" "2008-2012" "Male" "Anal" 751 "80-84 years" 0
+"19530" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Male" "Anal" 2095 "80-84 years" 0
+"19564" "United States of America" "National" "2008-2012" "Male" "Anal" 11132 "80-84 years" 0
+"19649" "Australia" "National" "2008-2012" "Female" "Anal" 1106 "80-84 years" 0
+"19707" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Anal" 3598 "80-84 years" 0
+"19741" "United States of America" "National" "2008-2012" "Female" "Anal" 18750 "80-84 years" 0
+"19826" "Australia" "National" "2008-2012" "Female" "Vulvar" 1574 "80-84 years" NA
+"19884" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Vulvar" 5999 "80-84 years" NA
+"19918" "United States of America" "National" "2008-2012" "Female" "Vulvar" 22152 "80-84 years" NA
+"20003" "Australia" "National" "2008-2012" "Female" "Vaginal" 360 "80-84 years" 0
+"20061" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Vaginal" 1323 "80-84 years" 0
+"20095" "United States of America" "National" "2008-2012" "Female" "Vaginal" 6299 "80-84 years" 0
+"20179" "Australia" "National" "2008-2012" "Female" "Cervical" 43 "85+ years" 1
+"20180" "Australia" "National" "2008-2012" "Female" "Cervical" 4037 "85+ years" 158
+"20181" "Australia" "National" "2008-2012" "Female" "Cervical" 446 "85+ years" 19
+"20182" "Australia" "National" "2008-2012" "Female" "Cervical" 286 "85+ years" 9
+"20238" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Cervical" 15526 "85+ years" 576
+"20272" "United States of America" "National" "2008-2012" "Female" "Cervical" 61857 "85+ years" 1630
+"20357" "Australia" "National" "2008-2012" "Male" "Penile" 441 "85+ years" NA
+"20415" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Male" "Penile" 2758 "85+ years" NA
+"20449" "United States of America" "National" "2008-2012" "Male" "Penile" 6193 "85+ years" NA
+"20534" "Australia" "National" "2008-2012" "Male" "Anal" 751 "85+ years" NA
+"20592" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Male" "Anal" 2095 "85+ years" NA
+"20626" "United States of America" "National" "2008-2012" "Male" "Anal" 11132 "85+ years" NA
+"20711" "Australia" "National" "2008-2012" "Female" "Anal" 1106 "85+ years" NA
+"20769" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Anal" 3598 "85+ years" NA
+"20803" "United States of America" "National" "2008-2012" "Female" "Anal" 18750 "85+ years" NA
+"20888" "Australia" "National" "2008-2012" "Female" "Vulvar" 1574 "85+ years" NA
+"20946" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Vulvar" 5999 "85+ years" NA
+"20980" "United States of America" "National" "2008-2012" "Female" "Vulvar" 22152 "85+ years" NA
+"21065" "Australia" "National" "2008-2012" "Female" "Vaginal" 360 "85+ years" NA
+"21123" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Vaginal" 1323 "85+ years" NA
+"21157" "United States of America" "National" "2008-2012" "Female" "Vaginal" 6299 "85+ years" NA
+"21241" "Australia" "National" "2008-2012" "Female" "Cervical" 43 "age unknown" 0
+"21242" "Australia" "National" "2008-2012" "Female" "Cervical" 4037 "age unknown" 0
+"21243" "Australia" "National" "2008-2012" "Female" "Cervical" 446 "age unknown" 0
+"21244" "Australia" "National" "2008-2012" "Female" "Cervical" 286 "age unknown" 0
+"21300" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Cervical" 15526 "age unknown" 0
+"21334" "United States of America" "National" "2008-2012" "Female" "Cervical" 61857 "age unknown" 0
+"21419" "Australia" "National" "2008-2012" "Male" "Penile" 441 "age unknown" NA
+"21477" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Male" "Penile" 2758 "age unknown" NA
+"21511" "United States of America" "National" "2008-2012" "Male" "Penile" 6193 "age unknown" NA
+"21596" "Australia" "National" "2008-2012" "Male" "Anal" 751 "age unknown" NA
+"21654" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Male" "Anal" 2095 "age unknown" NA
+"21688" "United States of America" "National" "2008-2012" "Male" "Anal" 11132 "age unknown" NA
+"21773" "Australia" "National" "2008-2012" "Female" "Anal" 1106 "age unknown" NA
+"21831" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Anal" 3598 "age unknown" NA
+"21865" "United States of America" "National" "2008-2012" "Female" "Anal" 18750 "age unknown" NA
+"21950" "Australia" "National" "2008-2012" "Female" "Vulvar" 1574 "age unknown" NA
+"22008" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Vulvar" 5999 "age unknown" NA
+"22042" "United States of America" "National" "2008-2012" "Female" "Vulvar" 22152 "age unknown" NA
+"22127" "Australia" "National" "2008-2012" "Female" "Vaginal" 360 "age unknown" NA
+"22185" "United Kingdom of Great Britain and Northern Ireland" "National" "2008-2012" "Female" "Vaginal" 1323 "age unknown" NA
+"22219" "United States of America" "National" "2008-2012" "Female" "Vaginal" 6299 "age unknown" NA
