@@ -41,6 +41,7 @@ dashboardPage(
                )
     )
   ),
+  
   dashboardBody(
      tabItems(
       tabItem(tabName = "Dashboard",
@@ -170,9 +171,28 @@ dashboardPage(
                       rectum, pain in the area of the anus, a mass or growth in the 
                       anal canal, and anal itching.")
                   )
+                ), 
+                box(
+                  title      = "Gardasil Vaccine", 
+                  width      = 12, 
+                  background = "teal", 
+                  p("The Gardasil-9 vaccine protects against HPV types 6, 11, 16, 
+                    18, 31, 33, 45, 52, and 58. These nine types of HPV are responsible
+                    for the majority of HPV-related cancers. The CDC recommends the 
+                    HPV vaccination for both boys and girls at age 11 or 12. "), 
+                  br(), 
+                  p("Australia is set to eliminate cervical cancer by 2035. Since 
+                    virtually all cases of cervical cancer are due to HPV infection
+                    cervical cancer is the only preventable cancer (thanks to 
+                    Gardasil-9). Australia has implemented an intensive HPV vaccination
+                    program and changes to the National Cervical Screening Program in
+                    order to reduce rates of HPV infection and cervical cancer. By 2022, 
+                    cervical cancer rates are projected to be less than 6 in 100,000, 
+                    making cervical cancer a rare cancer. By 2035, rates are projected 
+                    to have dropped below 4 in 100,000.")
                 )
               )
-            ),
+      ),
       
       tabItem(tabname = "HPV_Types",
               sidebarLayout(
@@ -192,7 +212,7 @@ dashboardPage(
                   plotOutput("Country_bar")
                 )
               )
-            ),
+      ),
 
       tabItem(tabName = "Related_cancers",
               sidebarLayout(
@@ -211,7 +231,6 @@ dashboardPage(
                     choices  = unique(HPV_cancers$cancer_type),
                     multiple = FALSE,
                     selected = "Cervical"
-
                   ),
 
                   selectizeInput(
@@ -220,7 +239,6 @@ dashboardPage(
                     choices  = unique(HPV_cancers$age_range),
                     multiple = TRUE,
                     selected = unique(HPV_cancers$age_range)
-
                   )
                 ),
 
@@ -228,7 +246,7 @@ dashboardPage(
                   plotOutput("Cancer_bar")
                 )
               )
-            ),
+      ),
 
       tabItem(tabName = "Cervical_cancer",
               sidebarLayout(
@@ -247,7 +265,6 @@ dashboardPage(
                     choices  = unique(HPV_cervicalcancers$age_range),
                     multiple = TRUE,
                     selected = unique(HPV_cervicalcancers$age_range)
-
                   )
                 ),
 
@@ -255,7 +272,7 @@ dashboardPage(
                   plotOutput("Cervical_cancer_bar")
                 )
               )
-            ),
+      ),
       
       tabItem(tabName = "Age_country",
               sidebarLayout(
@@ -274,7 +291,6 @@ dashboardPage(
                     choices  = unique(HPV_cancers$cancer_type),
                     multiple = TRUE,
                     selected = unique(HPV_cancers$cancer_type)
-                    
                   ),
                   
                   selectizeInput(
@@ -283,7 +299,6 @@ dashboardPage(
                     choices  = unique(HPV_cancers$age_range),
                     multiple = TRUE,
                     selected = unique(HPV_cancers$age_range)
-                    
                   )
                 ),
                 
@@ -291,7 +306,7 @@ dashboardPage(
                   plotOutput("Age_bar")
                 )
               )
-            ),
+      ),
       
       tabItem(tabName = "Resources", 
               fluidRow(
@@ -305,10 +320,11 @@ dashboardPage(
                   p("HPV Information Centre"), 
                   p("Mayo Clinic"),
                   p("Planned Parenthood"), 
-                  p("Urology Care Foundation")
+                  p("Urology Care Foundation"), 
+                  p("Gardasil 9")
                 )
               )
-            )
-          )
-        )
       )
+     )
+  )
+)

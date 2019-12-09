@@ -19,7 +19,7 @@ function(input, output) {
         filter(Type      == input$chosen_type)    %>%
         filter(Histology == "Any Histology")      %>%
         ggplot(aes_string("Country", "Prevalence"))       +
-        geom_bar(stat     = 'identity')                   +
+        geom_bar(stat     = 'identity', fill  = "#F8AE9E")+
         theme(axis.text.x = element_text(size = 9, angle = 90, hjust = 1))
     }
    })
