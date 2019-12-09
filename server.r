@@ -32,6 +32,18 @@ function(input, output) {
       selectInput('chosen_type', "Choose Type", choices = unique(HPV_Prevalence$Type))
     }
    })
+   
+   output$Cervical_cancer_bar <- renderPlot({
+     
+     HPV_cervicalcancers                             %>%
+       filter(country %in% input$country_choice_cer) %>%
+       filter(age_range %in% input$ages_cer)         %>%
+       ggplot(aes_string("country", "number_of_cases", fill = "age_range")) +
+       geom_col(alpha    = 0.8)+
+       theme(axis.text.x = element_text(size = 9, angle = 60, hjust = 1)) +
+       labs(y = "Number of Cases", x = "Country",      fill = "Age Range")
+     
+   })
 
   output$Cancer_bar <- renderPlot({
     HPV_cancers                                 %>%
@@ -45,24 +57,12 @@ function(input, output) {
       
   })
   
-  output$Cervical_cancer_bar <- renderPlot({
-
-    HPV_cervicalcancers                             %>%
-      filter(country %in% input$country_choice_cer) %>%
-      filter(age_range %in% input$ages_cer)         %>%
-      ggplot(aes_string("country", "number_of_cases", fill = "age_range")) +
-      geom_col(alpha    = 0.8)+
-      theme(axis.text.x = element_text(size = 9, angle = 60, hjust = 1)) +
-      labs(y = "Number of Cases", x = "Country",      fill = "Age Range")
-
-  })
-  
   output$Age_bar <- renderPlot({
     
     HPV_cancers                                      %>%
       filter(country %in% input$country_choice_coun) %>%
       filter(age_range %in% input$ages_coun)         %>%
-      filter(cancer_type %in% input$cancers_coun)         %>%
+      filter(cancer_type %in% input$cancers_coun)    %>%
       ggplot(aes_string("age_range", "number_of_cases", fill = "cancer_type")) +
       geom_col(alpha    = 0.8)+
       theme(axis.text.x = element_text(size = 9, angle = 60, hjust = 1)) +
