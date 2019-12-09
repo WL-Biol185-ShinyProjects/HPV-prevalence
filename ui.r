@@ -1,12 +1,7 @@
-<<<<<<< HEAD
-read.csv("HPV_Prevalence.csv")
-read.csv("HPV_cancers.csv")
-read.csv("HPV_cervicalcancers.csv")
-=======
 read.csv("HPV_Prevalence.txt")
 read.csv("HPV_cancers.txt")
 read.csv("HPV_cervicalcancers.txt")
->>>>>>> 031bfeafc601af2cd68c09122c9d6d6f440872f6
+
 
 library(shiny)
 library(shinydashboard)
