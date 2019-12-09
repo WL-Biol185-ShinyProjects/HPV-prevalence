@@ -182,7 +182,7 @@ dashboardPage(
                   ),
                   
                   uiOutput("Choice")
-                ),
+                  ),
                 
                 mainPanel(
                   plotOutput("Country_bar")
