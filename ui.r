@@ -230,8 +230,8 @@ dashboardPage(
                     inputId  = "ages_cer",
                     label    = "Age Range",
                     choices  = unique(HPV_cervicalcancers$age_range),
-                    multiple = FALSE,
-                    selected = "15-39 years"
+                    multiple = TRUE,
+                    selected = unique(HPV_cervicalcancers$age_range)
                   )
                 ),
 
