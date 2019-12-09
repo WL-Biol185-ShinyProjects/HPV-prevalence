@@ -1,4 +1,4 @@
-#load(file = ".RData")
+load(file = ".RData")
 
 library(shiny)
 library(shinydashboard)
