@@ -1,0 +1,2945 @@
+V1,Country,Ranking,Type,Cases,Prevalence,Histology
+1,Algeria,1st,16,181,60.2,Any Histology
+2,Algeria,2nd,18,181,16.6,Any Histology
+3,Algeria,3rd,45,181,6.1,Any Histology
+4,Algeria,4th,33,181,4.4,Any Histology
+5,Algeria,5th,35,181,3.9,Any Histology
+6,Algeria,6th,66,181,2.8,Any Histology
+7,Algeria,7th,31,181,2.2,Any Histology
+8,Algeria,8th,39,181,2.2,Any Histology
+9,Algeria,9th,56,181,1.7,Any Histology
+10,Algeria,10th,73,181,1.7,Any Histology
+11,Argentina,1st,16,267,61.4,Any Histology
+12,Argentina,2nd,18,267,16.5,Any Histology
+13,Argentina,3rd,45,54,5.6,Any Histology
+14,Argentina,4th,51,89,5.6,Any Histology
+15,Argentina,5th,31,128,4.7,Any Histology
+16,Argentina,6th,39,54,3.7,Any Histology
+17,Argentina,7th,33,128,2.3,Any Histology
+18,Argentina,8th,59,54,1.9,Any Histology
+19,Argentina,9th,52,54,1.9,Any Histology
+20,Argentina,10th,58,54,1.9,Any Histology
+21,Australia,1st,16,785,56.8,Any Histology
+22,Australia,2nd,18,785,19.2,Any Histology
+23,Australia,3rd,45,512,5.5,Any Histology
+24,Australia,4th,39,462,2.2,Any Histology
+25,Australia,5th,35,462,1.7,Any Histology
+26,Australia,6th,53,383,1.6,Any Histology
+27,Australia,7th,33,565,1.6,Any Histology
+28,Australia,8th,73,462,1.5,Any Histology
+29,Australia,9th,31,565,1.2,Any Histology
+30,Australia,10th,52,565,0.9,Any Histology
+31,Austria,1st,16,200,70,Any Histology
+32,Austria,2nd,33,200,21.5,Any Histology
+33,Austria,3rd,18,200,8.5,Any Histology
+34,Austria,4th,45,200,4.5,Any Histology
+35,Austria,5th,31,200,4,Any Histology
+36,Austria,6th,73,106,2.8,Any Histology
+37,Austria,7th,58,200,2,Any Histology
+38,Austria,8th,51,94,1.1,Any Histology
+39,Austria,9th,35,106,0.9,Any Histology
+40,Austria,10th,56,106,0.9,Any Histology
+41,Belarus,1st,16,26,65.4,Any Histology
+42,Belarus,2nd,31,26,3.8,Any Histology
+43,Belgium,1st,16,111,68.5,Any Histology
+44,Belgium,2nd,18,111,12.6,Any Histology
+45,Belgium,3rd,33,111,1.8,Any Histology
+46,Belgium,4th,31,111,1.8,Any Histology
+47,Belgium,5th,45,111,1.8,Any Histology
+48,Belgium,6th,56,111,0.9,Any Histology
+49,Belgium,7th,66,111,0.9,Any Histology
+50,Bolivia,1st,16,45,35.6,Any Histology
+51,Bolivia,2nd,31,45,24.4,Any Histology
+52,Bolivia,3rd,45,45,8.9,Any Histology
+53,Bolivia,4th,26,45,4.4,Any Histology
+54,Bolivia,5th,52,45,4.4,Any Histology
+55,Bolivia,6th,18,45,4.4,Any Histology
+56,Bolivia,7th,58,45,2.2,Any Histology
+57,Bolivia,8th,59,45,2.2,Any Histology
+58,Bosnia,1st,16,297,59.3,Any Histology
+59,Bosnia,2nd,18,297,8.8,Any Histology
+60,Bosnia,3rd,45,297,3.7,Any Histology
+61,Bosnia,4th,33,297,2.7,Any Histology
+62,Bosnia,5th,51,297,2,Any Histology
+63,Bosnia,6th,31,297,2,Any Histology
+64,Bosnia,7th,56,297,1.7,Any Histology
+65,Bosnia,8th,58,297,1.3,Any Histology
+66,Bosnia,9th,35,297,1,Any Histology
+67,Bosnia,10th,39,297,1,Any Histology
+68,Botswana,1st,16,117,32.5,Any Histology
+69,Botswana,2nd,18,117,20.5,Any Histology
+70,Botswana,3rd,45,117,8.5,Any Histology
+71,Botswana,4th,26,117,4.3,Any Histology
+72,Botswana,5th,33,117,4.3,Any Histology
+73,Botswana,6th,52,117,3.4,Any Histology
+74,Botswana,7th,35,117,3.4,Any Histology
+75,Botswana,8th,39,117,2.6,Any Histology
+76,Botswana,9th,51,117,2.6,Any Histology
+77,Botswana,10th,58,117,1.7,Any Histology
+78,Brazil,1st,16,1364,52.8,Any Histology
+79,Brazil,2nd,18,1364,15.4,Any Histology
+80,Brazil,3rd,45,1087,5,Any Histology
+81,Brazil,4th,33,1135,4.8,Any Histology
+82,Brazil,5th,31,1135,4.6,Any Histology
+83,Brazil,6th,35,1087,3.9,Any Histology
+84,Brazil,7th,58,1135,2.2,Any Histology
+85,Brazil,8th,52,1135,1.7,Any Histology
+86,Brazil,9th,39,1087,1,Any Histology
+87,Brazil,10th,51,1135,1,Any Histology
+88,Bulgaria,1st,16,127,70.9,Any Histology
+89,Bulgaria,2nd,18,127,9.4,Any Histology
+90,Canada,1st,16,169,47.9,Any Histology
+91,Canada,2nd,18,169,26,Any Histology
+92,Canada,3rd,45,93,8.6,Any Histology
+93,Canada,4th,52,93,3.2,Any Histology
+94,Canada,5th,33,169,2.4,Any Histology
+95,Canada,6th,56,93,2.2,Any Histology
+96,Canada,7th,31,169,1.2,Any Histology
+97,Canada,8th,73,93,1.1,Any Histology
+98,Canada,9th,39,93,1.1,Any Histology
+99,Canada,10th,68,93,1.1,Any Histology
+100,Chile,1st,16,457,68.9,Any Histology
+101,Chile,2nd,18,457,17.5,Any Histology
+102,Chile,3rd,31,457,8.3,Any Histology
+103,Chile,4th,45,457,4.4,Any Histology
+104,Chile,5th,33,457,3.5,Any Histology
+105,Chile,6th,58,457,2.4,Any Histology
+106,Chile,7th,66,457,2.2,Any Histology
+107,Chile,8th,52,457,1.8,Any Histology
+108,Chile,9th,39,457,1.8,Any Histology
+109,Chile,10th,59,457,1.5,Any Histology
+110,China,1st,16,6435,59.5,Any Histology
+111,China,2nd,18,6343,9.6,Any Histology
+112,China,3rd,58,6343,8.2,Any Histology
+113,China,4th,52,6120,6.5,Any Histology
+114,China,5th,33,5468,3.5,Any Histology
+115,China,6th,31,5484,2.8,Any Histology
+116,China,7th,59,4926,2.6,Any Histology
+117,China,8th,45,2846,1.9,Any Histology
+118,China,9th,39,4782,1.5,Any Histology
+119,China,10th,56,3852,1.1,Any Histology
+120,Colombia,1st,16,425,52.9,Any Histology
+121,Colombia,2nd,18,366,9.3,Any Histology
+122,Colombia,3rd,31,366,6,Any Histology
+123,Colombia,4th,45,366,5.7,Any Histology
+124,Colombia,5th,58,366,3.8,Any Histology
+125,Colombia,6th,26,366,3.3,Any Histology
+126,Colombia,7th,33,366,3,Any Histology
+127,Colombia,8th,35,366,2.7,Any Histology
+128,Colombia,9th,56,366,1.9,Any Histology
+129,Colombia,10th,59,366,1.9,Any Histology
+130,Costa Rica,1st,16,35,45.7,Any Histology
+131,Costa Rica,2nd,18,35,17.1,Any Histology
+132,Costa Rica,3rd,58,35,11.4,Any Histology
+133,Costa Rica,4th,33,35,8.6,Any Histology
+134,Costa Rica,5th,52,35,8.6,Any Histology
+135,Costa Rica,6th,70,35,5.7,Any Histology
+136,Costa Rica,7th,45,35,5.7,Any Histology
+137,Costa Rica,8th,31,35,5.7,Any Histology
+138,Costa Rica,9th,39,35,2.9,Any Histology
+139,Costa Rica,10th,66,35,2.9,Any Histology
+140,Croatia,1st,16,117,44.4,Any Histology
+141,Croatia,2nd,18,117,38.5,Any Histology
+142,Croatia,3rd,51,51,17.6,Any Histology
+143,Croatia,4th,31,117,11.1,Any Histology
+144,Croatia,5th,33,117,7.7,Any Histology
+145,Croatia,6th,45,117,2.6,Any Histology
+146,Cuba,1st,16,41,56.1,Any Histology
+147,Cuba,2nd,18,41,7.3,Any Histology
+148,Cuba,3rd,31,41,4.9,Any Histology
+149,Cuba,4th,39,41,4.9,Any Histology
+150,Cuba,5th,45,41,4.9,Any Histology
+151,Cuba,6th,56,41,2.4,Any Histology
+152,Cuba,7th,59,41,2.4,Any Histology
+153,Cuba,8th,51,41,2.4,Any Histology
+154,Cuba,9th,52,41,2.4,Any Histology
+155,Czech Republic,1st,16,270,68.5,Any Histology
+156,Czech Republic,2nd,18,270,10.7,Any Histology
+157,Czech Republic,3rd,33,221,8.1,Any Histology
+158,Czech Republic,4th,45,221,7.7,Any Histology
+159,Czech Republic,5th,31,221,6.3,Any Histology
+160,Czech Republic,6th,58,221,3.2,Any Histology
+161,Czech Republic,7th,39,221,1.8,Any Histology
+162,Czech Republic,8th,56,221,1.8,Any Histology
+163,Czech Republic,9th,73,221,1.4,Any Histology
+164,Czech Republic,10th,53,221,0.9,Any Histology
+165,Denmark,1st,16,348,55.5,Any Histology
+166,Denmark,2nd,18,348,18.7,Any Histology
+167,Denmark,3rd,45,298,7,Any Histology
+168,Denmark,4th,33,348,5.2,Any Histology
+169,Denmark,5th,31,298,3.7,Any Histology
+170,Denmark,6th,52,264,2.7,Any Histology
+171,Denmark,7th,39,264,1.9,Any Histology
+172,Denmark,8th,51,264,1.5,Any Histology
+173,Denmark,9th,68,264,1.1,Any Histology
+174,Denmark,10th,66,264,1.1,Any Histology
+175,Ecuador,1st,16,58,37.9,Any Histology
+176,Ecuador,2nd,58,58,27.6,Any Histology
+177,Ecuador,3rd,52,58,12.1,Any Histology
+178,Ecuador,4th,31,58,10.3,Any Histology
+179,Ecuador,5th,66,58,6.9,Any Histology
+180,Ecuador,6th,68,58,3.4,Any Histology
+181,Ecuador,7th,59,58,3.4,Any Histology
+182,Ecuador,8th,35,58,3.4,Any Histology
+183,Ecuador,9th,39,58,3.4,Any Histology
+184,Ecuador,10th,45,58,1.7,Any Histology
+185,Ethiopia,1st,16,291,78.4,Any Histology
+186,Ethiopia,2nd,18,291,18.2,Any Histology
+187,Ethiopia,3rd,52,291,10,Any Histology
+188,Ethiopia,4th,58,291,9.6,Any Histology
+189,Ethiopia,5th,45,291,6.5,Any Histology
+190,Ethiopia,6th,33,128,6.3,Any Histology
+191,Ethiopia,7th,35,128,3.9,Any Histology
+192,Ethiopia,8th,39,128,3.9,Any Histology
+193,Ethiopia,9th,66,291,3.1,Any Histology
+194,Ethiopia,10th,31,291,2.7,Any Histology
+195,Finland,1st,16,460,63.5,Any Histology
+196,Finland,2nd,18,460,25,Any Histology
+197,Finland,3rd,33,460,2.6,Any Histology
+198,France,1st,16,1434,60.7,Any Histology
+199,France,2nd,18,1434,14.9,Any Histology
+200,France,3rd,31,1328,3.8,Any Histology
+201,France,4th,33,1434,3.3,Any Histology
+202,France,5th,45,1328,2.9,Any Histology
+203,France,6th,52,1328,2,Any Histology
+204,France,7th,68,1031,1.6,Any Histology
+205,France,8th,58,1328,1.6,Any Histology
+206,France,9th,73,515,1,Any Histology
+207,France,10th,35,1434,1,Any Histology
+208,Georgia,1st,16,91,58.2,Any Histology
+209,Georgia,2nd,45,91,13.2,Any Histology
+210,Georgia,3rd,18,91,11,Any Histology
+211,Georgia,4th,39,91,9.9,Any Histology
+212,Georgia,5th,33,91,4.4,Any Histology
+213,Georgia,6th,58,91,3.3,Any Histology
+214,Georgia,7th,82,91,2.2,Any Histology
+215,Georgia,8th,31,91,2.2,Any Histology
+216,Georgia,9th,35,91,2.2,Any Histology
+217,Georgia,10th,73,91,1.1,Any Histology
+218,Germany,1st,16,68,57.4,Any Histology
+219,Germany,2nd,18,68,19.1,Any Histology
+220,Germany,3rd,52,17,5.9,Any Histology
+221,Germany,4th,68,17,5.9,Any Histology
+222,Germany,5th,31,68,2.9,Any Histology
+223,Germany,6th,35,68,1.5,Any Histology
+224,Ghana,1st,18,348,35.1,Any Histology
+225,Ghana,2nd,45,348,25,Any Histology
+226,Ghana,3rd,59,348,24.4,Any Histology
+227,Ghana,4th,16,348,24.1,Any Histology
+228,Ghana,5th,31,348,6,Any Histology
+229,Ghana,6th,56,348,4.3,Any Histology
+230,Ghana,7th,35,348,4.3,Any Histology
+231,Ghana,8th,33,348,2,Any Histology
+232,Ghana,9th,58,348,1.7,Any Histology
+233,Ghana,10th,51,348,0.9,Any Histology
+234,Greece,1st,18,331,27.2,Any Histology
+235,Greece,2nd,16,331,25.1,Any Histology
+236,Greece,3rd,31,217,5.5,Any Histology
+237,Greece,4th,33,331,4.2,Any Histology
+238,Greece,5th,51,52,1.9,Any Histology
+239,Guinea,1st,16,77,44.2,Any Histology
+240,Guinea,2nd,45,77,18.2,Any Histology
+241,Guinea,3rd,18,77,11.7,Any Histology
+242,Guinea,4th,33,77,5.2,Any Histology
+243,Guinea,5th,35,77,3.9,Any Histology
+244,Guinea,6th,39,77,2.6,Any Histology
+245,Guinea,7th,51,77,1.3,Any Histology
+246,Guinea,8th,52,77,1.3,Any Histology
+247,Guinea,9th,68,77,1.3,Any Histology
+248,Guinea,10th,56,77,1.3,Any Histology
+249,Honduras,1st,16,99,43.4,Any Histology
+250,Honduras,2nd,18,99,10.1,Any Histology
+251,Honduras,3rd,33,99,8.1,Any Histology
+252,Honduras,4th,58,99,7.1,Any Histology
+253,Honduras,5th,45,99,5.1,Any Histology
+254,Honduras,6th,31,99,4,Any Histology
+255,Honduras,7th,52,99,1,Any Histology
+256,Honduras,8th,59,99,1,Any Histology
+257,Hungary,1st,16,38,63.2,Any Histology
+258,Hungary,2nd,18,38,31.6,Any Histology
+259,Iceland,1st,16,140,57.1,Any Histology
+260,Iceland,2nd,18,140,15,Any Histology
+261,Iceland,3rd,33,140,12.9,Any Histology
+262,Iceland,4th,45,140,5.7,Any Histology
+263,Iceland,5th,31,140,4.3,Any Histology
+264,Iceland,6th,39,140,4.3,Any Histology
+265,Iceland,7th,52,140,3.6,Any Histology
+266,Iceland,8th,35,140,2.1,Any Histology
+267,Iceland,9th,51,140,0.7,Any Histology
+268,Iceland,10th,56,140,0.7,Any Histology
+269,India,1st,16,2006,69.7,Any Histology
+270,India,2nd,18,2006,13.5,Any Histology
+271,India,3rd,45,1573,5.1,Any Histology
+272,India,4th,33,1616,4,Any Histology
+273,India,5th,35,1573,2.5,Any Histology
+274,India,6th,58,1616,2.4,Any Histology
+275,India,7th,31,1644,2.3,Any Histology
+276,India,8th,59,1454,1.4,Any Histology
+277,India,9th,52,1497,1.4,Any Histology
+278,India,10th,56,1532,1.3,Any Histology
+279,Indonesia,1st,16,230,47,Any Histology
+280,Indonesia,2nd,18,230,40,Any Histology
+281,Indonesia,3rd,52,156,13.5,Any Histology
+282,Indonesia,4th,45,156,12.2,Any Histology
+283,Indonesia,5th,35,156,1.3,Any Histology
+284,Indonesia,6th,51,156,1.3,Any Histology
+285,Indonesia,7th,33,156,1.3,Any Histology
+286,Indonesia,8th,39,156,1.3,Any Histology
+287,Indonesia,9th,31,156,1.3,Any Histology
+288,Indonesia,10th,58,156,0.6,Any Histology
+289,Iran,1st,16,333,47.1,Any Histology
+290,Iran,2nd,18,333,11.4,Any Histology
+291,Iran,3rd,31,264,8.3,Any Histology
+292,Iran,4th,39,157,1.9,Any Histology
+293,Iran,5th,45,157,1.9,Any Histology
+294,Iran,6th,58,157,1.9,Any Histology
+295,Iran,7th,33,268,1.5,Any Histology
+296,Iran,8th,82,112,0.9,Any Histology
+297,Iran,9th,26,157,0.6,Any Histology
+298,Iran,10th,56,157,0.6,Any Histology
+299,Ireland,1st,16,97,61.9,Any Histology
+300,Ireland,2nd,18,97,12.4,Any Histology
+301,Ireland,3rd,52,29,3.4,Any Histology
+302,Ireland,4th,31,87,1.1,Any Histology
+303,Israel,1st,16,122,64.8,Any Histology
+304,Israel,2nd,18,122,14.8,Any Histology
+305,Israel,3rd,45,122,4.1,Any Histology
+306,Israel,4th,39,122,2.5,Any Histology
+307,Israel,5th,31,122,2.5,Any Histology
+308,Israel,6th,59,122,2.5,Any Histology
+309,Israel,7th,68,122,1.6,Any Histology
+310,Israel,8th,33,122,1.6,Any Histology
+311,Israel,9th,52,122,0.8,Any Histology
+312,Israel,10th,35,122,0.8,Any Histology
+313,Italy,1st,16,1372,61.4,Any Histology
+314,Italy,2nd,18,1372,10.8,Any Histology
+315,Italy,3rd,31,1372,7.9,Any Histology
+316,Italy,4th,45,1177,5.3,Any Histology
+317,Italy,5th,52,1006,4.8,Any Histology
+318,Italy,6th,33,1372,4.6,Any Histology
+319,Italy,7th,51,1006,2.7,Any Histology
+320,Italy,8th,58,1050,2.5,Any Histology
+321,Italy,9th,35,1315,2.1,Any Histology
+322,Italy,10th,53,966,2,Any Histology
+323,Jamaica,1st,18,14,28.6,Any Histology
+324,Jamaica,2nd,16,14,21.4,Any Histology
+325,Jamaica,3rd,58,14,21.4,Any Histology
+326,Jamaica,4th,52,14,14.3,Any Histology
+327,Jamaica,5th,31,14,14.3,Any Histology
+328,Jamaica,6th,59,14,7.1,Any Histology
+329,Jamaica,7th,51,14,7.1,Any Histology
+330,Jamaica,8th,66,14,7.1,Any Histology
+331,Jamaica,9th,53,14,7.1,Any Histology
+332,Japan,1st,16,2294,38.9,Any Histology
+333,Japan,2nd,18,2294,14,Any Histology
+334,Japan,3rd,52,1606,8.7,Any Histology
+335,Japan,4th,58,1989,6,Any Histology
+336,Japan,5th,33,2128,4.7,Any Histology
+337,Japan,6th,31,1978,4.2,Any Histology
+338,Japan,7th,35,1763,2,Any Histology
+339,Japan,8th,51,1260,1.7,Any Histology
+340,Japan,9th,56,1490,1.1,Any Histology
+341,Japan,10th,68,1102,0.9,Any Histology
+342,Jordan,1st,16,41,68.3,Any Histology
+343,Jordan,2nd,18,41,24.4,Any Histology
+344,Jordan,3rd,56,41,9.8,Any Histology
+345,Jordan,4th,39,41,9.8,Any Histology
+346,Jordan,5th,45,41,7.3,Any Histology
+347,Jordan,6th,33,41,4.9,Any Histology
+348,Jordan,7th,59,41,2.4,Any Histology
+349,Jordan,8th,35,41,2.4,Any Histology
+350,Jordan,9th,31,41,2.4,Any Histology
+351,Jordan,10th,58,41,2.4,Any Histology
+352,Kenya,1st,16,233,48.1,Any Histology
+353,Kenya,2nd,45,233,15.9,Any Histology
+354,Kenya,3rd,18,233,15,Any Histology
+355,Kenya,4th,35,233,5.2,Any Histology
+356,Kenya,5th,52,233,4.7,Any Histology
+357,Kenya,6th,33,233,2.6,Any Histology
+358,Kenya,7th,31,233,2.6,Any Histology
+359,Kenya,8th,68,233,2.6,Any Histology
+360,Kenya,9th,39,233,2.1,Any Histology
+361,Kenya,10th,58,233,2.1,Any Histology
+362,Latvia,1st,16,247,61.1,Any Histology
+363,Latvia,2nd,18,221,9,Any Histology
+364,Latvia,3rd,31,247,5.3,Any Histology
+365,Latvia,4th,45,221,3.2,Any Histology
+366,Latvia,5th,33,221,2.7,Any Histology
+367,Lithuania,1st,16,266,54.9,Any Histology
+368,Lithuania,2nd,18,266,7.9,Any Histology
+369,Lithuania,3rd,56,75,4,Any Histology
+370,Lithuania,4th,31,266,3,Any Histology
+371,Lithuania,5th,39,75,2.7,Any Histology
+372,Lithuania,6th,33,266,2.3,Any Histology
+373,Lithuania,7th,45,266,1.9,Any Histology
+374,Lithuania,8th,59,75,1.3,Any Histology
+375,Lithuania,9th,82,75,1.3,Any Histology
+376,Lithuania,10th,58,266,1.1,Any Histology
+377,Luxembourg,1st,16,58,79.3,Any Histology
+378,Luxembourg,2nd,18,58,10.3,Any Histology
+379,Luxembourg,3rd,45,58,3.4,Any Histology
+380,Luxembourg,4th,33,58,1.7,Any Histology
+381,Malaysia,1st,16,426,52.8,Any Histology
+382,Malaysia,2nd,18,426,35.9,Any Histology
+383,Malaysia,3rd,52,392,10.7,Any Histology
+384,Malaysia,4th,45,381,8.9,Any Histology
+385,Malaysia,5th,58,392,8.9,Any Histology
+386,Malaysia,6th,33,404,7.7,Any Histology
+387,Malaysia,7th,56,392,6.1,Any Histology
+388,Malaysia,8th,39,381,5.5,Any Histology
+389,Malaysia,9th,59,381,4.5,Any Histology
+390,Malaysia,10th,31,415,2.4,Any Histology
+391,Mali,1st,16,157,40.1,Any Histology
+392,Mali,2nd,45,157,11.5,Any Histology
+393,Mali,3rd,18,157,10.8,Any Histology
+394,Mali,4th,35,157,4.5,Any Histology
+395,Mali,5th,58,157,4.5,Any Histology
+396,Mali,6th,31,157,3.8,Any Histology
+397,Mali,7th,51,157,2.5,Any Histology
+398,Mali,8th,33,157,1.3,Any Histology
+399,Mali,9th,73,157,1.3,Any Histology
+400,Mali,10th,52,157,1.3,Any Histology
+401,Mexico,1st,16,2361,53,Any Histology
+402,Mexico,2nd,18,2361,12,Any Histology
+403,Mexico,3rd,45,2361,6.6,Any Histology
+404,Mexico,4th,31,2361,5.7,Any Histology
+405,Mexico,5th,68,1422,4.6,Any Histology
+406,Mexico,6th,58,2361,4,Any Histology
+407,Mexico,7th,39,2346,2.8,Any Histology
+408,Mexico,8th,33,2361,2.5,Any Histology
+409,Mexico,9th,56,2225,2.4,Any Histology
+410,Mexico,10th,52,2361,2.2,Any Histology
+411,Mongolia,1st,16,147,48.3,Any Histology
+412,Morocco,1st,16,253,58.5,Any Histology
+413,Morocco,2nd,18,253,20.9,Any Histology
+414,Morocco,3rd,45,253,9.9,Any Histology
+415,Morocco,4th,31,253,2.8,Any Histology
+416,Morocco,5th,59,253,2,Any Histology
+417,Morocco,6th,52,152,1.3,Any Histology
+418,Morocco,7th,33,253,1.2,Any Histology
+419,Morocco,8th,35,152,0.7,Any Histology
+420,Morocco,9th,66,152,0.7,Any Histology
+421,Mozambique,1st,16,292,34.6,Any Histology
+422,Mozambique,2nd,18,292,16.4,Any Histology
+423,Mozambique,3rd,45,292,9.6,Any Histology
+424,Mozambique,4th,35,292,7.9,Any Histology
+425,Mozambique,5th,33,292,3.4,Any Histology
+426,Mozambique,6th,51,292,2.4,Any Histology
+427,Mozambique,7th,52,292,2.1,Any Histology
+428,Mozambique,8th,31,292,1,Any Histology
+429,Mozambique,9th,58,292,1,Any Histology
+430,Mozambique,10th,66,292,0.7,Any Histology
+431,Nepal,1st,16,61,60.7,Any Histology
+432,Nepal,2nd,18,61,19.7,Any Histology
+433,Nepal,3rd,45,61,4.9,Any Histology
+434,Nepal,4th,31,61,1.6,Any Histology
+435,Nepal,5th,33,61,1.6,Any Histology
+436,Nepal,6th,,,,Any Histology
+437,Netherlands,1st,16,1157,55.8,Any Histology
+438,Netherlands,2nd,18,1157,26.3,Any Histology
+439,Netherlands,3rd,45,662,4.8,Any Histology
+440,Netherlands,4th,33,635,2.7,Any Histology
+441,Netherlands,5th,31,712,2.1,Any Histology
+442,Netherlands,6th,39,505,1.4,Any Histology
+443,Netherlands,7th,59,556,0.7,Any Histology
+444,Netherlands,8th,58,556,0.7,Any Histology
+445,Netherlands,9th,53,275,0.4,Any Histology
+446,Netherlands,10th,35,556,0.4,Any Histology
+447,Nicaragua,1st,16,19,52.6,Any Histology
+448,Nicaragua,2nd,56,19,10.5,Any Histology
+449,Nicaragua,3rd,31,19,10.5,Any Histology
+450,Nicaragua,4th,52,19,5.3,Any Histology
+451,Nicaragua,5th,18,19,5.3,Any Histology
+452,Nicaragua,6th,58,19,5.3,Any Histology
+453,Nicaragua,7th,45,19,5.3,Any Histology
+454,Nicaragua,8th,51,19,5.3,Any Histology
+455,Nicaragua,9th,53,19,5.3,Any Histology
+456,Nicaragua,10th,68,19,5.3,Any Histology
+457,Nigeria,1st,16,145,52.4,Any Histology
+458,Nigeria,2nd,18,145,14.5,Any Histology
+459,Nigeria,3rd,35,145,9,Any Histology
+460,Nigeria,4th,45,145,7.6,Any Histology
+461,Nigeria,5th,51,145,2.8,Any Histology
+462,Nigeria,6th,52,145,2.8,Any Histology
+463,Nigeria,7th,59,145,2.8,Any Histology
+464,Nigeria,8th,31,145,2.1,Any Histology
+465,Nigeria,9th,39,145,1.4,Any Histology
+466,Nigeria,10th,33,145,1.4,Any Histology
+467,Norway,1st,16,450,65.3,Any Histology
+468,Norway,2nd,18,450,12.9,Any Histology
+469,Norway,3rd,33,450,7.1,Any Histology
+470,Norway,4th,45,89,4.5,Any Histology
+471,Norway,5th,82,89,1.1,Any Histology
+472,Norway,6th,52,89,1.1,Any Histology
+473,Norway,7th,56,89,1.1,Any Histology
+474,Norway,8th,73,89,1.1,Any Histology
+475,Norway,9th,31,450,1.1,Any Histology
+476,Norway,10th,35,361,0.6,Any Histology
+477,Pakistan,1st,16,151,83.4,Any Histology
+478,Pakistan,2nd,18,151,4.6,Any Histology
+479,Pakistan,3rd,45,91,4.4,Any Histology
+480,Pakistan,4th,70,91,2.2,Any Histology
+481,Pakistan,5th,56,91,2.2,Any Histology
+482,Pakistan,6th,33,91,1.1,Any Histology
+483,Pakistan,7th,66,91,1.1,Any Histology
+484,Pakistan,8th,59,91,1.1,Any Histology
+485,Panama,1st,16,68,48.5,Any Histology
+486,Panama,2nd,18,68,14.7,Any Histology
+487,Panama,3rd,45,68,10.3,Any Histology
+488,Panama,4th,52,68,4.4,Any Histology
+489,Panama,5th,59,68,4.4,Any Histology
+490,Panama,6th,58,68,2.9,Any Histology
+491,Panama,7th,31,68,2.9,Any Histology
+492,Panama,8th,51,68,2.9,Any Histology
+493,Panama,9th,35,68,1.5,Any Histology
+494,Panama,10th,33,68,1.5,Any Histology
+495,Papua New Guinea,1st,16,70,57.1,Any Histology
+496,Papua New Guinea,2nd,18,70,25.7,Any Histology
+497,Papua New Guinea,3rd,33,70,10,Any Histology
+498,Papua New Guinea,4th,31,70,4.3,Any Histology
+499,Papua New Guinea,5th,59,70,2.9,Any Histology
+500,Papua New Guinea,6th,58,70,2.9,Any Histology
+501,Papua New Guinea,7th,39,70,1.4,Any Histology
+502,Papua New Guinea,8th,35,70,1.4,Any Histology
+503,Papua New Guinea,9th,52,70,1.4,Any Histology
+504,Papua New Guinea,10th,51,70,1.4,Any Histology
+505,Paraguay,1st,16,523,50.5,Any Histology
+506,Paraguay,2nd,18,523,8.4,Any Histology
+507,Paraguay,3rd,45,523,4.4,Any Histology
+508,Paraguay,4th,33,523,4.4,Any Histology
+509,Paraguay,5th,31,523,3.4,Any Histology
+510,Paraguay,6th,52,523,1.9,Any Histology
+511,Paraguay,7th,35,523,1.1,Any Histology
+512,Paraguay,8th,58,523,1,Any Histology
+513,Paraguay,9th,73,523,0.8,Any Histology
+514,Paraguay,10th,59,523,0.8,Any Histology
+515,Peru,1st,16,249,55,Any Histology
+516,Peru,2nd,18,249,10.8,Any Histology
+517,Peru,3rd,31,249,10.4,Any Histology
+518,Peru,4th,52,249,6.4,Any Histology
+519,Peru,5th,33,249,5.6,Any Histology
+520,Peru,6th,58,249,4.4,Any Histology
+521,Peru,7th,45,249,3.6,Any Histology
+522,Peru,8th,35,249,2.8,Any Histology
+523,Peru,9th,39,249,2,Any Histology
+524,Peru,10th,66,249,1.2,Any Histology
+525,Philippines,1st,16,712,36.1,Any Histology
+526,Philippines,2nd,18,712,22.5,Any Histology
+527,Philippines,3rd,45,712,13.9,Any Histology
+528,Philippines,4th,52,712,6.7,Any Histology
+529,Philippines,5th,58,712,4.2,Any Histology
+530,Philippines,6th,59,712,2.4,Any Histology
+531,Philippines,7th,51,712,1.4,Any Histology
+532,Philippines,8th,31,712,1.3,Any Histology
+533,Philippines,9th,39,712,1.3,Any Histology
+534,Philippines,10th,66,712,0.8,Any Histology
+535,Poland,1st,16,1010,62.8,Any Histology
+536,Poland,2nd,18,1010,25.3,Any Histology
+537,Poland,3rd,45,302,7,Any Histology
+538,Poland,4th,52,302,2.3,Any Histology
+539,Poland,5th,31,355,2.3,Any Histology
+540,Poland,6th,33,355,1.7,Any Histology
+541,Poland,7th,56,302,1.3,Any Histology
+542,Poland,8th,58,355,1.1,Any Histology
+543,Poland,9th,35,302,1,Any Histology
+544,Poland,10th,39,302,1,Any Histology
+545,Portugal,1st,16,168,71.4,Any Histology
+546,Portugal,2nd,18,168,10.1,Any Histology
+547,Portugal,3rd,33,108,9.3,Any Histology
+548,Portugal,4th,53,108,3.7,Any Histology
+549,Portugal,5th,45,108,3.7,Any Histology
+550,Portugal,6th,58,108,2.8,Any Histology
+551,Portugal,7th,56,108,1.9,Any Histology
+552,Portugal,8th,73,108,1.9,Any Histology
+553,Portugal,9th,35,108,1.9,Any Histology
+554,Portugal,10th,51,64,1.6,Any Histology
+555,Republic of Korea,1st,16,1651,56.3,Any Histology
+556,Republic of Korea,2nd,18,1651,11.7,Any Histology
+557,Republic of Korea,3rd,33,1482,4.7,Any Histology
+558,Republic of Korea,4th,58,1452,3.7,Any Histology
+559,Republic of Korea,5th,31,1303,2.5,Any Histology
+560,Republic of Korea,6th,45,1370,2,Any Histology
+561,Republic of Korea,7th,35,1317,1.7,Any Histology
+562,Republic of Korea,8th,52,1408,1.5,Any Histology
+563,Republic of Korea,9th,68,1414,1.1,Any Histology
+564,Republic of Korea,10th,39,1235,1,Any Histology
+565,Russia,1st,16,206,64.6,Any Histology
+566,Russia,2nd,18,180,9.4,Any Histology
+567,Russia,3rd,45,180,7.8,Any Histology
+568,Russia,4th,31,206,3.9,Any Histology
+569,Russia,5th,56,180,2.2,Any Histology
+570,Russia,6th,58,180,1.7,Any Histology
+571,Russia,7th,35,206,1.5,Any Histology
+572,Russia,8th,33,180,1.1,Any Histology
+573,Russia,9th,52,180,1.1,Any Histology
+574,Saudi Arabia,1st,16,100,67,Any Histology
+575,Saudi Arabia,2nd,18,100,9,Any Histology
+576,Saudi Arabia,3rd,45,100,7,Any Histology
+577,Saudi Arabia,4th,31,100,7,Any Histology
+578,Saudi Arabia,5th,73,100,2,Any Histology
+579,Saudi Arabia,6th,59,100,2,Any Histology
+580,Saudi Arabia,7th,39,100,1,Any Histology
+581,Saudi Arabia,8th,70,100,1,Any Histology
+582,Saudi Arabia,9th,51,100,1,Any Histology
+583,Senegal,1st,16,199,36.2,Any Histology
+584,Senegal,2nd,45,199,10.1,Any Histology
+585,Senegal,3rd,18,199,8.5,Any Histology
+586,Senegal,4th,33,199,4.5,Any Histology
+587,Senegal,5th,58,199,3.5,Any Histology
+588,Senegal,6th,31,199,2,Any Histology
+589,Senegal,7th,52,199,2,Any Histology
+590,Senegal,8th,35,199,1.5,Any Histology
+591,Senegal,9th,39,199,1.5,Any Histology
+592,Senegal,10th,56,199,1,Any Histology
+593,Singapore,1st,16,65,36.9,Any Histology
+594,Singapore,2nd,18,65,26.2,Any Histology
+595,Singapore,3rd,52,65,9.2,Any Histology
+596,Singapore,4th,33,65,7.7,Any Histology
+597,Singapore,5th,58,65,6.2,Any Histology
+598,Singapore,6th,51,65,3.1,Any Histology
+599,Singapore,7th,31,65,1.5,Any Histology
+600,Singapore,8th,35,65,1.5,Any Histology
+601,Singapore,9th,45,65,1.5,Any Histology
+602,Slovenia,1st,16,264,65.2,Any Histology
+603,Slovenia,2nd,18,264,12.5,Any Histology
+604,Slovenia,3rd,45,264,4.5,Any Histology
+605,Slovenia,4th,33,264,4.5,Any Histology
+606,Slovenia,5th,31,264,3.8,Any Histology
+607,Slovenia,6th,51,264,1.9,Any Histology
+608,Slovenia,7th,35,264,0.8,Any Histology
+609,Slovenia,8th,59,264,0.8,Any Histology
+610,Slovenia,9th,82,264,0.4,Any Histology
+611,Slovenia,10th,53,264,0.4,Any Histology
+612,South Africa,1st,16,674,50.7,Any Histology
+613,South Africa,2nd,18,674,13.5,Any Histology
+614,South Africa,3rd,33,674,7.3,Any Histology
+615,South Africa,4th,35,615,6,Any Histology
+616,South Africa,5th,45,674,5.6,Any Histology
+617,South Africa,6th,31,484,2.9,Any Histology
+618,South Africa,7th,52,615,2.1,Any Histology
+619,South Africa,8th,53,375,1.6,Any Histology
+620,South Africa,9th,58,615,1.3,Any Histology
+621,South Africa,10th,68,194,1,Any Histology
+622,Spain,1st,16,1488,58,Any Histology
+623,Spain,2nd,33,1488,5.1,Any Histology
+624,Spain,3rd,18,1488,5.1,Any Histology
+625,Spain,4th,31,1488,3.6,Any Histology
+626,Spain,5th,45,1488,3.1,Any Histology
+627,Spain,6th,52,1488,2.4,Any Histology
+628,Spain,7th,35,1488,2.1,Any Histology
+629,Spain,8th,56,1488,1.4,Any Histology
+630,Spain,9th,39,1488,1.1,Any Histology
+631,Spain,10th,51,1488,0.9,Any Histology
+632,Sri Lanka,1st,16,206,72.8,Any Histology
+633,Sri Lanka,2nd,18,206,7.8,Any Histology
+634,Sri Lanka,3rd,59,206,1.9,Any Histology
+635,Sri Lanka,4th,58,206,1.5,Any Histology
+636,Sri Lanka,5th,31,206,1,Any Histology
+637,Sri Lanka,6th,68,206,1,Any Histology
+638,Sri Lanka,7th,35,206,1,Any Histology
+639,Sri Lanka,8th,56,206,1,Any Histology
+640,Sri Lanka,9th,45,206,1,Any Histology
+641,Sri Lanka,10th,73,108,0.9,Any Histology
+642,Sudan,1st,16,78,79.5,Any Histology
+643,Sudan,2nd,18,78,19.2,Any Histology
+644,Sudan,3rd,45,78,16.7,Any Histology
+645,Sudan,4th,58,78,14.1,Any Histology
+646,Sudan,5th,52,78,14.1,Any Histology
+647,Sudan,6th,33,78,12.8,Any Histology
+648,Sudan,7th,35,78,7.7,Any Histology
+649,Sudan,8th,68,78,7.7,Any Histology
+650,Sudan,9th,53,78,6.4,Any Histology
+651,Sudan,10th,31,78,6.4,Any Histology
+652,Suriname,1st,16,116,35.3,Any Histology
+653,Suriname,2nd,18,116,17.2,Any Histology
+654,Sweden,1st,16,773,48.5,Any Histology
+655,Sweden,2nd,18,773,22,Any Histology
+656,Sweden,3rd,35,582,5.3,Any Histology
+657,Sweden,4th,31,691,5.2,Any Histology
+658,Sweden,5th,33,691,4.5,Any Histology
+659,Sweden,6th,45,554,4,Any Histology
+660,Sweden,7th,73,303,1.7,Any Histology
+661,Sweden,8th,56,472,1.1,Any Histology
+662,Sweden,9th,52,472,0.8,Any Histology
+663,Sweden,10th,70,303,0.7,Any Histology
+664,Syrian Arab Republic,1st,33,44,54.5,Any Histology
+665,Syrian Arab Republic,2nd,16,44,47.7,Any Histology
+666,Syrian Arab Republic,3rd,18,44,40.9,Any Histology
+667,Syrian Arab Republic,4th,45,44,38.6,Any Histology
+668,Syrian Arab Republic,5th,52,44,29.5,Any Histology
+669,Syrian Arab Republic,6th,58,44,25,Any Histology
+670,Syrian Arab Republic,7th,35,44,20.5,Any Histology
+671,Syrian Arab Republic,8th,51,44,15.9,Any Histology
+672,Syrian Arab Republic,9th,31,44,11.4,Any Histology
+673,Thailand,1st,16,1783,53.3,Any Histology
+674,Thailand,2nd,18,1743,14.3,Any Histology
+675,Thailand,3rd,58,1622,9.8,Any Histology
+676,Thailand,4th,52,1622,6.2,Any Histology
+677,Thailand,5th,45,1532,4.4,Any Histology
+678,Thailand,6th,33,1743,4.2,Any Histology
+679,Thailand,7th,35,1643,2.4,Any Histology
+680,Thailand,8th,59,1532,1.8,Any Histology
+681,Thailand,9th,31,1643,1.8,Any Histology
+682,Thailand,10th,39,1532,1.6,Any Histology
+683,Trinidad and Tobago,1st,16,78,47.4,Any Histology
+684,Trinidad and Tobago,2nd,18,78,12.8,Any Histology
+685,Trinidad and Tobago,3rd,45,78,6.4,Any Histology
+686,Trinidad and Tobago,4th,39,78,1.3,Any Histology
+687,Trinidad and Tobago,5th,52,78,1.3,Any Histology
+688,Trinidad and Tobago,6th,33,78,1.3,Any Histology
+689,Trinidad and Tobago,7th,35,78,1.3,Any Histology
+690,Tunisia,1st,16,141,61,Any Histology
+691,Tunisia,2nd,18,141,8.5,Any Histology
+692,Tunisia,3rd,45,141,5,Any Histology
+693,Tunisia,4th,66,141,3.5,Any Histology
+694,Tunisia,5th,35,141,2.8,Any Histology
+695,Tunisia,6th,56,141,2.1,Any Histology
+696,Tunisia,7th,73,141,2.1,Any Histology
+697,Tunisia,8th,58,141,1.4,Any Histology
+698,Tunisia,9th,31,141,1.4,Any Histology
+699,Tunisia,10th,68,141,1.4,Any Histology
+700,Turkey,1st,16,531,58.4,Any Histology
+701,Turkey,2nd,45,508,9.3,Any Histology
+702,Turkey,3rd,18,531,9.2,Any Histology
+703,Turkey,4th,31,531,2.8,Any Histology
+704,Turkey,5th,33,531,2.3,Any Histology
+705,Turkey,6th,39,508,1.6,Any Histology
+706,Turkey,7th,52,531,1.1,Any Histology
+707,Turkey,8th,68,531,0.9,Any Histology
+708,Turkey,9th,35,531,0.6,Any Histology
+709,Turkey,10th,73,260,0.4,Any Histology
+710,Uganda,1st,16,321,38,Any Histology
+711,Uganda,2nd,18,321,19,Any Histology
+712,Uganda,3rd,45,321,7.8,Any Histology
+713,Uganda,4th,31,321,2.8,Any Histology
+714,Uganda,5th,51,321,1.6,Any Histology
+715,Uganda,6th,56,321,1.2,Any Histology
+716,Uganda,7th,35,321,1.2,Any Histology
+717,Uganda,8th,52,321,0.9,Any Histology
+718,Uganda,9th,33,321,0.6,Any Histology
+719,Uganda,10th,39,321,0.3,Any Histology
+720,United Kingdom,1st,16,3140,61.4,Any Histology
+721,United Kingdom,2nd,18,3140,17.6,Any Histology
+722,United Kingdom,3rd,45,2835,4.4,Any Histology
+723,United Kingdom,4th,33,3021,3.9,Any Histology
+724,United Kingdom,5th,31,2974,3.6,Any Histology
+725,United Kingdom,6th,52,2835,2.1,Any Histology
+726,United Kingdom,7th,39,2835,1.2,Any Histology
+727,United Kingdom,8th,58,2951,1.1,Any Histology
+728,United Kingdom,9th,35,2951,1,Any Histology
+729,United Kingdom,10th,59,2835,1,Any Histology
+730,United Republic of Tanzania,1st,16,97,42.3,Any Histology
+731,United Republic of Tanzania,2nd,18,97,25.8,Any Histology
+732,United Republic of Tanzania,3rd,45,97,8.2,Any Histology
+733,United Republic of Tanzania,4th,52,44,4.5,Any Histology
+734,United Republic of Tanzania,5th,68,44,2.3,Any Histology
+735,United Republic of Tanzania,6th,33,97,2.1,Any Histology
+736,United Republic of Tanzania,7th,51,97,1,Any Histology
+737,Algeria,1st,16,329,61.4,Squamous Cell Carcinoma
+738,Algeria,2nd,18,329,16.1,Squamous Cell Carcinoma
+739,Algeria,3rd,45,329,5.2,Squamous Cell Carcinoma
+740,Algeria,4th,33,329,3.6,Squamous Cell Carcinoma
+741,Algeria,5th,35,329,3.6,Squamous Cell Carcinoma
+742,Algeria,6th,66,329,3,Squamous Cell Carcinoma
+743,Algeria,7th,31,329,2.4,Squamous Cell Carcinoma
+744,Algeria,8th,39,329,2.4,Squamous Cell Carcinoma
+745,Algeria,9th,51,329,1.8,Squamous Cell Carcinoma
+746,Algeria,10th,56,329,1.5,Squamous Cell Carcinoma
+747,Argentina,1st,16,267,61.4,Squamous Cell Carcinoma
+748,Argentina,2nd,18,267,16.5,Squamous Cell Carcinoma
+749,Argentina,3rd,45,54,5.6,Squamous Cell Carcinoma
+750,Argentina,4th,51,89,5.6,Squamous Cell Carcinoma
+751,Argentina,5th,31,128,4.7,Squamous Cell Carcinoma
+752,Argentina,6th,39,54,3.7,Squamous Cell Carcinoma
+753,Argentina,7th,33,128,2.3,Squamous Cell Carcinoma
+754,Argentina,8th,52,54,1.9,Squamous Cell Carcinoma
+755,Argentina,9th,58,54,1.9,Squamous Cell Carcinoma
+756,Argentina,10th,59,54,1.9,Squamous Cell Carcinoma
+757,Australia,1st,16,307,63.2,Squamous Cell Carcinoma
+758,Australia,2nd,18,307,12.1,Squamous Cell Carcinoma
+759,Australia,3rd,45,170,3.5,Squamous Cell Carcinoma
+760,Australia,4th,33,170,2.4,Squamous Cell Carcinoma
+761,Australia,5th,35,170,2.4,Squamous Cell Carcinoma
+762,Australia,6th,39,170,1.8,Squamous Cell Carcinoma
+763,Australia,7th,31,170,1.2,Squamous Cell Carcinoma
+764,Australia,8th,52,170,0.6,Squamous Cell Carcinoma
+765,Australia,9th,,,,Squamous Cell Carcinoma
+766,Australia,10th,,,,Squamous Cell Carcinoma
+767,Austria,1st,,,,Squamous Cell Carcinoma
+768,Austria,2nd,,,,Squamous Cell Carcinoma
+769,Austria,3rd,,,,Squamous Cell Carcinoma
+770,Austria,4th,,,,Squamous Cell Carcinoma
+771,Austria,5th,,,,Squamous Cell Carcinoma
+772,Austria,6th,,,,Squamous Cell Carcinoma
+773,Austria,7th,,,,Squamous Cell Carcinoma
+774,Austria,8th,,,,Squamous Cell Carcinoma
+775,Austria,9th,,,,Squamous Cell Carcinoma
+776,Austria,10th,,,,Squamous Cell Carcinoma
+777,Belarus,1st,,,,Squamous Cell Carcinoma
+778,Belarus,2nd,,,,Squamous Cell Carcinoma
+779,Belgium,1st,16,91,69.2,Squamous Cell Carcinoma
+780,Belgium,2nd,18,91,11,Squamous Cell Carcinoma
+781,Belgium,3rd,33,91,2.2,Squamous Cell Carcinoma
+782,Belgium,4th,31,91,2.2,Squamous Cell Carcinoma
+783,Belgium,5th,45,91,2.2,Squamous Cell Carcinoma
+784,Belgium,6th,56,91,1.1,Squamous Cell Carcinoma
+785,Belgium,7th,66,91,1.1,Squamous Cell Carcinoma
+786,Bolivia,1st,16,45,35.6,Squamous Cell Carcinoma
+787,Bolivia,2nd,31,45,24.4,Squamous Cell Carcinoma
+788,Bolivia,3rd,45,45,8.9,Squamous Cell Carcinoma
+789,Bolivia,4th,18,45,4.4,Squamous Cell Carcinoma
+790,Bolivia,5th,52,45,4.4,Squamous Cell Carcinoma
+791,Bolivia,6th,58,45,2.2,Squamous Cell Carcinoma
+792,Bolivia,7th,59,45,2.2,Squamous Cell Carcinoma
+793,Bolivia,8th,,,,Squamous Cell Carcinoma
+794,Bosnia,1st,16,280,60.4,Squamous Cell Carcinoma
+795,Bosnia,2nd,18,280,8.6,Squamous Cell Carcinoma
+796,Bosnia,3rd,45,280,3.9,Squamous Cell Carcinoma
+797,Bosnia,4th,33,280,2.9,Squamous Cell Carcinoma
+798,Bosnia,5th,31,280,2.1,Squamous Cell Carcinoma
+799,Bosnia,6th,51,280,1.8,Squamous Cell Carcinoma
+800,Bosnia,7th,56,280,1.8,Squamous Cell Carcinoma
+801,Bosnia,8th,58,280,1.4,Squamous Cell Carcinoma
+802,Bosnia,9th,39,280,1.1,Squamous Cell Carcinoma
+803,Bosnia,10th,35,280,1.1,Squamous Cell Carcinoma
+804,Botswana,1st,,,,Squamous Cell Carcinoma
+805,Botswana,2nd,,,,Squamous Cell Carcinoma
+806,Botswana,3rd,,,,Squamous Cell Carcinoma
+807,Botswana,4th,,,,Squamous Cell Carcinoma
+808,Botswana,5th,,,,Squamous Cell Carcinoma
+809,Botswana,6th,,,,Squamous Cell Carcinoma
+810,Botswana,7th,,,,Squamous Cell Carcinoma
+811,Botswana,8th,,,,Squamous Cell Carcinoma
+812,Botswana,9th,,,,Squamous Cell Carcinoma
+813,Botswana,10th,,,,Squamous Cell Carcinoma
+814,Brazil,1st,16,959,59.4,Squamous Cell Carcinoma
+815,Brazil,2nd,18,959,8,Squamous Cell Carcinoma
+816,Brazil,3rd,33,959,5.1,Squamous Cell Carcinoma
+817,Brazil,4th,45,911,4.9,Squamous Cell Carcinoma
+818,Brazil,5th,31,959,4.5,Squamous Cell Carcinoma
+819,Brazil,6th,35,911,4.2,Squamous Cell Carcinoma
+820,Brazil,7th,58,959,2.4,Squamous Cell Carcinoma
+821,Brazil,8th,52,959,1.9,Squamous Cell Carcinoma
+822,Brazil,9th,39,911,1.2,Squamous Cell Carcinoma
+823,Brazil,10th,51,959,1.1,Squamous Cell Carcinoma
+824,Bulgaria,1st,16,127,70.9,Squamous Cell Carcinoma
+825,Bulgaria,2nd,18,127,9.4,Squamous Cell Carcinoma
+826,Canada,1st,16,43,62.8,Squamous Cell Carcinoma
+827,Canada,2nd,18,43,14,Squamous Cell Carcinoma
+828,Canada,3rd,45,43,11.6,Squamous Cell Carcinoma
+829,Canada,4th,56,43,4.7,Squamous Cell Carcinoma
+830,Canada,5th,31,43,2.3,Squamous Cell Carcinoma
+831,Canada,6th,68,43,2.3,Squamous Cell Carcinoma
+832,Canada,7th,,,,Squamous Cell Carcinoma
+833,Canada,8th,,,,Squamous Cell Carcinoma
+834,Canada,9th,,,,Squamous Cell Carcinoma
+835,Canada,10th,,,,Squamous Cell Carcinoma
+836,Chile,1st,16,164,54.9,Squamous Cell Carcinoma
+837,Chile,2nd,18,164,20.7,Squamous Cell Carcinoma
+838,Chile,3rd,31,164,6.1,Squamous Cell Carcinoma
+839,Chile,4th,45,164,5.5,Squamous Cell Carcinoma
+840,Chile,5th,33,164,5.5,Squamous Cell Carcinoma
+841,Chile,6th,52,164,3.7,Squamous Cell Carcinoma
+842,Chile,7th,59,164,2.4,Squamous Cell Carcinoma
+843,Chile,8th,58,164,2.4,Squamous Cell Carcinoma
+844,Chile,9th,56,164,1.2,Squamous Cell Carcinoma
+845,Chile,10th,39,164,1.2,Squamous Cell Carcinoma
+846,China,1st,16,4528,58.1,Squamous Cell Carcinoma
+847,China,2nd,18,4436,8.1,Squamous Cell Carcinoma
+848,China,3rd,58,4436,8,Squamous Cell Carcinoma
+849,China,4th,52,4328,7.4,Squamous Cell Carcinoma
+850,China,5th,33,3689,3.8,Squamous Cell Carcinoma
+851,China,6th,31,3705,2.9,Squamous Cell Carcinoma
+852,China,7th,59,3529,2.3,Squamous Cell Carcinoma
+853,China,8th,39,3417,1.8,Squamous Cell Carcinoma
+854,China,9th,56,2787,1.5,Squamous Cell Carcinoma
+855,China,10th,45,1559,1.4,Squamous Cell Carcinoma
+856,Colombia,1st,16,334,52.4,Squamous Cell Carcinoma
+857,Colombia,2nd,18,334,8.4,Squamous Cell Carcinoma
+858,Colombia,3rd,45,334,6,Squamous Cell Carcinoma
+859,Colombia,4th,31,334,5.1,Squamous Cell Carcinoma
+860,Colombia,5th,58,334,4.2,Squamous Cell Carcinoma
+861,Colombia,6th,33,334,2.7,Squamous Cell Carcinoma
+862,Colombia,7th,35,334,2.7,Squamous Cell Carcinoma
+863,Colombia,8th,59,334,1.8,Squamous Cell Carcinoma
+864,Colombia,9th,56,334,1.5,Squamous Cell Carcinoma
+865,Colombia,10th,39,149,1.3,Squamous Cell Carcinoma
+866,Costa Rica,1st,,,,Squamous Cell Carcinoma
+867,Costa Rica,2nd,,,,Squamous Cell Carcinoma
+868,Costa Rica,3rd,,,,Squamous Cell Carcinoma
+869,Costa Rica,4th,,,,Squamous Cell Carcinoma
+870,Costa Rica,5th,,,,Squamous Cell Carcinoma
+871,Costa Rica,6th,,,,Squamous Cell Carcinoma
+872,Costa Rica,7th,,,,Squamous Cell Carcinoma
+873,Costa Rica,8th,,,,Squamous Cell Carcinoma
+874,Costa Rica,9th,,,,Squamous Cell Carcinoma
+875,Costa Rica,10th,,,,Squamous Cell Carcinoma
+876,Croatia,1st,,,,Squamous Cell Carcinoma
+877,Croatia,2nd,,,,Squamous Cell Carcinoma
+878,Croatia,3rd,,,,Squamous Cell Carcinoma
+879,Croatia,4th,,,,Squamous Cell Carcinoma
+880,Croatia,5th,,,,Squamous Cell Carcinoma
+881,Croatia,6th,,,,Squamous Cell Carcinoma
+882,Cuba,1st,16,41,56.1,Squamous Cell Carcinoma
+883,Cuba,2nd,18,41,7.3,Squamous Cell Carcinoma
+884,Cuba,3rd,39,41,4.9,Squamous Cell Carcinoma
+885,Cuba,4th,45,41,4.9,Squamous Cell Carcinoma
+886,Cuba,5th,31,41,4.9,Squamous Cell Carcinoma
+887,Cuba,6th,56,41,2.4,Squamous Cell Carcinoma
+888,Cuba,7th,59,41,2.4,Squamous Cell Carcinoma
+889,Cuba,8th,51,41,2.4,Squamous Cell Carcinoma
+890,Cuba,9th,52,41,2.4,Squamous Cell Carcinoma
+891,Czech Republic,1st,16,172,73.3,Squamous Cell Carcinoma
+892,Czech Republic,2nd,33,172,10.5,Squamous Cell Carcinoma
+893,Czech Republic,3rd,45,172,9.3,Squamous Cell Carcinoma
+894,Czech Republic,4th,18,172,9.3,Squamous Cell Carcinoma
+895,Czech Republic,5th,31,172,7,Squamous Cell Carcinoma
+896,Czech Republic,6th,58,172,3.5,Squamous Cell Carcinoma
+897,Czech Republic,7th,56,172,2.3,Squamous Cell Carcinoma
+898,Czech Republic,8th,39,172,1.2,Squamous Cell Carcinoma
+899,Czech Republic,9th,52,172,1.2,Squamous Cell Carcinoma
+900,Czech Republic,10th,,,,Squamous Cell Carcinoma
+901,Denmark,1st,16,259,65.3,Squamous Cell Carcinoma
+902,Denmark,2nd,18,259,8.9,Squamous Cell Carcinoma
+903,Denmark,3rd,33,259,6.2,Squamous Cell Carcinoma
+904,Denmark,4th,45,259,6.2,Squamous Cell Carcinoma
+905,Denmark,5th,31,259,4.2,Squamous Cell Carcinoma
+906,Denmark,6th,52,225,3.1,Squamous Cell Carcinoma
+907,Denmark,7th,51,225,1.8,Squamous Cell Carcinoma
+908,Denmark,8th,39,225,1.8,Squamous Cell Carcinoma
+909,Denmark,9th,68,225,1.3,Squamous Cell Carcinoma
+910,Denmark,10th,66,225,1.3,Squamous Cell Carcinoma
+911,Ecuador,1st,16,58,37.9,Squamous Cell Carcinoma
+912,Ecuador,2nd,58,58,27.6,Squamous Cell Carcinoma
+913,Ecuador,3rd,52,58,12.1,Squamous Cell Carcinoma
+914,Ecuador,4th,31,58,10.3,Squamous Cell Carcinoma
+915,Ecuador,5th,66,58,6.9,Squamous Cell Carcinoma
+916,Ecuador,6th,68,58,3.4,Squamous Cell Carcinoma
+917,Ecuador,7th,39,58,3.4,Squamous Cell Carcinoma
+918,Ecuador,8th,59,58,3.4,Squamous Cell Carcinoma
+919,Ecuador,9th,35,58,3.4,Squamous Cell Carcinoma
+920,Ecuador,10th,33,58,1.7,Squamous Cell Carcinoma
+921,Ethiopia,1st,16,281,80.1,Squamous Cell Carcinoma
+922,Ethiopia,2nd,18,281,18.9,Squamous Cell Carcinoma
+923,Ethiopia,3rd,52,281,10.3,Squamous Cell Carcinoma
+924,Ethiopia,4th,58,281,10,Squamous Cell Carcinoma
+925,Ethiopia,5th,45,281,6.8,Squamous Cell Carcinoma
+926,Ethiopia,6th,33,128,6.3,Squamous Cell Carcinoma
+927,Ethiopia,7th,39,128,3.9,Squamous Cell Carcinoma
+928,Ethiopia,8th,35,128,3.9,Squamous Cell Carcinoma
+929,Ethiopia,9th,66,281,3.2,Squamous Cell Carcinoma
+930,Ethiopia,10th,31,281,2.8,Squamous Cell Carcinoma
+931,Finland,1st,16,352,77.8,Squamous Cell Carcinoma
+932,Finland,2nd,18,352,15.6,Squamous Cell Carcinoma
+933,Finland,3rd,33,352,2.3,Squamous Cell Carcinoma
+934,France,1st,16,1255,63.7,Squamous Cell Carcinoma
+935,France,2nd,18,1255,11.4,Squamous Cell Carcinoma
+936,France,3rd,31,1166,3.9,Squamous Cell Carcinoma
+937,France,4th,33,1255,3.7,Squamous Cell Carcinoma
+938,France,5th,45,1166,3.1,Squamous Cell Carcinoma
+939,France,6th,52,1166,2.1,Squamous Cell Carcinoma
+940,France,7th,68,897,1.9,Squamous Cell Carcinoma
+941,France,8th,58,1166,1.6,Squamous Cell Carcinoma
+942,France,9th,59,897,1,Squamous Cell Carcinoma
+943,France,10th,35,1255,0.9,Squamous Cell Carcinoma
+944,Georgia,1st,,,,Squamous Cell Carcinoma
+945,Georgia,2nd,,,,Squamous Cell Carcinoma
+946,Georgia,3rd,,,,Squamous Cell Carcinoma
+947,Georgia,4th,,,,Squamous Cell Carcinoma
+948,Georgia,5th,,,,Squamous Cell Carcinoma
+949,Georgia,6th,,,,Squamous Cell Carcinoma
+950,Georgia,7th,,,,Squamous Cell Carcinoma
+951,Georgia,8th,,,,Squamous Cell Carcinoma
+952,Georgia,9th,,,,Squamous Cell Carcinoma
+953,Georgia,10th,,,,Squamous Cell Carcinoma
+954,Germany,1st,16,42,69,Squamous Cell Carcinoma
+955,Germany,2nd,18,42,7.1,Squamous Cell Carcinoma
+956,Germany,3rd,52,17,5.9,Squamous Cell Carcinoma
+957,Germany,4th,68,17,5.9,Squamous Cell Carcinoma
+958,Germany,5th,31,42,4.8,Squamous Cell Carcinoma
+959,Germany,6th,35,42,2.4,Squamous Cell Carcinoma
+960,Ghana,1st,18,227,43.6,Squamous Cell Carcinoma
+961,Ghana,2nd,59,227,37.4,Squamous Cell Carcinoma
+962,Ghana,3rd,45,227,34.8,Squamous Cell Carcinoma
+963,Ghana,4th,31,227,8.8,Squamous Cell Carcinoma
+964,Ghana,5th,16,227,7.5,Squamous Cell Carcinoma
+965,Ghana,6th,56,227,5.7,Squamous Cell Carcinoma
+966,Ghana,7th,35,227,3.1,Squamous Cell Carcinoma
+967,Ghana,8th,58,227,2.2,Squamous Cell Carcinoma
+968,Ghana,9th,33,227,1.3,Squamous Cell Carcinoma
+969,Ghana,10th,66,227,0.9,Squamous Cell Carcinoma
+970,Greece,1st,18,240,25,Squamous Cell Carcinoma
+971,Greece,2nd,16,240,17.5,Squamous Cell Carcinoma
+972,Greece,3rd,31,165,6.1,Squamous Cell Carcinoma
+973,Greece,4th,33,240,4.2,Squamous Cell Carcinoma
+974,Greece,5th,,,,Squamous Cell Carcinoma
+975,Guinea,1st,16,77,44.2,Squamous Cell Carcinoma
+976,Guinea,2nd,45,77,18.2,Squamous Cell Carcinoma
+977,Guinea,3rd,18,77,11.7,Squamous Cell Carcinoma
+978,Guinea,4th,33,77,5.2,Squamous Cell Carcinoma
+979,Guinea,5th,35,77,3.9,Squamous Cell Carcinoma
+980,Guinea,6th,39,77,2.6,Squamous Cell Carcinoma
+981,Guinea,7th,56,77,1.3,Squamous Cell Carcinoma
+982,Guinea,8th,82,77,1.3,Squamous Cell Carcinoma
+983,Guinea,9th,51,77,1.3,Squamous Cell Carcinoma
+984,Guinea,10th,68,77,1.3,Squamous Cell Carcinoma
+985,Honduras,1st,16,99,43.4,Squamous Cell Carcinoma
+986,Honduras,2nd,18,99,10.1,Squamous Cell Carcinoma
+987,Honduras,3rd,33,99,8.1,Squamous Cell Carcinoma
+988,Honduras,4th,58,99,7.1,Squamous Cell Carcinoma
+989,Honduras,5th,45,99,5.1,Squamous Cell Carcinoma
+990,Honduras,6th,31,99,4,Squamous Cell Carcinoma
+991,Honduras,7th,59,99,1,Squamous Cell Carcinoma
+992,Honduras,8th,52,99,1,Squamous Cell Carcinoma
+993,Hungary,1st,16,38,63.2,Squamous Cell Carcinoma
+994,Hungary,2nd,18,38,31.6,Squamous Cell Carcinoma
+995,Iceland,1st,16,101,62.4,Squamous Cell Carcinoma
+996,Iceland,2nd,33,101,16.8,Squamous Cell Carcinoma
+997,Iceland,3rd,18,101,6.9,Squamous Cell Carcinoma
+998,Iceland,4th,31,101,5.9,Squamous Cell Carcinoma
+999,Iceland,5th,39,101,5,Squamous Cell Carcinoma
+1000,Iceland,6th,45,101,4,Squamous Cell Carcinoma
+1001,Iceland,7th,52,101,4,Squamous Cell Carcinoma
+1002,Iceland,8th,35,101,3,Squamous Cell Carcinoma
+1003,Iceland,9th,56,101,1,Squamous Cell Carcinoma
+1004,Iceland,10th,51,101,1,Squamous Cell Carcinoma
+1005,India,1st,16,1730,68.4,Squamous Cell Carcinoma
+1006,India,2nd,18,1730,13.5,Squamous Cell Carcinoma
+1007,India,3rd,45,1549,4.6,Squamous Cell Carcinoma
+1008,India,4th,33,1549,4.2,Squamous Cell Carcinoma
+1009,India,5th,35,1271,2.8,Squamous Cell Carcinoma
+1010,India,6th,31,1549,2.2,Squamous Cell Carcinoma
+1011,India,7th,58,1549,1.7,Squamous Cell Carcinoma
+1012,India,8th,56,1508,1.5,Squamous Cell Carcinoma
+1013,India,9th,52,1549,1,Squamous Cell Carcinoma
+1014,India,10th,59,1549,0.9,Squamous Cell Carcinoma
+1015,Indonesia,1st,16,132,50.8,Squamous Cell Carcinoma
+1016,Indonesia,2nd,18,132,25,Squamous Cell Carcinoma
+1017,Indonesia,3rd,52,132,9.1,Squamous Cell Carcinoma
+1018,Indonesia,4th,45,132,6.1,Squamous Cell Carcinoma
+1019,Indonesia,5th,31,132,3,Squamous Cell Carcinoma
+1020,Indonesia,6th,39,132,2.3,Squamous Cell Carcinoma
+1021,Indonesia,7th,56,132,1.5,Squamous Cell Carcinoma
+1022,Indonesia,8th,33,132,1.5,Squamous Cell Carcinoma
+1023,Indonesia,9th,35,132,0.8,Squamous Cell Carcinoma
+1024,Indonesia,10th,,,,Squamous Cell Carcinoma
+1025,Iran,1st,16,65,55.4,Squamous Cell Carcinoma
+1026,Iran,2nd,31,65,20,Squamous Cell Carcinoma
+1027,Iran,3rd,18,65,10.8,Squamous Cell Carcinoma
+1028,Iran,4th,,,,Squamous Cell Carcinoma
+1029,Iran,5th,,,,Squamous Cell Carcinoma
+1030,Iran,6th,,,,Squamous Cell Carcinoma
+1031,Iran,7th,,,,Squamous Cell Carcinoma
+1032,Iran,8th,,,,Squamous Cell Carcinoma
+1033,Iran,9th,,,,Squamous Cell Carcinoma
+1034,Iran,10th,,,,Squamous Cell Carcinoma
+1035,Ireland,1st,16,30,80,Squamous Cell Carcinoma
+1036,Ireland,2nd,18,30,6.7,Squamous Cell Carcinoma
+1037,Ireland,3rd,,,,Squamous Cell Carcinoma
+1038,Ireland,4th,,,,Squamous Cell Carcinoma
+1039,Israel,1st,16,122,64.8,Squamous Cell Carcinoma
+1040,Israel,2nd,18,122,14.8,Squamous Cell Carcinoma
+1041,Israel,3rd,45,122,4.1,Squamous Cell Carcinoma
+1042,Israel,4th,31,122,2.5,Squamous Cell Carcinoma
+1043,Israel,5th,59,122,2.5,Squamous Cell Carcinoma
+1044,Israel,6th,39,122,2.5,Squamous Cell Carcinoma
+1045,Israel,7th,33,122,1.6,Squamous Cell Carcinoma
+1046,Israel,8th,68,122,1.6,Squamous Cell Carcinoma
+1047,Israel,9th,35,122,0.8,Squamous Cell Carcinoma
+1048,Israel,10th,52,122,0.8,Squamous Cell Carcinoma
+1049,Italy,1st,16,854,62.5,Squamous Cell Carcinoma
+1050,Italy,2nd,18,854,9.4,Squamous Cell Carcinoma
+1051,Italy,3rd,31,854,6.4,Squamous Cell Carcinoma
+1052,Italy,4th,52,570,5.4,Squamous Cell Carcinoma
+1053,Italy,5th,45,702,5,Squamous Cell Carcinoma
+1054,Italy,6th,33,854,4.8,Squamous Cell Carcinoma
+1055,Italy,7th,51,570,3,Squamous Cell Carcinoma
+1056,Italy,8th,58,639,2.8,Squamous Cell Carcinoma
+1057,Italy,9th,56,570,2.3,Squamous Cell Carcinoma
+1058,Italy,10th,66,570,2.1,Squamous Cell Carcinoma
+1059,Jamaica,1st,,,,Squamous Cell Carcinoma
+1060,Jamaica,2nd,,,,Squamous Cell Carcinoma
+1061,Jamaica,3rd,,,,Squamous Cell Carcinoma
+1062,Jamaica,4th,,,,Squamous Cell Carcinoma
+1063,Jamaica,5th,,,,Squamous Cell Carcinoma
+1064,Jamaica,6th,,,,Squamous Cell Carcinoma
+1065,Jamaica,7th,,,,Squamous Cell Carcinoma
+1066,Jamaica,8th,,,,Squamous Cell Carcinoma
+1067,Jamaica,9th,,,,Squamous Cell Carcinoma
+1068,Japan,1st,16,1247,45,Squamous Cell Carcinoma
+1069,Japan,2nd,18,1247,11.3,Squamous Cell Carcinoma
+1070,Japan,3rd,52,1056,10.7,Squamous Cell Carcinoma
+1071,Japan,4th,58,1056,7.5,Squamous Cell Carcinoma
+1072,Japan,5th,31,1056,4.9,Squamous Cell Carcinoma
+1073,Japan,6th,33,1131,4.4,Squamous Cell Carcinoma
+1074,Japan,7th,35,978,2.2,Squamous Cell Carcinoma
+1075,Japan,8th,51,953,1.9,Squamous Cell Carcinoma
+1076,Japan,9th,56,1069,1.3,Squamous Cell Carcinoma
+1077,Japan,10th,68,848,1.1,Squamous Cell Carcinoma
+1078,Jordan,1st,,,,Squamous Cell Carcinoma
+1079,Jordan,2nd,,,,Squamous Cell Carcinoma
+1080,Jordan,3rd,,,,Squamous Cell Carcinoma
+1081,Jordan,4th,,,,Squamous Cell Carcinoma
+1082,Jordan,5th,,,,Squamous Cell Carcinoma
+1083,Jordan,6th,,,,Squamous Cell Carcinoma
+1084,Jordan,7th,,,,Squamous Cell Carcinoma
+1085,Jordan,8th,,,,Squamous Cell Carcinoma
+1086,Jordan,9th,,,,Squamous Cell Carcinoma
+1087,Jordan,10th,,,,Squamous Cell Carcinoma
+1088,Kenya,1st,16,233,48.1,Squamous Cell Carcinoma
+1089,Kenya,2nd,45,233,15.9,Squamous Cell Carcinoma
+1090,Kenya,3rd,18,233,15,Squamous Cell Carcinoma
+1091,Kenya,4th,35,233,5.2,Squamous Cell Carcinoma
+1092,Kenya,5th,52,233,4.7,Squamous Cell Carcinoma
+1093,Kenya,6th,68,233,2.6,Squamous Cell Carcinoma
+1094,Kenya,7th,31,233,2.6,Squamous Cell Carcinoma
+1095,Kenya,8th,33,233,2.6,Squamous Cell Carcinoma
+1096,Kenya,9th,58,233,2.1,Squamous Cell Carcinoma
+1097,Kenya,10th,39,233,2.1,Squamous Cell Carcinoma
+1098,Latvia,1st,,,,Squamous Cell Carcinoma
+1099,Latvia,2nd,,,,Squamous Cell Carcinoma
+1100,Latvia,3rd,,,,Squamous Cell Carcinoma
+1101,Latvia,4th,,,,Squamous Cell Carcinoma
+1102,Latvia,5th,,,,Squamous Cell Carcinoma
+1103,Lithuania,1st,16,249,56.2,Squamous Cell Carcinoma
+1104,Lithuania,2nd,18,249,7.2,Squamous Cell Carcinoma
+1105,Lithuania,3rd,56,75,4,Squamous Cell Carcinoma
+1106,Lithuania,4th,31,249,3.2,Squamous Cell Carcinoma
+1107,Lithuania,5th,39,75,2.7,Squamous Cell Carcinoma
+1108,Lithuania,6th,33,249,2.4,Squamous Cell Carcinoma
+1109,Lithuania,7th,45,249,2,Squamous Cell Carcinoma
+1110,Lithuania,8th,82,75,1.3,Squamous Cell Carcinoma
+1111,Lithuania,9th,59,75,1.3,Squamous Cell Carcinoma
+1112,Lithuania,10th,58,249,1.2,Squamous Cell Carcinoma
+1113,Luxembourg,1st,16,58,79.3,Squamous Cell Carcinoma
+1114,Luxembourg,2nd,18,58,10.3,Squamous Cell Carcinoma
+1115,Luxembourg,3rd,45,58,3.4,Squamous Cell Carcinoma
+1116,Luxembourg,4th,33,58,1.7,Squamous Cell Carcinoma
+1117,Malaysia,1st,16,309,56.6,Squamous Cell Carcinoma
+1118,Malaysia,2nd,18,309,31.1,Squamous Cell Carcinoma
+1119,Malaysia,3rd,52,286,12.9,Squamous Cell Carcinoma
+1120,Malaysia,4th,58,286,11.2,Squamous Cell Carcinoma
+1121,Malaysia,5th,45,275,8.4,Squamous Cell Carcinoma
+1122,Malaysia,6th,33,298,7.7,Squamous Cell Carcinoma
+1123,Malaysia,7th,59,275,5.8,Squamous Cell Carcinoma
+1124,Malaysia,8th,39,275,5.8,Squamous Cell Carcinoma
+1125,Malaysia,9th,56,286,4.9,Squamous Cell Carcinoma
+1126,Malaysia,10th,31,309,2.9,Squamous Cell Carcinoma
+1127,Mali,1st,16,157,40.1,Squamous Cell Carcinoma
+1128,Mali,2nd,45,157,11.5,Squamous Cell Carcinoma
+1129,Mali,3rd,18,157,10.8,Squamous Cell Carcinoma
+1130,Mali,4th,35,157,4.5,Squamous Cell Carcinoma
+1131,Mali,5th,58,157,4.5,Squamous Cell Carcinoma
+1132,Mali,6th,31,157,3.8,Squamous Cell Carcinoma
+1133,Mali,7th,51,157,2.5,Squamous Cell Carcinoma
+1134,Mali,8th,52,157,1.3,Squamous Cell Carcinoma
+1135,Mali,9th,33,157,1.3,Squamous Cell Carcinoma
+1136,Mali,10th,68,157,0.6,Squamous Cell Carcinoma
+1137,Mexico,1st,16,1935,53.3,Squamous Cell Carcinoma
+1138,Mexico,2nd,18,1935,11.9,Squamous Cell Carcinoma
+1139,Mexico,3rd,45,1935,6.1,Squamous Cell Carcinoma
+1140,Mexico,4th,31,1935,4.3,Squamous Cell Carcinoma
+1141,Mexico,5th,58,1935,3.4,Squamous Cell Carcinoma
+1142,Mexico,6th,39,1920,2.6,Squamous Cell Carcinoma
+1143,Mexico,7th,33,1935,2.3,Squamous Cell Carcinoma
+1144,Mexico,8th,52,1935,2.2,Squamous Cell Carcinoma
+1145,Mexico,9th,59,1920,2.2,Squamous Cell Carcinoma
+1146,Mexico,10th,51,1920,1.9,Squamous Cell Carcinoma
+1147,Mongolia,1st,16,147,48.3,Squamous Cell Carcinoma
+1148,Morocco,1st,16,240,58.3,Squamous Cell Carcinoma
+1149,Morocco,2nd,18,240,21.7,Squamous Cell Carcinoma
+1150,Morocco,3rd,45,240,10,Squamous Cell Carcinoma
+1151,Morocco,4th,31,240,2.9,Squamous Cell Carcinoma
+1152,Morocco,5th,59,240,2.1,Squamous Cell Carcinoma
+1153,Morocco,6th,52,139,1.4,Squamous Cell Carcinoma
+1154,Morocco,7th,33,240,1.3,Squamous Cell Carcinoma
+1155,Morocco,8th,35,139,0.7,Squamous Cell Carcinoma
+1156,Morocco,9th,66,139,0.7,Squamous Cell Carcinoma
+1157,Mozambique,1st,16,220,27.7,Squamous Cell Carcinoma
+1158,Mozambique,2nd,18,220,13.2,Squamous Cell Carcinoma
+1159,Mozambique,3rd,45,220,5,Squamous Cell Carcinoma
+1160,Mozambique,4th,35,220,4.1,Squamous Cell Carcinoma
+1161,Mozambique,5th,51,220,2.7,Squamous Cell Carcinoma
+1162,Mozambique,6th,52,220,2.3,Squamous Cell Carcinoma
+1163,Mozambique,7th,33,220,1.4,Squamous Cell Carcinoma
+1164,Mozambique,8th,58,220,0.9,Squamous Cell Carcinoma
+1165,Mozambique,9th,31,220,0.5,Squamous Cell Carcinoma
+1166,Mozambique,10th,56,220,0.5,Squamous Cell Carcinoma
+1167,Nepal,1st,,,,Squamous Cell Carcinoma
+1168,Nepal,2nd,,,,Squamous Cell Carcinoma
+1169,Nepal,3rd,,,,Squamous Cell Carcinoma
+1170,Nepal,4th,,,,Squamous Cell Carcinoma
+1171,Nepal,5th,,,,Squamous Cell Carcinoma
+1172,Nepal,6th,,,,Squamous Cell Carcinoma
+1173,Netherlands,1st,16,324,68.5,Squamous Cell Carcinoma
+1174,Netherlands,2nd,18,324,15.7,Squamous Cell Carcinoma
+1175,Netherlands,3rd,31,324,3.7,Squamous Cell Carcinoma
+1176,Netherlands,4th,33,324,3.7,Squamous Cell Carcinoma
+1177,Netherlands,5th,45,274,2.2,Squamous Cell Carcinoma
+1178,Netherlands,6th,39,245,1.6,Squamous Cell Carcinoma
+1179,Netherlands,7th,58,245,1.2,Squamous Cell Carcinoma
+1180,Netherlands,8th,56,245,0.8,Squamous Cell Carcinoma
+1181,Netherlands,9th,35,245,0.8,Squamous Cell Carcinoma
+1182,Netherlands,10th,,,,Squamous Cell Carcinoma
+1183,Nicaragua,1st,16,19,52.6,Squamous Cell Carcinoma
+1184,Nicaragua,2nd,56,19,10.5,Squamous Cell Carcinoma
+1185,Nicaragua,3rd,31,19,10.5,Squamous Cell Carcinoma
+1186,Nicaragua,4th,51,19,5.3,Squamous Cell Carcinoma
+1187,Nicaragua,5th,33,19,5.3,Squamous Cell Carcinoma
+1188,Nicaragua,6th,52,19,5.3,Squamous Cell Carcinoma
+1189,Nicaragua,7th,58,19,5.3,Squamous Cell Carcinoma
+1190,Nicaragua,8th,45,19,5.3,Squamous Cell Carcinoma
+1191,Nicaragua,9th,68,19,5.3,Squamous Cell Carcinoma
+1192,Nicaragua,10th,18,19,5.3,Squamous Cell Carcinoma
+1193,Nigeria,1st,,,,Squamous Cell Carcinoma
+1194,Nigeria,2nd,,,,Squamous Cell Carcinoma
+1195,Nigeria,3rd,,,,Squamous Cell Carcinoma
+1196,Nigeria,4th,,,,Squamous Cell Carcinoma
+1197,Nigeria,5th,,,,Squamous Cell Carcinoma
+1198,Nigeria,6th,,,,Squamous Cell Carcinoma
+1199,Nigeria,7th,,,,Squamous Cell Carcinoma
+1200,Nigeria,8th,,,,Squamous Cell Carcinoma
+1201,Nigeria,9th,,,,Squamous Cell Carcinoma
+1202,Nigeria,10th,,,,Squamous Cell Carcinoma
+1203,Norway,1st,,,,Squamous Cell Carcinoma
+1204,Norway,2nd,,,,Squamous Cell Carcinoma
+1205,Norway,3rd,,,,Squamous Cell Carcinoma
+1206,Norway,4th,,,,Squamous Cell Carcinoma
+1207,Norway,5th,,,,Squamous Cell Carcinoma
+1208,Norway,6th,,,,Squamous Cell Carcinoma
+1209,Norway,7th,,,,Squamous Cell Carcinoma
+1210,Norway,8th,,,,Squamous Cell Carcinoma
+1211,Norway,9th,,,,Squamous Cell Carcinoma
+1212,Norway,10th,,,,Squamous Cell Carcinoma
+1213,Pakistan,1st,,,,Squamous Cell Carcinoma
+1214,Pakistan,2nd,,,,Squamous Cell Carcinoma
+1215,Pakistan,3rd,,,,Squamous Cell Carcinoma
+1216,Pakistan,4th,,,,Squamous Cell Carcinoma
+1217,Pakistan,5th,,,,Squamous Cell Carcinoma
+1218,Pakistan,6th,,,,Squamous Cell Carcinoma
+1219,Pakistan,7th,,,,Squamous Cell Carcinoma
+1220,Pakistan,8th,,,,Squamous Cell Carcinoma
+1221,Panama,1st,16,68,48.5,Squamous Cell Carcinoma
+1222,Panama,2nd,18,68,14.7,Squamous Cell Carcinoma
+1223,Panama,3rd,45,68,10.3,Squamous Cell Carcinoma
+1224,Panama,4th,52,68,4.4,Squamous Cell Carcinoma
+1225,Panama,5th,59,68,4.4,Squamous Cell Carcinoma
+1226,Panama,6th,51,68,2.9,Squamous Cell Carcinoma
+1227,Panama,7th,58,68,2.9,Squamous Cell Carcinoma
+1228,Panama,8th,31,68,2.9,Squamous Cell Carcinoma
+1229,Panama,9th,35,68,1.5,Squamous Cell Carcinoma
+1230,Panama,10th,33,68,1.5,Squamous Cell Carcinoma
+1231,Papua New Guinea,1st,16,55,61.8,Squamous Cell Carcinoma
+1232,Papua New Guinea,2nd,18,55,20,Squamous Cell Carcinoma
+1233,Papua New Guinea,3rd,33,55,10.9,Squamous Cell Carcinoma
+1234,Papua New Guinea,4th,31,55,3.6,Squamous Cell Carcinoma
+1235,Papua New Guinea,5th,59,55,3.6,Squamous Cell Carcinoma
+1236,Papua New Guinea,6th,58,55,3.6,Squamous Cell Carcinoma
+1237,Papua New Guinea,7th,39,55,1.8,Squamous Cell Carcinoma
+1238,Papua New Guinea,8th,35,55,1.8,Squamous Cell Carcinoma
+1239,Papua New Guinea,9th,52,55,1.8,Squamous Cell Carcinoma
+1240,Papua New Guinea,10th,51,55,1.8,Squamous Cell Carcinoma
+1241,Paraguay,1st,16,507,51.5,Squamous Cell Carcinoma
+1242,Paraguay,2nd,18,507,7.9,Squamous Cell Carcinoma
+1243,Paraguay,3rd,33,507,4.5,Squamous Cell Carcinoma
+1244,Paraguay,4th,45,507,4.1,Squamous Cell Carcinoma
+1245,Paraguay,5th,31,507,3.6,Squamous Cell Carcinoma
+1246,Paraguay,6th,52,507,2,Squamous Cell Carcinoma
+1247,Paraguay,7th,35,507,1.2,Squamous Cell Carcinoma
+1248,Paraguay,8th,58,507,1,Squamous Cell Carcinoma
+1249,Paraguay,9th,59,507,0.8,Squamous Cell Carcinoma
+1250,Paraguay,10th,39,507,0.8,Squamous Cell Carcinoma
+1251,Peru,1st,16,171,53.2,Squamous Cell Carcinoma
+1252,Peru,2nd,18,171,12.9,Squamous Cell Carcinoma
+1253,Peru,3rd,31,171,11.1,Squamous Cell Carcinoma
+1254,Peru,4th,52,171,8.8,Squamous Cell Carcinoma
+1255,Peru,5th,33,171,4.7,Squamous Cell Carcinoma
+1256,Peru,6th,45,171,4.7,Squamous Cell Carcinoma
+1257,Peru,7th,35,171,3.5,Squamous Cell Carcinoma
+1258,Peru,8th,39,171,2.9,Squamous Cell Carcinoma
+1259,Peru,9th,58,171,2.3,Squamous Cell Carcinoma
+1260,Peru,10th,56,171,1.2,Squamous Cell Carcinoma
+1261,Philippines,1st,16,661,37.4,Squamous Cell Carcinoma
+1262,Philippines,2nd,18,661,21.3,Squamous Cell Carcinoma
+1263,Philippines,3rd,45,661,13.6,Squamous Cell Carcinoma
+1264,Philippines,4th,52,661,7.3,Squamous Cell Carcinoma
+1265,Philippines,5th,58,661,4.5,Squamous Cell Carcinoma
+1266,Philippines,6th,59,661,2.3,Squamous Cell Carcinoma
+1267,Philippines,7th,51,661,1.5,Squamous Cell Carcinoma
+1268,Philippines,8th,39,661,1.4,Squamous Cell Carcinoma
+1269,Philippines,9th,31,661,1.2,Squamous Cell Carcinoma
+1270,Philippines,10th,66,661,0.9,Squamous Cell Carcinoma
+1271,Poland,1st,16,765,65.2,Squamous Cell Carcinoma
+1272,Poland,2nd,18,765,23.3,Squamous Cell Carcinoma
+1273,Poland,3rd,45,107,4.7,Squamous Cell Carcinoma
+1274,Poland,4th,31,160,3.8,Squamous Cell Carcinoma
+1275,Poland,5th,56,107,2.8,Squamous Cell Carcinoma
+1276,Poland,6th,52,107,2.8,Squamous Cell Carcinoma
+1277,Poland,7th,33,160,1.3,Squamous Cell Carcinoma
+1278,Poland,8th,68,107,0.9,Squamous Cell Carcinoma
+1279,Poland,9th,39,107,0.9,Squamous Cell Carcinoma
+1280,Poland,10th,58,160,0.6,Squamous Cell Carcinoma
+1281,Portugal,1st,,,,Squamous Cell Carcinoma
+1282,Portugal,2nd,,,,Squamous Cell Carcinoma
+1283,Portugal,3rd,,,,Squamous Cell Carcinoma
+1284,Portugal,4th,,,,Squamous Cell Carcinoma
+1285,Portugal,5th,,,,Squamous Cell Carcinoma
+1286,Portugal,6th,,,,Squamous Cell Carcinoma
+1287,Portugal,7th,,,,Squamous Cell Carcinoma
+1288,Portugal,8th,,,,Squamous Cell Carcinoma
+1289,Portugal,9th,,,,Squamous Cell Carcinoma
+1290,Portugal,10th,,,,Squamous Cell Carcinoma
+1291,Republic of Korea,1st,16,1107,59.3,Squamous Cell Carcinoma
+1292,Republic of Korea,2nd,18,1107,7,Squamous Cell Carcinoma
+1293,Republic of Korea,3rd,33,1107,4.5,Squamous Cell Carcinoma
+1294,Republic of Korea,4th,58,1107,4.2,Squamous Cell Carcinoma
+1295,Republic of Korea,5th,31,1063,2.9,Squamous Cell Carcinoma
+1296,Republic of Korea,6th,45,1025,1.9,Squamous Cell Carcinoma
+1297,Republic of Korea,7th,35,1107,1.7,Squamous Cell Carcinoma
+1298,Republic of Korea,8th,52,1063,1.6,Squamous Cell Carcinoma
+1299,Republic of Korea,9th,39,1025,1.2,Squamous Cell Carcinoma
+1300,Republic of Korea,10th,68,1069,0.9,Squamous Cell Carcinoma
+1301,Russia,1st,16,129,65.9,Squamous Cell Carcinoma
+1302,Russia,2nd,45,129,8.5,Squamous Cell Carcinoma
+1303,Russia,3rd,18,129,6.2,Squamous Cell Carcinoma
+1304,Russia,4th,31,129,3.9,Squamous Cell Carcinoma
+1305,Russia,5th,56,129,3.1,Squamous Cell Carcinoma
+1306,Russia,6th,58,129,2.3,Squamous Cell Carcinoma
+1307,Russia,7th,35,129,1.6,Squamous Cell Carcinoma
+1308,Russia,8th,52,129,1.6,Squamous Cell Carcinoma
+1309,Russia,9th,33,129,1.6,Squamous Cell Carcinoma
+1310,Saudi Arabia,1st,,,,Squamous Cell Carcinoma
+1311,Saudi Arabia,2nd,,,,Squamous Cell Carcinoma
+1312,Saudi Arabia,3rd,,,,Squamous Cell Carcinoma
+1313,Saudi Arabia,4th,,,,Squamous Cell Carcinoma
+1314,Saudi Arabia,5th,,,,Squamous Cell Carcinoma
+1315,Saudi Arabia,6th,,,,Squamous Cell Carcinoma
+1316,Saudi Arabia,7th,,,,Squamous Cell Carcinoma
+1317,Saudi Arabia,8th,,,,Squamous Cell Carcinoma
+1318,Saudi Arabia,9th,,,,Squamous Cell Carcinoma
+1319,Senegal,1st,16,128,35.9,Squamous Cell Carcinoma
+1320,Senegal,2nd,45,128,11.7,Squamous Cell Carcinoma
+1321,Senegal,3rd,18,128,9.4,Squamous Cell Carcinoma
+1322,Senegal,4th,33,128,3.9,Squamous Cell Carcinoma
+1323,Senegal,5th,58,128,2.3,Squamous Cell Carcinoma
+1324,Senegal,6th,39,128,2.3,Squamous Cell Carcinoma
+1325,Senegal,7th,31,128,1.6,Squamous Cell Carcinoma
+1326,Senegal,8th,35,128,1.6,Squamous Cell Carcinoma
+1327,Senegal,9th,56,128,0.8,Squamous Cell Carcinoma
+1328,Senegal,10th,59,128,0.8,Squamous Cell Carcinoma
+1329,Singapore,1st,16,50,42,Squamous Cell Carcinoma
+1330,Singapore,2nd,18,50,12,Squamous Cell Carcinoma
+1331,Singapore,3rd,52,50,12,Squamous Cell Carcinoma
+1332,Singapore,4th,33,50,10,Squamous Cell Carcinoma
+1333,Singapore,5th,58,50,8,Squamous Cell Carcinoma
+1334,Singapore,6th,51,50,4,Squamous Cell Carcinoma
+1335,Singapore,7th,31,50,2,Squamous Cell Carcinoma
+1336,Singapore,8th,45,50,2,Squamous Cell Carcinoma
+1337,Singapore,9th,35,50,2,Squamous Cell Carcinoma
+1338,Slovenia,1st,16,216,70.8,Squamous Cell Carcinoma
+1339,Slovenia,2nd,18,216,6,Squamous Cell Carcinoma
+1340,Slovenia,3rd,33,216,5.1,Squamous Cell Carcinoma
+1341,Slovenia,4th,45,216,5.1,Squamous Cell Carcinoma
+1342,Slovenia,5th,31,216,4.6,Squamous Cell Carcinoma
+1343,Slovenia,6th,51,216,2.3,Squamous Cell Carcinoma
+1344,Slovenia,7th,35,216,0.9,Squamous Cell Carcinoma
+1345,Slovenia,8th,59,216,0.9,Squamous Cell Carcinoma
+1346,Slovenia,9th,58,216,0.5,Squamous Cell Carcinoma
+1347,Slovenia,10th,,,,Squamous Cell Carcinoma
+1348,South Africa,1st,16,443,48.5,Squamous Cell Carcinoma
+1349,South Africa,2nd,18,443,12,Squamous Cell Carcinoma
+1350,South Africa,3rd,33,443,7.2,Squamous Cell Carcinoma
+1351,South Africa,4th,45,443,5.4,Squamous Cell Carcinoma
+1352,South Africa,5th,35,384,4.7,Squamous Cell Carcinoma
+1353,South Africa,6th,31,253,4,Squamous Cell Carcinoma
+1354,South Africa,7th,52,384,2.6,Squamous Cell Carcinoma
+1355,South Africa,8th,58,384,1.8,Squamous Cell Carcinoma
+1356,South Africa,9th,68,194,1,Squamous Cell Carcinoma
+1357,South Africa,10th,82,194,1,Squamous Cell Carcinoma
+1358,Spain,1st,16,1299,58.5,Squamous Cell Carcinoma
+1359,Spain,2nd,33,1299,5.6,Squamous Cell Carcinoma
+1360,Spain,3rd,18,1299,4.1,Squamous Cell Carcinoma
+1361,Spain,4th,31,1299,3.6,Squamous Cell Carcinoma
+1362,Spain,5th,45,1299,2.8,Squamous Cell Carcinoma
+1363,Spain,6th,52,1299,2.4,Squamous Cell Carcinoma
+1364,Spain,7th,35,1299,2.1,Squamous Cell Carcinoma
+1365,Spain,8th,56,1299,1.5,Squamous Cell Carcinoma
+1366,Spain,9th,39,1299,1.2,Squamous Cell Carcinoma
+1367,Spain,10th,51,1299,1,Squamous Cell Carcinoma
+1368,Sri Lanka,1st,16,108,77.8,Squamous Cell Carcinoma
+1369,Sri Lanka,2nd,18,108,6.5,Squamous Cell Carcinoma
+1370,Sri Lanka,3rd,58,108,2.8,Squamous Cell Carcinoma
+1371,Sri Lanka,4th,35,108,1.9,Squamous Cell Carcinoma
+1372,Sri Lanka,5th,59,108,1.9,Squamous Cell Carcinoma
+1373,Sri Lanka,6th,31,108,1.9,Squamous Cell Carcinoma
+1374,Sri Lanka,7th,39,108,0.9,Squamous Cell Carcinoma
+1375,Sri Lanka,8th,66,108,0.9,Squamous Cell Carcinoma
+1376,Sri Lanka,9th,51,108,0.9,Squamous Cell Carcinoma
+1377,Sri Lanka,10th,56,108,0.9,Squamous Cell Carcinoma
+1378,Sudan,1st,16,78,79.5,Squamous Cell Carcinoma
+1379,Sudan,2nd,18,78,19.2,Squamous Cell Carcinoma
+1380,Sudan,3rd,45,78,16.7,Squamous Cell Carcinoma
+1381,Sudan,4th,58,78,14.1,Squamous Cell Carcinoma
+1382,Sudan,5th,52,78,14.1,Squamous Cell Carcinoma
+1383,Sudan,6th,33,78,12.8,Squamous Cell Carcinoma
+1384,Sudan,7th,35,78,7.7,Squamous Cell Carcinoma
+1385,Sudan,8th,68,78,7.7,Squamous Cell Carcinoma
+1386,Sudan,9th,31,78,6.4,Squamous Cell Carcinoma
+1387,Sudan,10th,39,78,3.8,Squamous Cell Carcinoma
+1388,Suriname,1st,,,,Squamous Cell Carcinoma
+1389,Suriname,2nd,,,,Squamous Cell Carcinoma
+1390,Sweden,1st,16,273,57.5,Squamous Cell Carcinoma
+1391,Sweden,2nd,18,273,10.3,Squamous Cell Carcinoma
+1392,Sweden,3rd,33,273,7.7,Squamous Cell Carcinoma
+1393,Sweden,4th,31,273,7,Squamous Cell Carcinoma
+1394,Sweden,5th,56,202,2.5,Squamous Cell Carcinoma
+1395,Sweden,6th,45,202,2,Squamous Cell Carcinoma
+1396,Sweden,7th,52,202,2,Squamous Cell Carcinoma
+1397,Sweden,8th,58,83,1.2,Squamous Cell Carcinoma
+1398,Sweden,9th,59,164,1.2,Squamous Cell Carcinoma
+1399,Sweden,10th,51,202,1,Squamous Cell Carcinoma
+1400,Syrian Arab Republic,1st,,,,Squamous Cell Carcinoma
+1401,Syrian Arab Republic,2nd,,,,Squamous Cell Carcinoma
+1402,Syrian Arab Republic,3rd,,,,Squamous Cell Carcinoma
+1403,Syrian Arab Republic,4th,,,,Squamous Cell Carcinoma
+1404,Syrian Arab Republic,5th,,,,Squamous Cell Carcinoma
+1405,Syrian Arab Republic,6th,,,,Squamous Cell Carcinoma
+1406,Syrian Arab Republic,7th,,,,Squamous Cell Carcinoma
+1407,Syrian Arab Republic,8th,,,,Squamous Cell Carcinoma
+1408,Syrian Arab Republic,9th,,,,Squamous Cell Carcinoma
+1409,Thailand,1st,16,1328,54.7,Squamous Cell Carcinoma
+1410,Thailand,2nd,18,1288,17.8,Squamous Cell Carcinoma
+1411,Thailand,3rd,58,1167,9.3,Squamous Cell Carcinoma
+1412,Thailand,4th,52,1167,5.4,Squamous Cell Carcinoma
+1413,Thailand,5th,33,1288,4,Squamous Cell Carcinoma
+1414,Thailand,6th,45,1077,3.6,Squamous Cell Carcinoma
+1415,Thailand,7th,35,1188,1.9,Squamous Cell Carcinoma
+1416,Thailand,8th,59,1077,1.8,Squamous Cell Carcinoma
+1417,Thailand,9th,31,1188,1.8,Squamous Cell Carcinoma
+1418,Thailand,10th,39,1077,1.3,Squamous Cell Carcinoma
+1419,Trinidad and Tobago,1st,,,,Squamous Cell Carcinoma
+1420,Trinidad and Tobago,2nd,,,,Squamous Cell Carcinoma
+1421,Trinidad and Tobago,3rd,,,,Squamous Cell Carcinoma
+1422,Trinidad and Tobago,4th,,,,Squamous Cell Carcinoma
+1423,Trinidad and Tobago,5th,,,,Squamous Cell Carcinoma
+1424,Trinidad and Tobago,6th,,,,Squamous Cell Carcinoma
+1425,Trinidad and Tobago,7th,,,,Squamous Cell Carcinoma
+1426,Tunisia,1st,16,141,61,Squamous Cell Carcinoma
+1427,Tunisia,2nd,18,141,8.5,Squamous Cell Carcinoma
+1428,Tunisia,3rd,45,141,5,Squamous Cell Carcinoma
+1429,Tunisia,4th,66,141,3.5,Squamous Cell Carcinoma
+1430,Tunisia,5th,35,141,2.8,Squamous Cell Carcinoma
+1431,Tunisia,6th,56,141,2.1,Squamous Cell Carcinoma
+1432,Tunisia,7th,58,141,1.4,Squamous Cell Carcinoma
+1433,Tunisia,8th,68,141,1.4,Squamous Cell Carcinoma
+1434,Tunisia,9th,31,141,1.4,Squamous Cell Carcinoma
+1435,Tunisia,10th,39,141,0.7,Squamous Cell Carcinoma
+1436,Turkey,1st,16,461,61.8,Squamous Cell Carcinoma
+1437,Turkey,2nd,45,461,8.5,Squamous Cell Carcinoma
+1438,Turkey,3rd,18,461,8.2,Squamous Cell Carcinoma
+1439,Turkey,4th,31,461,3,Squamous Cell Carcinoma
+1440,Turkey,5th,33,461,2.4,Squamous Cell Carcinoma
+1441,Turkey,6th,39,461,1.7,Squamous Cell Carcinoma
+1442,Turkey,7th,68,461,0.9,Squamous Cell Carcinoma
+1443,Turkey,8th,52,461,0.9,Squamous Cell Carcinoma
+1444,Turkey,9th,35,461,0.7,Squamous Cell Carcinoma
+1445,Turkey,10th,59,461,0.4,Squamous Cell Carcinoma
+1446,Uganda,1st,16,273,40.3,Squamous Cell Carcinoma
+1447,Uganda,2nd,18,273,16.8,Squamous Cell Carcinoma
+1448,Uganda,3rd,45,273,8.4,Squamous Cell Carcinoma
+1449,Uganda,4th,31,273,3.3,Squamous Cell Carcinoma
+1450,Uganda,5th,35,273,1.5,Squamous Cell Carcinoma
+1451,Uganda,6th,56,273,1.5,Squamous Cell Carcinoma
+1452,Uganda,7th,51,273,1.5,Squamous Cell Carcinoma
+1453,Uganda,8th,52,273,1.1,Squamous Cell Carcinoma
+1454,Uganda,9th,33,273,0.7,Squamous Cell Carcinoma
+1455,Uganda,10th,39,273,0.4,Squamous Cell Carcinoma
+1456,United Kingdom,1st,16,2763,63.3,Squamous Cell Carcinoma
+1457,United Kingdom,2nd,18,2763,15.5,Squamous Cell Carcinoma
+1458,United Kingdom,3rd,45,2629,4.4,Squamous Cell Carcinoma
+1459,United Kingdom,4th,33,2763,4.1,Squamous Cell Carcinoma
+1460,United Kingdom,5th,31,2737,3.6,Squamous Cell Carcinoma
+1461,United Kingdom,6th,52,2629,2.1,Squamous Cell Carcinoma
+1462,United Kingdom,7th,39,2629,1.2,Squamous Cell Carcinoma
+1463,United Kingdom,8th,59,2629,1.1,Squamous Cell Carcinoma
+1464,United Kingdom,9th,58,2714,1.1,Squamous Cell Carcinoma
+1465,United Kingdom,10th,35,2714,1,Squamous Cell Carcinoma
+1466,United Republic of Tanzania,1st,16,44,47.7,Squamous Cell Carcinoma
+1467,United Republic of Tanzania,2nd,18,44,18.2,Squamous Cell Carcinoma
+1468,United Republic of Tanzania,3rd,45,44,11.4,Squamous Cell Carcinoma
+1469,United Republic of Tanzania,4th,52,44,4.5,Squamous Cell Carcinoma
+1470,United Republic of Tanzania,5th,33,44,2.3,Squamous Cell Carcinoma
+1471,United Republic of Tanzania,6th,51,44,2.3,Squamous Cell Carcinoma
+1472,United Republic of Tanzania,7th,68,44,2.3,Squamous Cell Carcinoma
+1473,Algeria,1st,16,12,50,Adenocarcinoma
+1474,Algeria,2nd,33,12,16.7,Adenocarcinoma
+1475,Algeria,3rd,18,12,16.7,Adenocarcinoma
+1476,Algeria,4th,59,12,8.3,Adenocarcinoma
+1477,Algeria,5th,35,12,8.3,Adenocarcinoma
+1478,Algeria,6th,,,,Adenocarcinoma
+1479,Algeria,7th,,,,Adenocarcinoma
+1480,Algeria,8th,,,,Adenocarcinoma
+1481,Algeria,9th,,,,Adenocarcinoma
+1482,Algeria,10th,,,,Adenocarcinoma
+1483,Argentina,1st,,,,Adenocarcinoma
+1484,Argentina,2nd,,,,Adenocarcinoma
+1485,Argentina,3rd,,,,Adenocarcinoma
+1486,Argentina,4th,,,,Adenocarcinoma
+1487,Argentina,5th,,,,Adenocarcinoma
+1488,Argentina,6th,,,,Adenocarcinoma
+1489,Argentina,7th,,,,Adenocarcinoma
+1490,Argentina,8th,,,,Adenocarcinoma
+1491,Argentina,9th,,,,Adenocarcinoma
+1492,Argentina,10th,,,,Adenocarcinoma
+1493,Australia,1st,18,105,39,Adenocarcinoma
+1494,Australia,2nd,16,105,31.4,Adenocarcinoma
+1495,Australia,3rd,45,72,11.1,Adenocarcinoma
+1496,Australia,4th,,,,Adenocarcinoma
+1497,Australia,5th,,,,Adenocarcinoma
+1498,Australia,6th,,,,Adenocarcinoma
+1499,Australia,7th,,,,Adenocarcinoma
+1500,Australia,8th,,,,Adenocarcinoma
+1501,Australia,9th,,,,Adenocarcinoma
+1502,Australia,10th,,,,Adenocarcinoma
+1503,Austria,1st,,,,Adenocarcinoma
+1504,Austria,2nd,,,,Adenocarcinoma
+1505,Austria,3rd,,,,Adenocarcinoma
+1506,Austria,4th,,,,Adenocarcinoma
+1507,Austria,5th,,,,Adenocarcinoma
+1508,Austria,6th,,,,Adenocarcinoma
+1509,Austria,7th,,,,Adenocarcinoma
+1510,Austria,8th,,,,Adenocarcinoma
+1511,Austria,9th,,,,Adenocarcinoma
+1512,Austria,10th,,,,Adenocarcinoma
+1513,Belarus,1st,,,,Adenocarcinoma
+1514,Belarus,2nd,,,,Adenocarcinoma
+1515,Belgium,1st,16,20,65,Adenocarcinoma
+1516,Belgium,2nd,18,20,20,Adenocarcinoma
+1517,Belgium,3rd,,,,Adenocarcinoma
+1518,Belgium,4th,,,,Adenocarcinoma
+1519,Belgium,5th,,,,Adenocarcinoma
+1520,Belgium,6th,,,,Adenocarcinoma
+1521,Belgium,7th,,,,Adenocarcinoma
+1522,Bolivia,1st,,,,Adenocarcinoma
+1523,Bolivia,2nd,,,,Adenocarcinoma
+1524,Bolivia,3rd,,,,Adenocarcinoma
+1525,Bolivia,4th,,,,Adenocarcinoma
+1526,Bolivia,5th,,,,Adenocarcinoma
+1527,Bolivia,6th,,,,Adenocarcinoma
+1528,Bolivia,7th,,,,Adenocarcinoma
+1529,Bolivia,8th,,,,Adenocarcinoma
+1530,Bosnia,1st,16,17,41.2,Adenocarcinoma
+1531,Bosnia,2nd,18,17,11.8,Adenocarcinoma
+1532,Bosnia,3rd,51,17,5.9,Adenocarcinoma
+1533,Bosnia,4th,,,,Adenocarcinoma
+1534,Bosnia,5th,,,,Adenocarcinoma
+1535,Bosnia,6th,,,,Adenocarcinoma
+1536,Bosnia,7th,,,,Adenocarcinoma
+1537,Bosnia,8th,,,,Adenocarcinoma
+1538,Bosnia,9th,,,,Adenocarcinoma
+1539,Bosnia,10th,,,,Adenocarcinoma
+1540,Botswana,1st,,,,Adenocarcinoma
+1541,Botswana,2nd,,,,Adenocarcinoma
+1542,Botswana,3rd,,,,Adenocarcinoma
+1543,Botswana,4th,,,,Adenocarcinoma
+1544,Botswana,5th,,,,Adenocarcinoma
+1545,Botswana,6th,,,,Adenocarcinoma
+1546,Botswana,7th,,,,Adenocarcinoma
+1547,Botswana,8th,,,,Adenocarcinoma
+1548,Botswana,9th,,,,Adenocarcinoma
+1549,Botswana,10th,,,,Adenocarcinoma
+1550,Brazil,1st,16,346,33.2,Adenocarcinoma
+1551,Brazil,2nd,18,346,31.8,Adenocarcinoma
+1552,Brazil,3rd,45,117,7.7,Adenocarcinoma
+1553,Brazil,4th,31,117,1.7,Adenocarcinoma
+1554,Brazil,5th,35,117,1.7,Adenocarcinoma
+1555,Brazil,6th,59,117,1.7,Adenocarcinoma
+1556,Brazil,7th,33,117,1.7,Adenocarcinoma
+1557,Brazil,8th,68,117,0.9,Adenocarcinoma
+1558,Brazil,9th,,,,Adenocarcinoma
+1559,Brazil,10th,,,,Adenocarcinoma
+1560,Bulgaria,1st,,,,Adenocarcinoma
+1561,Bulgaria,2nd,,,,Adenocarcinoma
+1562,Canada,1st,18,76,39.5,Adenocarcinoma
+1563,Canada,2nd,16,76,35.5,Adenocarcinoma
+1564,Canada,3rd,33,76,2.6,Adenocarcinoma
+1565,Canada,4th,,,,Adenocarcinoma
+1566,Canada,5th,,,,Adenocarcinoma
+1567,Canada,6th,,,,Adenocarcinoma
+1568,Canada,7th,,,,Adenocarcinoma
+1569,Canada,8th,,,,Adenocarcinoma
+1570,Canada,9th,,,,Adenocarcinoma
+1571,Canada,10th,,,,Adenocarcinoma
+1572,Chile,1st,,,,Adenocarcinoma
+1573,Chile,2nd,,,,Adenocarcinoma
+1574,Chile,3rd,,,,Adenocarcinoma
+1575,Chile,4th,,,,Adenocarcinoma
+1576,Chile,5th,,,,Adenocarcinoma
+1577,Chile,6th,,,,Adenocarcinoma
+1578,Chile,7th,,,,Adenocarcinoma
+1579,Chile,8th,,,,Adenocarcinoma
+1580,Chile,9th,,,,Adenocarcinoma
+1581,Chile,10th,,,,Adenocarcinoma
+1582,China,1st,16,228,45.2,Adenocarcinoma
+1583,China,2nd,18,228,36.4,Adenocarcinoma
+1584,China,3rd,52,228,3.5,Adenocarcinoma
+1585,China,4th,58,228,3.1,Adenocarcinoma
+1586,China,5th,59,133,1.5,Adenocarcinoma
+1587,China,6th,39,133,1.5,Adenocarcinoma
+1588,China,7th,68,133,0.8,Adenocarcinoma
+1589,China,8th,45,133,0.8,Adenocarcinoma
+1590,China,9th,33,150,0.7,Adenocarcinoma
+1591,China,10th,31,150,0.7,Adenocarcinoma
+1592,Colombia,1st,16,23,47.8,Adenocarcinoma
+1593,Colombia,2nd,18,23,34.8,Adenocarcinoma
+1594,Colombia,3rd,31,23,13,Adenocarcinoma
+1595,Colombia,4th,59,23,4.3,Adenocarcinoma
+1596,Colombia,5th,56,23,4.3,Adenocarcinoma
+1597,Colombia,6th,,,,Adenocarcinoma
+1598,Colombia,7th,,,,Adenocarcinoma
+1599,Colombia,8th,,,,Adenocarcinoma
+1600,Colombia,9th,,,,Adenocarcinoma
+1601,Colombia,10th,,,,Adenocarcinoma
+1602,Costa Rica,1st,,,,Adenocarcinoma
+1603,Costa Rica,2nd,,,,Adenocarcinoma
+1604,Costa Rica,3rd,,,,Adenocarcinoma
+1605,Costa Rica,4th,,,,Adenocarcinoma
+1606,Costa Rica,5th,,,,Adenocarcinoma
+1607,Costa Rica,6th,,,,Adenocarcinoma
+1608,Costa Rica,7th,,,,Adenocarcinoma
+1609,Costa Rica,8th,,,,Adenocarcinoma
+1610,Costa Rica,9th,,,,Adenocarcinoma
+1611,Costa Rica,10th,,,,Adenocarcinoma
+1612,Croatia,1st,16,117,44.4,Adenocarcinoma
+1613,Croatia,2nd,18,117,38.5,Adenocarcinoma
+1614,Croatia,3rd,51,51,17.6,Adenocarcinoma
+1615,Croatia,4th,31,117,11.1,Adenocarcinoma
+1616,Croatia,5th,33,117,7.7,Adenocarcinoma
+1617,Croatia,6th,45,117,2.6,Adenocarcinoma
+1618,Cuba,1st,,,,Adenocarcinoma
+1619,Cuba,2nd,,,,Adenocarcinoma
+1620,Cuba,3rd,,,,Adenocarcinoma
+1621,Cuba,4th,,,,Adenocarcinoma
+1622,Cuba,5th,,,,Adenocarcinoma
+1623,Cuba,6th,,,,Adenocarcinoma
+1624,Cuba,7th,,,,Adenocarcinoma
+1625,Cuba,8th,,,,Adenocarcinoma
+1626,Cuba,9th,,,,Adenocarcinoma
+1627,Czech Republic,1st,,,,Adenocarcinoma
+1628,Czech Republic,2nd,,,,Adenocarcinoma
+1629,Czech Republic,3rd,,,,Adenocarcinoma
+1630,Czech Republic,4th,,,,Adenocarcinoma
+1631,Czech Republic,5th,,,,Adenocarcinoma
+1632,Czech Republic,6th,,,,Adenocarcinoma
+1633,Czech Republic,7th,,,,Adenocarcinoma
+1634,Czech Republic,8th,,,,Adenocarcinoma
+1635,Czech Republic,9th,,,,Adenocarcinoma
+1636,Czech Republic,10th,,,,Adenocarcinoma
+1637,Denmark,1st,18,89,47.2,Adenocarcinoma
+1638,Denmark,2nd,16,89,27,Adenocarcinoma
+1639,Denmark,3rd,45,39,12.8,Adenocarcinoma
+1640,Denmark,4th,39,39,2.6,Adenocarcinoma
+1641,Denmark,5th,33,89,2.2,Adenocarcinoma
+1642,Denmark,6th,,,,Adenocarcinoma
+1643,Denmark,7th,,,,Adenocarcinoma
+1644,Denmark,8th,,,,Adenocarcinoma
+1645,Denmark,9th,,,,Adenocarcinoma
+1646,Denmark,10th,,,,Adenocarcinoma
+1647,Ecuador,1st,,,,Adenocarcinoma
+1648,Ecuador,2nd,,,,Adenocarcinoma
+1649,Ecuador,3rd,,,,Adenocarcinoma
+1650,Ecuador,4th,,,,Adenocarcinoma
+1651,Ecuador,5th,,,,Adenocarcinoma
+1652,Ecuador,6th,,,,Adenocarcinoma
+1653,Ecuador,7th,,,,Adenocarcinoma
+1654,Ecuador,8th,,,,Adenocarcinoma
+1655,Ecuador,9th,,,,Adenocarcinoma
+1656,Ecuador,10th,,,,Adenocarcinoma
+1657,Ethiopia,1st,16,10,30,Adenocarcinoma
+1658,Ethiopia,2nd,,,,Adenocarcinoma
+1659,Ethiopia,3rd,,,,Adenocarcinoma
+1660,Ethiopia,4th,,,,Adenocarcinoma
+1661,Ethiopia,5th,,,,Adenocarcinoma
+1662,Ethiopia,6th,,,,Adenocarcinoma
+1663,Ethiopia,7th,,,,Adenocarcinoma
+1664,Ethiopia,8th,,,,Adenocarcinoma
+1665,Ethiopia,9th,,,,Adenocarcinoma
+1666,Ethiopia,10th,,,,Adenocarcinoma
+1667,Finland,1st,18,108,55.6,Adenocarcinoma
+1668,Finland,2nd,16,108,16.7,Adenocarcinoma
+1669,Finland,3rd,33,108,3.7,Adenocarcinoma
+1670,France,1st,16,179,39.7,Adenocarcinoma
+1671,France,2nd,18,179,39.1,Adenocarcinoma
+1672,France,3rd,31,162,3.1,Adenocarcinoma
+1673,France,4th,45,162,1.9,Adenocarcinoma
+1674,France,5th,35,179,1.7,Adenocarcinoma
+1675,France,6th,58,162,1.2,Adenocarcinoma
+1676,France,7th,51,134,0.7,Adenocarcinoma
+1677,France,8th,33,179,0.6,Adenocarcinoma
+1678,France,9th,52,162,0.6,Adenocarcinoma
+1679,France,10th,,,,Adenocarcinoma
+1680,Georgia,1st,,,,Adenocarcinoma
+1681,Georgia,2nd,,,,Adenocarcinoma
+1682,Georgia,3rd,,,,Adenocarcinoma
+1683,Georgia,4th,,,,Adenocarcinoma
+1684,Georgia,5th,,,,Adenocarcinoma
+1685,Georgia,6th,,,,Adenocarcinoma
+1686,Georgia,7th,,,,Adenocarcinoma
+1687,Georgia,8th,,,,Adenocarcinoma
+1688,Georgia,9th,,,,Adenocarcinoma
+1689,Georgia,10th,,,,Adenocarcinoma
+1690,Germany,1st,16,26,38.5,Adenocarcinoma
+1691,Germany,2nd,18,26,38.5,Adenocarcinoma
+1692,Germany,3rd,,,,Adenocarcinoma
+1693,Germany,4th,,,,Adenocarcinoma
+1694,Germany,5th,,,,Adenocarcinoma
+1695,Germany,6th,,,,Adenocarcinoma
+1696,Ghana,1st,,,,Adenocarcinoma
+1697,Ghana,2nd,,,,Adenocarcinoma
+1698,Ghana,3rd,,,,Adenocarcinoma
+1699,Ghana,4th,,,,Adenocarcinoma
+1700,Ghana,5th,,,,Adenocarcinoma
+1701,Ghana,6th,,,,Adenocarcinoma
+1702,Ghana,7th,,,,Adenocarcinoma
+1703,Ghana,8th,,,,Adenocarcinoma
+1704,Ghana,9th,,,,Adenocarcinoma
+1705,Ghana,10th,,,,Adenocarcinoma
+1706,Greece,1st,,,,Adenocarcinoma
+1707,Greece,2nd,,,,Adenocarcinoma
+1708,Greece,3rd,,,,Adenocarcinoma
+1709,Greece,4th,,,,Adenocarcinoma
+1710,Greece,5th,,,,Adenocarcinoma
+1711,Guinea,1st,,,,Adenocarcinoma
+1712,Guinea,2nd,,,,Adenocarcinoma
+1713,Guinea,3rd,,,,Adenocarcinoma
+1714,Guinea,4th,,,,Adenocarcinoma
+1715,Guinea,5th,,,,Adenocarcinoma
+1716,Guinea,6th,,,,Adenocarcinoma
+1717,Guinea,7th,,,,Adenocarcinoma
+1718,Guinea,8th,,,,Adenocarcinoma
+1719,Guinea,9th,,,,Adenocarcinoma
+1720,Guinea,10th,,,,Adenocarcinoma
+1721,Honduras,1st,,,,Adenocarcinoma
+1722,Honduras,2nd,,,,Adenocarcinoma
+1723,Honduras,3rd,,,,Adenocarcinoma
+1724,Honduras,4th,,,,Adenocarcinoma
+1725,Honduras,5th,,,,Adenocarcinoma
+1726,Honduras,6th,,,,Adenocarcinoma
+1727,Honduras,7th,,,,Adenocarcinoma
+1728,Honduras,8th,,,,Adenocarcinoma
+1729,Hungary,1st,,,,Adenocarcinoma
+1730,Hungary,2nd,,,,Adenocarcinoma
+1731,Iceland,1st,16,39,43.6,Adenocarcinoma
+1732,Iceland,2nd,18,39,35.9,Adenocarcinoma
+1733,Iceland,3rd,45,39,10.3,Adenocarcinoma
+1734,Iceland,4th,33,39,2.6,Adenocarcinoma
+1735,Iceland,5th,39,39,2.6,Adenocarcinoma
+1736,Iceland,6th,,,,Adenocarcinoma
+1737,Iceland,7th,,,,Adenocarcinoma
+1738,Iceland,8th,,,,Adenocarcinoma
+1739,Iceland,9th,,,,Adenocarcinoma
+1740,Iceland,10th,,,,Adenocarcinoma
+1741,India,1st,16,36,50,Adenocarcinoma
+1742,India,2nd,18,36,36.1,Adenocarcinoma
+1743,India,3rd,31,36,5.6,Adenocarcinoma
+1744,India,4th,33,36,5.6,Adenocarcinoma
+1745,India,5th,,,,Adenocarcinoma
+1746,India,6th,,,,Adenocarcinoma
+1747,India,7th,,,,Adenocarcinoma
+1748,India,8th,,,,Adenocarcinoma
+1749,India,9th,,,,Adenocarcinoma
+1750,India,10th,,,,Adenocarcinoma
+1751,Indonesia,1st,18,58,67.2,Adenocarcinoma
+1752,Indonesia,2nd,16,58,19,Adenocarcinoma
+1753,Indonesia,3rd,52,58,12.1,Adenocarcinoma
+1754,Indonesia,4th,45,58,5.2,Adenocarcinoma
+1755,Indonesia,5th,59,58,3.4,Adenocarcinoma
+1756,Indonesia,6th,58,58,3.4,Adenocarcinoma
+1757,Indonesia,7th,,,,Adenocarcinoma
+1758,Indonesia,8th,,,,Adenocarcinoma
+1759,Indonesia,9th,,,,Adenocarcinoma
+1760,Indonesia,10th,,,,Adenocarcinoma
+1761,Iran,1st,,,,Adenocarcinoma
+1762,Iran,2nd,,,,Adenocarcinoma
+1763,Iran,3rd,,,,Adenocarcinoma
+1764,Iran,4th,,,,Adenocarcinoma
+1765,Iran,5th,,,,Adenocarcinoma
+1766,Iran,6th,,,,Adenocarcinoma
+1767,Iran,7th,,,,Adenocarcinoma
+1768,Iran,8th,,,,Adenocarcinoma
+1769,Iran,9th,,,,Adenocarcinoma
+1770,Iran,10th,,,,Adenocarcinoma
+1771,Ireland,1st,18,38,26.3,Adenocarcinoma
+1772,Ireland,2nd,16,38,23.7,Adenocarcinoma
+1773,Ireland,3rd,,,,Adenocarcinoma
+1774,Ireland,4th,,,,Adenocarcinoma
+1775,Israel,1st,,,,Adenocarcinoma
+1776,Israel,2nd,,,,Adenocarcinoma
+1777,Israel,3rd,,,,Adenocarcinoma
+1778,Israel,4th,,,,Adenocarcinoma
+1779,Israel,5th,,,,Adenocarcinoma
+1780,Israel,6th,,,,Adenocarcinoma
+1781,Israel,7th,,,,Adenocarcinoma
+1782,Israel,8th,,,,Adenocarcinoma
+1783,Israel,9th,,,,Adenocarcinoma
+1784,Israel,10th,,,,Adenocarcinoma
+1785,Italy,1st,16,167,52.7,Adenocarcinoma
+1786,Italy,2nd,18,167,19.8,Adenocarcinoma
+1787,Italy,3rd,52,103,11.7,Adenocarcinoma
+1788,Italy,4th,31,167,9,Adenocarcinoma
+1789,Italy,5th,45,142,7.7,Adenocarcinoma
+1790,Italy,6th,51,103,5.8,Adenocarcinoma
+1791,Italy,7th,39,103,5.8,Adenocarcinoma
+1792,Italy,8th,33,167,3,Adenocarcinoma
+1793,Italy,9th,58,78,2.6,Adenocarcinoma
+1794,Italy,10th,35,128,2.3,Adenocarcinoma
+1795,Jamaica,1st,,,,Adenocarcinoma
+1796,Jamaica,2nd,,,,Adenocarcinoma
+1797,Jamaica,3rd,,,,Adenocarcinoma
+1798,Jamaica,4th,,,,Adenocarcinoma
+1799,Jamaica,5th,,,,Adenocarcinoma
+1800,Jamaica,6th,,,,Adenocarcinoma
+1801,Jamaica,7th,,,,Adenocarcinoma
+1802,Jamaica,8th,,,,Adenocarcinoma
+1803,Jamaica,9th,,,,Adenocarcinoma
+1804,Japan,1st,18,241,41.1,Adenocarcinoma
+1805,Japan,2nd,16,241,29.9,Adenocarcinoma
+1806,Japan,3rd,35,166,3,Adenocarcinoma
+1807,Japan,4th,51,102,2.9,Adenocarcinoma
+1808,Japan,5th,31,211,1.9,Adenocarcinoma
+1809,Japan,6th,58,127,1.6,Adenocarcinoma
+1810,Japan,7th,52,127,1.6,Adenocarcinoma
+1811,Japan,8th,33,191,1,Adenocarcinoma
+1812,Japan,9th,59,132,0.8,Adenocarcinoma
+1813,Japan,10th,56,132,0.8,Adenocarcinoma
+1814,Jordan,1st,,,,Adenocarcinoma
+1815,Jordan,2nd,,,,Adenocarcinoma
+1816,Jordan,3rd,,,,Adenocarcinoma
+1817,Jordan,4th,,,,Adenocarcinoma
+1818,Jordan,5th,,,,Adenocarcinoma
+1819,Jordan,6th,,,,Adenocarcinoma
+1820,Jordan,7th,,,,Adenocarcinoma
+1821,Jordan,8th,,,,Adenocarcinoma
+1822,Jordan,9th,,,,Adenocarcinoma
+1823,Jordan,10th,,,,Adenocarcinoma
+1824,Kenya,1st,,,,Adenocarcinoma
+1825,Kenya,2nd,,,,Adenocarcinoma
+1826,Kenya,3rd,,,,Adenocarcinoma
+1827,Kenya,4th,,,,Adenocarcinoma
+1828,Kenya,5th,,,,Adenocarcinoma
+1829,Kenya,6th,,,,Adenocarcinoma
+1830,Kenya,7th,,,,Adenocarcinoma
+1831,Kenya,8th,,,,Adenocarcinoma
+1832,Kenya,9th,,,,Adenocarcinoma
+1833,Kenya,10th,,,,Adenocarcinoma
+1834,Latvia,1st,,,,Adenocarcinoma
+1835,Latvia,2nd,,,,Adenocarcinoma
+1836,Latvia,3rd,,,,Adenocarcinoma
+1837,Latvia,4th,,,,Adenocarcinoma
+1838,Latvia,5th,,,,Adenocarcinoma
+1839,Lithuania,1st,16,17,35.3,Adenocarcinoma
+1840,Lithuania,2nd,18,17,17.6,Adenocarcinoma
+1841,Lithuania,3rd,,,,Adenocarcinoma
+1842,Lithuania,4th,,,,Adenocarcinoma
+1843,Lithuania,5th,,,,Adenocarcinoma
+1844,Lithuania,6th,,,,Adenocarcinoma
+1845,Lithuania,7th,,,,Adenocarcinoma
+1846,Lithuania,8th,,,,Adenocarcinoma
+1847,Lithuania,9th,,,,Adenocarcinoma
+1848,Lithuania,10th,,,,Adenocarcinoma
+1849,Luxembourg,1st,,,,Adenocarcinoma
+1850,Luxembourg,2nd,,,,Adenocarcinoma
+1851,Luxembourg,3rd,,,,Adenocarcinoma
+1852,Luxembourg,4th,,,,Adenocarcinoma
+1853,Malaysia,1st,18,106,53.8,Adenocarcinoma
+1854,Malaysia,2nd,16,106,39.6,Adenocarcinoma
+1855,Malaysia,3rd,45,106,10.4,Adenocarcinoma
+1856,Malaysia,4th,56,106,9.4,Adenocarcinoma
+1857,Malaysia,5th,33,106,7.5,Adenocarcinoma
+1858,Malaysia,6th,52,106,4.7,Adenocarcinoma
+1859,Malaysia,7th,39,106,4.7,Adenocarcinoma
+1860,Malaysia,8th,58,106,2.8,Adenocarcinoma
+1861,Malaysia,9th,59,106,0.9,Adenocarcinoma
+1862,Malaysia,10th,31,106,0.9,Adenocarcinoma
+1863,Mali,1st,,,,Adenocarcinoma
+1864,Mali,2nd,,,,Adenocarcinoma
+1865,Mali,3rd,,,,Adenocarcinoma
+1866,Mali,4th,,,,Adenocarcinoma
+1867,Mali,5th,,,,Adenocarcinoma
+1868,Mali,6th,,,,Adenocarcinoma
+1869,Mali,7th,,,,Adenocarcinoma
+1870,Mali,8th,,,,Adenocarcinoma
+1871,Mali,9th,,,,Adenocarcinoma
+1872,Mali,10th,,,,Adenocarcinoma
+1873,Mexico,1st,16,64,42.2,Adenocarcinoma
+1874,Mexico,2nd,45,64,12.5,Adenocarcinoma
+1875,Mexico,3rd,18,64,10.9,Adenocarcinoma
+1876,Mexico,4th,31,64,4.7,Adenocarcinoma
+1877,Mexico,5th,39,64,3.1,Adenocarcinoma
+1878,Mexico,6th,33,64,1.6,Adenocarcinoma
+1879,Mexico,7th,58,64,1.6,Adenocarcinoma
+1880,Mexico,8th,59,64,1.6,Adenocarcinoma
+1881,Mexico,9th,68,64,1.6,Adenocarcinoma
+1882,Mexico,10th,,,,Adenocarcinoma
+1883,Mongolia,1st,,,,Adenocarcinoma
+1884,Morocco,1st,16,13,61.5,Adenocarcinoma
+1885,Morocco,2nd,45,13,7.7,Adenocarcinoma
+1886,Morocco,3rd,18,13,7.7,Adenocarcinoma
+1887,Morocco,4th,,,,Adenocarcinoma
+1888,Morocco,5th,,,,Adenocarcinoma
+1889,Morocco,6th,,,,Adenocarcinoma
+1890,Morocco,7th,,,,Adenocarcinoma
+1891,Morocco,8th,,,,Adenocarcinoma
+1892,Morocco,9th,,,,Adenocarcinoma
+1893,Mozambique,1st,,,,Adenocarcinoma
+1894,Mozambique,2nd,,,,Adenocarcinoma
+1895,Mozambique,3rd,,,,Adenocarcinoma
+1896,Mozambique,4th,,,,Adenocarcinoma
+1897,Mozambique,5th,,,,Adenocarcinoma
+1898,Mozambique,6th,,,,Adenocarcinoma
+1899,Mozambique,7th,,,,Adenocarcinoma
+1900,Mozambique,8th,,,,Adenocarcinoma
+1901,Mozambique,9th,,,,Adenocarcinoma
+1902,Mozambique,10th,,,,Adenocarcinoma
+1903,Nepal,1st,,,,Adenocarcinoma
+1904,Nepal,2nd,,,,Adenocarcinoma
+1905,Nepal,3rd,,,,Adenocarcinoma
+1906,Nepal,4th,,,,Adenocarcinoma
+1907,Nepal,5th,,,,Adenocarcinoma
+1908,Nepal,6th,,,,Adenocarcinoma
+1909,Netherlands,1st,18,260,52.7,Adenocarcinoma
+1910,Netherlands,2nd,16,260,33.5,Adenocarcinoma
+1911,Netherlands,3rd,45,260,8.8,Adenocarcinoma
+1912,Netherlands,4th,39,260,1.2,Adenocarcinoma
+1913,Netherlands,5th,52,260,0.4,Adenocarcinoma
+1914,Netherlands,6th,,,,Adenocarcinoma
+1915,Netherlands,7th,,,,Adenocarcinoma
+1916,Netherlands,8th,,,,Adenocarcinoma
+1917,Netherlands,9th,,,,Adenocarcinoma
+1918,Netherlands,10th,,,,Adenocarcinoma
+1919,Nicaragua,1st,,,,Adenocarcinoma
+1920,Nicaragua,2nd,,,,Adenocarcinoma
+1921,Nicaragua,3rd,,,,Adenocarcinoma
+1922,Nicaragua,4th,,,,Adenocarcinoma
+1923,Nicaragua,5th,,,,Adenocarcinoma
+1924,Nicaragua,6th,,,,Adenocarcinoma
+1925,Nicaragua,7th,,,,Adenocarcinoma
+1926,Nicaragua,8th,,,,Adenocarcinoma
+1927,Nicaragua,9th,,,,Adenocarcinoma
+1928,Nicaragua,10th,,,,Adenocarcinoma
+1929,Nigeria,1st,,,,Adenocarcinoma
+1930,Nigeria,2nd,,,,Adenocarcinoma
+1931,Nigeria,3rd,,,,Adenocarcinoma
+1932,Nigeria,4th,,,,Adenocarcinoma
+1933,Nigeria,5th,,,,Adenocarcinoma
+1934,Nigeria,6th,,,,Adenocarcinoma
+1935,Nigeria,7th,,,,Adenocarcinoma
+1936,Nigeria,8th,,,,Adenocarcinoma
+1937,Nigeria,9th,,,,Adenocarcinoma
+1938,Nigeria,10th,,,,Adenocarcinoma
+1939,Norway,1st,,,,Adenocarcinoma
+1940,Norway,2nd,,,,Adenocarcinoma
+1941,Norway,3rd,,,,Adenocarcinoma
+1942,Norway,4th,,,,Adenocarcinoma
+1943,Norway,5th,,,,Adenocarcinoma
+1944,Norway,6th,,,,Adenocarcinoma
+1945,Norway,7th,,,,Adenocarcinoma
+1946,Norway,8th,,,,Adenocarcinoma
+1947,Norway,9th,,,,Adenocarcinoma
+1948,Norway,10th,,,,Adenocarcinoma
+1949,Pakistan,1st,,,,Adenocarcinoma
+1950,Pakistan,2nd,,,,Adenocarcinoma
+1951,Pakistan,3rd,,,,Adenocarcinoma
+1952,Pakistan,4th,,,,Adenocarcinoma
+1953,Pakistan,5th,,,,Adenocarcinoma
+1954,Pakistan,6th,,,,Adenocarcinoma
+1955,Pakistan,7th,,,,Adenocarcinoma
+1956,Pakistan,8th,,,,Adenocarcinoma
+1957,Panama,1st,,,,Adenocarcinoma
+1958,Panama,2nd,,,,Adenocarcinoma
+1959,Panama,3rd,,,,Adenocarcinoma
+1960,Panama,4th,,,,Adenocarcinoma
+1961,Panama,5th,,,,Adenocarcinoma
+1962,Panama,6th,,,,Adenocarcinoma
+1963,Panama,7th,,,,Adenocarcinoma
+1964,Panama,8th,,,,Adenocarcinoma
+1965,Panama,9th,,,,Adenocarcinoma
+1966,Panama,10th,,,,Adenocarcinoma
+1967,Papua New Guinea,1st,18,15,46.7,Adenocarcinoma
+1968,Papua New Guinea,2nd,16,15,40,Adenocarcinoma
+1969,Papua New Guinea,3rd,33,15,6.7,Adenocarcinoma
+1970,Papua New Guinea,4th,31,15,6.7,Adenocarcinoma
+1971,Papua New Guinea,5th,,,,Adenocarcinoma
+1972,Papua New Guinea,6th,,,,Adenocarcinoma
+1973,Papua New Guinea,7th,,,,Adenocarcinoma
+1974,Papua New Guinea,8th,,,,Adenocarcinoma
+1975,Papua New Guinea,9th,,,,Adenocarcinoma
+1976,Papua New Guinea,10th,,,,Adenocarcinoma
+1977,Paraguay,1st,18,16,25,Adenocarcinoma
+1978,Paraguay,2nd,16,16,18.8,Adenocarcinoma
+1979,Paraguay,3rd,45,16,12.5,Adenocarcinoma
+1980,Paraguay,4th,,,,Adenocarcinoma
+1981,Paraguay,5th,,,,Adenocarcinoma
+1982,Paraguay,6th,,,,Adenocarcinoma
+1983,Paraguay,7th,,,,Adenocarcinoma
+1984,Paraguay,8th,,,,Adenocarcinoma
+1985,Paraguay,9th,,,,Adenocarcinoma
+1986,Paraguay,10th,,,,Adenocarcinoma
+1987,Peru,1st,16,25,76,Adenocarcinoma
+1988,Peru,2nd,18,25,8,Adenocarcinoma
+1989,Peru,3rd,51,25,4,Adenocarcinoma
+1990,Peru,4th,45,25,4,Adenocarcinoma
+1991,Peru,5th,35,25,4,Adenocarcinoma
+1992,Peru,6th,,,,Adenocarcinoma
+1993,Peru,7th,,,,Adenocarcinoma
+1994,Peru,8th,,,,Adenocarcinoma
+1995,Peru,9th,,,,Adenocarcinoma
+1996,Peru,10th,,,,Adenocarcinoma
+1997,Philippines,1st,18,51,37.3,Adenocarcinoma
+1998,Philippines,2nd,16,51,19.6,Adenocarcinoma
+1999,Philippines,3rd,45,51,17.6,Adenocarcinoma
+2000,Philippines,4th,59,51,3.9,Adenocarcinoma
+2001,Philippines,5th,31,51,2,Adenocarcinoma
+2002,Philippines,6th,,,,Adenocarcinoma
+2003,Philippines,7th,,,,Adenocarcinoma
+2004,Philippines,8th,,,,Adenocarcinoma
+2005,Philippines,9th,,,,Adenocarcinoma
+2006,Philippines,10th,,,,Adenocarcinoma
+2007,Poland,1st,18,132,50.8,Adenocarcinoma
+2008,Poland,2nd,16,132,28.8,Adenocarcinoma
+2009,Poland,3rd,45,82,9.8,Adenocarcinoma
+2010,Poland,4th,52,82,2.4,Adenocarcinoma
+2011,Poland,5th,33,82,1.2,Adenocarcinoma
+2012,Poland,6th,,,,Adenocarcinoma
+2013,Poland,7th,,,,Adenocarcinoma
+2014,Poland,8th,,,,Adenocarcinoma
+2015,Poland,9th,,,,Adenocarcinoma
+2016,Poland,10th,,,,Adenocarcinoma
+2017,Portugal,1st,,,,Adenocarcinoma
+2018,Portugal,2nd,,,,Adenocarcinoma
+2019,Portugal,3rd,,,,Adenocarcinoma
+2020,Portugal,4th,,,,Adenocarcinoma
+2021,Portugal,5th,,,,Adenocarcinoma
+2022,Portugal,6th,,,,Adenocarcinoma
+2023,Portugal,7th,,,,Adenocarcinoma
+2024,Portugal,8th,,,,Adenocarcinoma
+2025,Portugal,9th,,,,Adenocarcinoma
+2026,Portugal,10th,,,,Adenocarcinoma
+2027,Republic of Korea,1st,16,244,36.5,Adenocarcinoma
+2028,Republic of Korea,2nd,18,244,35.2,Adenocarcinoma
+2029,Republic of Korea,3rd,33,244,3.7,Adenocarcinoma
+2030,Republic of Korea,4th,45,244,3.3,Adenocarcinoma
+2031,Republic of Korea,5th,68,244,2,Adenocarcinoma
+2032,Republic of Korea,6th,59,244,1.2,Adenocarcinoma
+2033,Republic of Korea,7th,56,244,0.8,Adenocarcinoma
+2034,Republic of Korea,8th,52,244,0.8,Adenocarcinoma
+2035,Republic of Korea,9th,58,244,0.4,Adenocarcinoma
+2036,Republic of Korea,10th,,,,Adenocarcinoma
+2037,Russia,1st,16,51,60.8,Adenocarcinoma
+2038,Russia,2nd,18,51,17.6,Adenocarcinoma
+2039,Russia,3rd,45,51,5.9,Adenocarcinoma
+2040,Russia,4th,31,51,3.9,Adenocarcinoma
+2041,Russia,5th,35,51,2,Adenocarcinoma
+2042,Russia,6th,,,,Adenocarcinoma
+2043,Russia,7th,,,,Adenocarcinoma
+2044,Russia,8th,,,,Adenocarcinoma
+2045,Russia,9th,,,,Adenocarcinoma
+2046,Saudi Arabia,1st,,,,Adenocarcinoma
+2047,Saudi Arabia,2nd,,,,Adenocarcinoma
+2048,Saudi Arabia,3rd,,,,Adenocarcinoma
+2049,Saudi Arabia,4th,,,,Adenocarcinoma
+2050,Saudi Arabia,5th,,,,Adenocarcinoma
+2051,Saudi Arabia,6th,,,,Adenocarcinoma
+2052,Saudi Arabia,7th,,,,Adenocarcinoma
+2053,Saudi Arabia,8th,,,,Adenocarcinoma
+2054,Saudi Arabia,9th,,,,Adenocarcinoma
+2055,Senegal,1st,,,,Adenocarcinoma
+2056,Senegal,2nd,,,,Adenocarcinoma
+2057,Senegal,3rd,,,,Adenocarcinoma
+2058,Senegal,4th,,,,Adenocarcinoma
+2059,Senegal,5th,,,,Adenocarcinoma
+2060,Senegal,6th,,,,Adenocarcinoma
+2061,Senegal,7th,,,,Adenocarcinoma
+2062,Senegal,8th,,,,Adenocarcinoma
+2063,Senegal,9th,,,,Adenocarcinoma
+2064,Senegal,10th,,,,Adenocarcinoma
+2065,Singapore,1st,18,15,73.3,Adenocarcinoma
+2066,Singapore,2nd,16,15,20,Adenocarcinoma
+2067,Singapore,3rd,,,,Adenocarcinoma
+2068,Singapore,4th,,,,Adenocarcinoma
+2069,Singapore,5th,,,,Adenocarcinoma
+2070,Singapore,6th,,,,Adenocarcinoma
+2071,Singapore,7th,,,,Adenocarcinoma
+2072,Singapore,8th,,,,Adenocarcinoma
+2073,Singapore,9th,,,,Adenocarcinoma
+2074,Slovenia,1st,18,48,41.7,Adenocarcinoma
+2075,Slovenia,2nd,16,48,39.6,Adenocarcinoma
+2076,Slovenia,3rd,45,48,2.1,Adenocarcinoma
+2077,Slovenia,4th,33,48,2.1,Adenocarcinoma
+2078,Slovenia,5th,82,48,2.1,Adenocarcinoma
+2079,Slovenia,6th,,,,Adenocarcinoma
+2080,Slovenia,7th,,,,Adenocarcinoma
+2081,Slovenia,8th,,,,Adenocarcinoma
+2082,Slovenia,9th,,,,Adenocarcinoma
+2083,Slovenia,10th,,,,Adenocarcinoma
+2084,South Africa,1st,,,,Adenocarcinoma
+2085,South Africa,2nd,,,,Adenocarcinoma
+2086,South Africa,3rd,,,,Adenocarcinoma
+2087,South Africa,4th,,,,Adenocarcinoma
+2088,South Africa,5th,,,,Adenocarcinoma
+2089,South Africa,6th,,,,Adenocarcinoma
+2090,South Africa,7th,,,,Adenocarcinoma
+2091,South Africa,8th,,,,Adenocarcinoma
+2092,South Africa,9th,,,,Adenocarcinoma
+2093,South Africa,10th,,,,Adenocarcinoma
+2094,Spain,1st,16,100,48,Adenocarcinoma
+2095,Spain,2nd,18,100,15,Adenocarcinoma
+2096,Spain,3rd,45,100,2,Adenocarcinoma
+2097,Spain,4th,35,100,1,Adenocarcinoma
+2098,Spain,5th,51,100,1,Adenocarcinoma
+2099,Spain,6th,,,,Adenocarcinoma
+2100,Spain,7th,,,,Adenocarcinoma
+2101,Spain,8th,,,,Adenocarcinoma
+2102,Spain,9th,,,,Adenocarcinoma
+2103,Spain,10th,,,,Adenocarcinoma
+2104,Sri Lanka,1st,,,,Adenocarcinoma
+2105,Sri Lanka,2nd,,,,Adenocarcinoma
+2106,Sri Lanka,3rd,,,,Adenocarcinoma
+2107,Sri Lanka,4th,,,,Adenocarcinoma
+2108,Sri Lanka,5th,,,,Adenocarcinoma
+2109,Sri Lanka,6th,,,,Adenocarcinoma
+2110,Sri Lanka,7th,,,,Adenocarcinoma
+2111,Sri Lanka,8th,,,,Adenocarcinoma
+2112,Sri Lanka,9th,,,,Adenocarcinoma
+2113,Sri Lanka,10th,,,,Adenocarcinoma
+2114,Sudan,1st,,,,Adenocarcinoma
+2115,Sudan,2nd,,,,Adenocarcinoma
+2116,Sudan,3rd,,,,Adenocarcinoma
+2117,Sudan,4th,,,,Adenocarcinoma
+2118,Sudan,5th,,,,Adenocarcinoma
+2119,Sudan,6th,,,,Adenocarcinoma
+2120,Sudan,7th,,,,Adenocarcinoma
+2121,Sudan,8th,,,,Adenocarcinoma
+2122,Sudan,9th,,,,Adenocarcinoma
+2123,Sudan,10th,,,,Adenocarcinoma
+2124,Suriname,1st,,,,Adenocarcinoma
+2125,Suriname,2nd,,,,Adenocarcinoma
+2126,Sweden,1st,18,286,35,Adenocarcinoma
+2127,Sweden,2nd,16,286,28.7,Adenocarcinoma
+2128,Sweden,3rd,45,248,7.3,Adenocarcinoma
+2129,Sweden,4th,59,166,0.6,Adenocarcinoma
+2130,Sweden,5th,39,166,0.6,Adenocarcinoma
+2131,Sweden,6th,31,204,0.5,Adenocarcinoma
+2132,Sweden,7th,,,,Adenocarcinoma
+2133,Sweden,8th,,,,Adenocarcinoma
+2134,Sweden,9th,,,,Adenocarcinoma
+2135,Sweden,10th,,,,Adenocarcinoma
+2136,Syrian Arab Republic,1st,,,,Adenocarcinoma
+2137,Syrian Arab Republic,2nd,,,,Adenocarcinoma
+2138,Syrian Arab Republic,3rd,,,,Adenocarcinoma
+2139,Syrian Arab Republic,4th,,,,Adenocarcinoma
+2140,Syrian Arab Republic,5th,,,,Adenocarcinoma
+2141,Syrian Arab Republic,6th,,,,Adenocarcinoma
+2142,Syrian Arab Republic,7th,,,,Adenocarcinoma
+2143,Syrian Arab Republic,8th,,,,Adenocarcinoma
+2144,Syrian Arab Republic,9th,,,,Adenocarcinoma
+2145,Thailand,1st,18,39,53.8,Adenocarcinoma
+2146,Thailand,2nd,16,39,33.3,Adenocarcinoma
+2147,Thailand,3rd,59,39,2.6,Adenocarcinoma
+2148,Thailand,4th,45,39,2.6,Adenocarcinoma
+2149,Thailand,5th,,,,Adenocarcinoma
+2150,Thailand,6th,,,,Adenocarcinoma
+2151,Thailand,7th,,,,Adenocarcinoma
+2152,Thailand,8th,,,,Adenocarcinoma
+2153,Thailand,9th,,,,Adenocarcinoma
+2154,Thailand,10th,,,,Adenocarcinoma
+2155,Trinidad and Tobago,1st,,,,Adenocarcinoma
+2156,Trinidad and Tobago,2nd,,,,Adenocarcinoma
+2157,Trinidad and Tobago,3rd,,,,Adenocarcinoma
+2158,Trinidad and Tobago,4th,,,,Adenocarcinoma
+2159,Trinidad and Tobago,5th,,,,Adenocarcinoma
+2160,Trinidad and Tobago,6th,,,,Adenocarcinoma
+2161,Trinidad and Tobago,7th,,,,Adenocarcinoma
+2162,Tunisia,1st,,,,Adenocarcinoma
+2163,Tunisia,2nd,,,,Adenocarcinoma
+2164,Tunisia,3rd,,,,Adenocarcinoma
+2165,Tunisia,4th,,,,Adenocarcinoma
+2166,Tunisia,5th,,,,Adenocarcinoma
+2167,Tunisia,6th,,,,Adenocarcinoma
+2168,Tunisia,7th,,,,Adenocarcinoma
+2169,Tunisia,8th,,,,Adenocarcinoma
+2170,Tunisia,9th,,,,Adenocarcinoma
+2171,Tunisia,10th,,,,Adenocarcinoma
+2172,Turkey,1st,16,47,27.7,Adenocarcinoma
+2173,Turkey,2nd,45,47,17,Adenocarcinoma
+2174,Turkey,3rd,18,47,14.9,Adenocarcinoma
+2175,Turkey,4th,,,,Adenocarcinoma
+2176,Turkey,5th,,,,Adenocarcinoma
+2177,Turkey,6th,,,,Adenocarcinoma
+2178,Turkey,7th,,,,Adenocarcinoma
+2179,Turkey,8th,,,,Adenocarcinoma
+2180,Turkey,9th,,,,Adenocarcinoma
+2181,Turkey,10th,,,,Adenocarcinoma
+2182,Uganda,1st,18,48,31.3,Adenocarcinoma
+2183,Uganda,2nd,16,48,25,Adenocarcinoma
+2184,Uganda,3rd,45,48,4.2,Adenocarcinoma
+2185,Uganda,4th,51,48,2.1,Adenocarcinoma
+2186,Uganda,5th,,,,Adenocarcinoma
+2187,Uganda,6th,,,,Adenocarcinoma
+2188,Uganda,7th,,,,Adenocarcinoma
+2189,Uganda,8th,,,,Adenocarcinoma
+2190,Uganda,9th,,,,Adenocarcinoma
+2191,Uganda,10th,,,,Adenocarcinoma
+2192,United Kingdom,1st,16,377,47.2,Adenocarcinoma
+2193,United Kingdom,2nd,18,377,33.2,Adenocarcinoma
+2194,United Kingdom,3rd,45,206,4.9,Adenocarcinoma
+2195,United Kingdom,4th,31,237,3,Adenocarcinoma
+2196,United Kingdom,5th,52,206,1.9,Adenocarcinoma
+2197,United Kingdom,6th,33,258,1.9,Adenocarcinoma
+2198,United Kingdom,7th,51,206,1,Adenocarcinoma
+2199,United Kingdom,8th,39,206,1,Adenocarcinoma
+2200,United Kingdom,9th,68,152,0.7,Adenocarcinoma
+2201,United Kingdom,10th,59,206,0.5,Adenocarcinoma
+2202,United Republic of Tanzania,1st,,,,Adenocarcinoma
+2203,United Republic of Tanzania,2nd,,,,Adenocarcinoma
+2204,United Republic of Tanzania,3rd,,,,Adenocarcinoma
+2205,United Republic of Tanzania,4th,,,,Adenocarcinoma
+2206,United Republic of Tanzania,5th,,,,Adenocarcinoma
+2207,United Republic of Tanzania,6th,,,,Adenocarcinoma
+2208,United Republic of Tanzania,7th,,,,Adenocarcinoma
+2209,Algeria,1st,,,,Unknown
+2210,Algeria,2nd,,,,Unknown
+2211,Algeria,3rd,,,,Unknown
+2212,Algeria,4th,,,,Unknown
+2213,Algeria,5th,,,,Unknown
+2214,Algeria,6th,,,,Unknown
+2215,Algeria,7th,,,,Unknown
+2216,Algeria,8th,,,,Unknown
+2217,Algeria,9th,,,,Unknown
+2218,Algeria,10th,,,,Unknown
+2219,Argentina,1st,,,,Unknown
+2220,Argentina,2nd,,,,Unknown
+2221,Argentina,3rd,,,,Unknown
+2222,Argentina,4th,,,,Unknown
+2223,Argentina,5th,,,,Unknown
+2224,Argentina,6th,,,,Unknown
+2225,Argentina,7th,,,,Unknown
+2226,Argentina,8th,,,,Unknown
+2227,Argentina,9th,,,,Unknown
+2228,Argentina,10th,,,,Unknown
+2229,Australia,1st,16,373,58.7,Unknown
+2230,Australia,2nd,18,373,19.6,Unknown
+2231,Australia,3rd,45,270,5.2,Unknown
+2232,Australia,4th,39,270,2.6,Unknown
+2233,Australia,5th,35,270,1.5,Unknown
+2234,Australia,6th,33,373,1.3,Unknown
+2235,Australia,7th,31,373,1.3,Unknown
+2236,Australia,8th,52,373,1.1,Unknown
+2237,Australia,9th,58,373,0.8,Unknown
+2238,Australia,10th,59,270,0.7,Unknown
+2239,Austria,1st,16,200,70,Unknown
+2240,Austria,2nd,33,200,21.5,Unknown
+2241,Austria,3rd,18,200,8.5,Unknown
+2242,Austria,4th,45,200,4.5,Unknown
+2243,Austria,5th,31,200,4,Unknown
+2244,Austria,6th,58,200,2,Unknown
+2245,Austria,7th,51,94,1.1,Unknown
+2246,Austria,8th,56,106,0.9,Unknown
+2247,Austria,9th,35,106,0.9,Unknown
+2248,Austria,10th,,,,Unknown
+2249,Belarus,1st,16,26,65.4,Unknown
+2250,Belarus,2nd,31,26,3.8,Unknown
+2251,Belgium,1st,,,,Unknown
+2252,Belgium,2nd,,,,Unknown
+2253,Belgium,3rd,,,,Unknown
+2254,Belgium,4th,,,,Unknown
+2255,Belgium,5th,,,,Unknown
+2256,Belgium,6th,,,,Unknown
+2257,Belgium,7th,,,,Unknown
+2258,Bolivia,1st,,,,Unknown
+2259,Bolivia,2nd,,,,Unknown
+2260,Bolivia,3rd,,,,Unknown
+2261,Bolivia,4th,,,,Unknown
+2262,Bolivia,5th,,,,Unknown
+2263,Bolivia,6th,,,,Unknown
+2264,Bolivia,7th,,,,Unknown
+2265,Bolivia,8th,,,,Unknown
+2266,Bosnia,1st,,,,Unknown
+2267,Bosnia,2nd,,,,Unknown
+2268,Bosnia,3rd,,,,Unknown
+2269,Bosnia,4th,,,,Unknown
+2270,Bosnia,5th,,,,Unknown
+2271,Bosnia,6th,,,,Unknown
+2272,Bosnia,7th,,,,Unknown
+2273,Bosnia,8th,,,,Unknown
+2274,Bosnia,9th,,,,Unknown
+2275,Bosnia,10th,,,,Unknown
+2276,Botswana,1st,16,117,32.5,Unknown
+2277,Botswana,2nd,18,117,20.5,Unknown
+2278,Botswana,3rd,45,117,8.5,Unknown
+2279,Botswana,4th,33,117,4.3,Unknown
+2280,Botswana,5th,52,117,3.4,Unknown
+2281,Botswana,6th,35,117,3.4,Unknown
+2282,Botswana,7th,51,117,2.6,Unknown
+2283,Botswana,8th,39,117,2.6,Unknown
+2284,Botswana,9th,66,117,1.7,Unknown
+2285,Botswana,10th,59,117,1.7,Unknown
+2286,Brazil,1st,16,59,59.3,Unknown
+2287,Brazil,2nd,18,59,39,Unknown
+2288,Brazil,3rd,31,59,11.9,Unknown
+2289,Brazil,4th,33,59,5.1,Unknown
+2290,Brazil,5th,58,59,3.4,Unknown
+2291,Brazil,6th,35,59,3.4,Unknown
+2292,Brazil,7th,52,59,1.7,Unknown
+2293,Brazil,8th,,,,Unknown
+2294,Brazil,9th,,,,Unknown
+2295,Brazil,10th,,,,Unknown
+2296,Bulgaria,1st,,,,Unknown
+2297,Bulgaria,2nd,,,,Unknown
+2298,Canada,1st,16,50,54,Unknown
+2299,Canada,2nd,18,50,16,Unknown
+2300,Canada,3rd,52,50,6,Unknown
+2301,Canada,4th,45,50,6,Unknown
+2302,Canada,5th,33,50,4,Unknown
+2303,Canada,6th,31,50,2,Unknown
+2304,Canada,7th,39,50,2,Unknown
+2305,Canada,8th,,,,Unknown
+2306,Canada,9th,,,,Unknown
+2307,Canada,10th,,,,Unknown
+2308,Chile,1st,16,293,76.8,Unknown
+2309,Chile,2nd,18,293,15.7,Unknown
+2310,Chile,3rd,31,293,9.6,Unknown
+2311,Chile,4th,45,293,3.8,Unknown
+2312,Chile,5th,66,293,3.1,Unknown
+2313,Chile,6th,58,293,2.4,Unknown
+2314,Chile,7th,33,293,2.4,Unknown
+2315,Chile,8th,39,293,2,Unknown
+2316,Chile,9th,59,293,1,Unknown
+2317,Chile,10th,56,293,0.7,Unknown
+2318,China,1st,16,1679,65.3,Unknown
+2319,China,2nd,18,1679,10.1,Unknown
+2320,China,3rd,58,1679,9.6,Unknown
+2321,China,4th,52,1564,4.2,Unknown
+2322,China,5th,59,1264,3.5,Unknown
+2323,China,6th,33,1629,2.9,Unknown
+2324,China,7th,31,1629,2.7,Unknown
+2325,China,8th,45,1154,2.6,Unknown
+2326,China,9th,39,1232,0.7,Unknown
+2327,China,10th,66,1232,0.6,Unknown
+2328,Colombia,1st,16,276,52.5,Unknown
+2329,Colombia,2nd,18,217,12,Unknown
+2330,Colombia,3rd,45,217,8.3,Unknown
+2331,Colombia,4th,31,217,6,Unknown
+2332,Colombia,5th,58,217,5.5,Unknown
+2333,Colombia,6th,33,217,4.6,Unknown
+2334,Colombia,7th,56,217,3.2,Unknown
+2335,Colombia,8th,59,217,2.8,Unknown
+2336,Colombia,9th,52,217,2.3,Unknown
+2337,Colombia,10th,51,217,2.3,Unknown
+2338,Costa Rica,1st,16,35,45.7,Unknown
+2339,Costa Rica,2nd,18,35,17.1,Unknown
+2340,Costa Rica,3rd,58,35,11.4,Unknown
+2341,Costa Rica,4th,52,35,8.6,Unknown
+2342,Costa Rica,5th,33,35,8.6,Unknown
+2343,Costa Rica,6th,31,35,5.7,Unknown
+2344,Costa Rica,7th,45,35,5.7,Unknown
+2345,Costa Rica,8th,51,35,2.9,Unknown
+2346,Costa Rica,9th,66,35,2.9,Unknown
+2347,Costa Rica,10th,39,35,2.9,Unknown
+2348,Croatia,1st,,,,Unknown
+2349,Croatia,2nd,,,,Unknown
+2350,Croatia,3rd,,,,Unknown
+2351,Croatia,4th,,,,Unknown
+2352,Croatia,5th,,,,Unknown
+2353,Croatia,6th,,,,Unknown
+2354,Cuba,1st,,,,Unknown
+2355,Cuba,2nd,,,,Unknown
+2356,Cuba,3rd,,,,Unknown
+2357,Cuba,4th,,,,Unknown
+2358,Cuba,5th,,,,Unknown
+2359,Cuba,6th,,,,Unknown
+2360,Cuba,7th,,,,Unknown
+2361,Cuba,8th,,,,Unknown
+2362,Cuba,9th,,,,Unknown
+2363,Czech Republic,1st,16,98,60.2,Unknown
+2364,Czech Republic,2nd,18,98,13.3,Unknown
+2365,Czech Republic,3rd,39,49,4.1,Unknown
+2366,Czech Republic,4th,31,49,4.1,Unknown
+2367,Czech Republic,5th,45,49,2,Unknown
+2368,Czech Republic,6th,58,49,2,Unknown
+2369,Czech Republic,7th,,,,Unknown
+2370,Czech Republic,8th,,,,Unknown
+2371,Czech Republic,9th,,,,Unknown
+2372,Czech Republic,10th,,,,Unknown
+2373,Denmark,1st,,,,Unknown
+2374,Denmark,2nd,,,,Unknown
+2375,Denmark,3rd,,,,Unknown
+2376,Denmark,4th,,,,Unknown
+2377,Denmark,5th,,,,Unknown
+2378,Denmark,6th,,,,Unknown
+2379,Denmark,7th,,,,Unknown
+2380,Denmark,8th,,,,Unknown
+2381,Denmark,9th,,,,Unknown
+2382,Denmark,10th,,,,Unknown
+2383,Ecuador,1st,,,,Unknown
+2384,Ecuador,2nd,,,,Unknown
+2385,Ecuador,3rd,,,,Unknown
+2386,Ecuador,4th,,,,Unknown
+2387,Ecuador,5th,,,,Unknown
+2388,Ecuador,6th,,,,Unknown
+2389,Ecuador,7th,,,,Unknown
+2390,Ecuador,8th,,,,Unknown
+2391,Ecuador,9th,,,,Unknown
+2392,Ecuador,10th,,,,Unknown
+2393,Ethiopia,1st,,,,Unknown
+2394,Ethiopia,2nd,,,,Unknown
+2395,Ethiopia,3rd,,,,Unknown
+2396,Ethiopia,4th,,,,Unknown
+2397,Ethiopia,5th,,,,Unknown
+2398,Ethiopia,6th,,,,Unknown
+2399,Ethiopia,7th,,,,Unknown
+2400,Ethiopia,8th,,,,Unknown
+2401,Ethiopia,9th,,,,Unknown
+2402,Ethiopia,10th,,,,Unknown
+2403,Finland,1st,,,,Unknown
+2404,Finland,2nd,,,,Unknown
+2405,Finland,3rd,,,,Unknown
+2406,France,1st,,,,Unknown
+2407,France,2nd,,,,Unknown
+2408,France,3rd,,,,Unknown
+2409,France,4th,,,,Unknown
+2410,France,5th,,,,Unknown
+2411,France,6th,,,,Unknown
+2412,France,7th,,,,Unknown
+2413,France,8th,,,,Unknown
+2414,France,9th,,,,Unknown
+2415,France,10th,,,,Unknown
+2416,Georgia,1st,16,91,58.2,Unknown
+2417,Georgia,2nd,45,91,13.2,Unknown
+2418,Georgia,3rd,18,91,11,Unknown
+2419,Georgia,4th,39,91,9.9,Unknown
+2420,Georgia,5th,33,91,4.4,Unknown
+2421,Georgia,6th,58,91,3.3,Unknown
+2422,Georgia,7th,31,91,2.2,Unknown
+2423,Georgia,8th,82,91,2.2,Unknown
+2424,Georgia,9th,35,91,2.2,Unknown
+2425,Georgia,10th,51,91,1.1,Unknown
+2426,Germany,1st,,,,Unknown
+2427,Germany,2nd,,,,Unknown
+2428,Germany,3rd,,,,Unknown
+2429,Germany,4th,,,,Unknown
+2430,Germany,5th,,,,Unknown
+2431,Germany,6th,,,,Unknown
+2432,Ghana,1st,16,121,55.4,Unknown
+2433,Ghana,2nd,18,121,19,Unknown
+2434,Ghana,3rd,45,121,6.6,Unknown
+2435,Ghana,4th,35,121,6.6,Unknown
+2436,Ghana,5th,33,121,3.3,Unknown
+2437,Ghana,6th,52,121,2.5,Unknown
+2438,Ghana,7th,56,121,1.7,Unknown
+2439,Ghana,8th,51,121,1.7,Unknown
+2440,Ghana,9th,39,121,0.8,Unknown
+2441,Ghana,10th,58,121,0.8,Unknown
+2442,Greece,1st,16,91,45.1,Unknown
+2443,Greece,2nd,18,91,33,Unknown
+2444,Greece,3rd,33,91,4.4,Unknown
+2445,Greece,4th,31,52,3.8,Unknown
+2446,Greece,5th,51,52,1.9,Unknown
+2447,Guinea,1st,,,,Unknown
+2448,Guinea,2nd,,,,Unknown
+2449,Guinea,3rd,,,,Unknown
+2450,Guinea,4th,,,,Unknown
+2451,Guinea,5th,,,,Unknown
+2452,Guinea,6th,,,,Unknown
+2453,Guinea,7th,,,,Unknown
+2454,Guinea,8th,,,,Unknown
+2455,Guinea,9th,,,,Unknown
+2456,Guinea,10th,,,,Unknown
+2457,Honduras,1st,,,,Unknown
+2458,Honduras,2nd,,,,Unknown
+2459,Honduras,3rd,,,,Unknown
+2460,Honduras,4th,,,,Unknown
+2461,Honduras,5th,,,,Unknown
+2462,Honduras,6th,,,,Unknown
+2463,Honduras,7th,,,,Unknown
+2464,Honduras,8th,,,,Unknown
+2465,Hungary,1st,,,,Unknown
+2466,Hungary,2nd,,,,Unknown
+2467,Iceland,1st,16,140,57.1,Unknown
+2468,Iceland,2nd,18,140,15,Unknown
+2469,Iceland,3rd,33,140,12.9,Unknown
+2470,Iceland,4th,45,140,5.7,Unknown
+2471,Iceland,5th,39,140,4.3,Unknown
+2472,Iceland,6th,31,140,4.3,Unknown
+2473,Iceland,7th,52,140,3.6,Unknown
+2474,Iceland,8th,35,140,2.1,Unknown
+2475,Iceland,9th,56,140,0.7,Unknown
+2476,Iceland,10th,51,140,0.7,Unknown
+2477,India,1st,16,633,70.9,Unknown
+2478,India,2nd,18,633,14.1,Unknown
+2479,India,3rd,45,381,5.5,Unknown
+2480,India,4th,58,424,5,Unknown
+2481,India,5th,33,424,4.7,Unknown
+2482,India,6th,52,305,3.3,Unknown
+2483,India,7th,31,452,2.9,Unknown
+2484,India,8th,59,262,2.7,Unknown
+2485,India,9th,35,381,2.6,Unknown
+2486,India,10th,51,225,1.8,Unknown
+2487,Indonesia,1st,16,114,53.5,Unknown
+2488,Indonesia,2nd,18,114,42.1,Unknown
+2489,Indonesia,3rd,45,40,32.5,Unknown
+2490,Indonesia,4th,52,40,30,Unknown
+2491,Indonesia,5th,51,40,5,Unknown
+2492,Indonesia,6th,33,40,2.5,Unknown
+2493,Indonesia,7th,35,40,2.5,Unknown
+2494,Indonesia,8th,,,,Unknown
+2495,Indonesia,9th,,,,Unknown
+2496,Indonesia,10th,,,,Unknown
+2497,Iran,1st,16,156,57.7,Unknown
+2498,Iran,2nd,18,156,16.7,Unknown
+2499,Iran,3rd,31,87,9.2,Unknown
+2500,Iran,4th,45,45,4.4,Unknown
+2501,Iran,5th,58,45,4.4,Unknown
+2502,Iran,6th,33,156,2.6,Unknown
+2503,Iran,7th,,,,Unknown
+2504,Iran,8th,,,,Unknown
+2505,Iran,9th,,,,Unknown
+2506,Iran,10th,,,,Unknown
+2507,Ireland,1st,16,29,93.1,Unknown
+2508,Ireland,2nd,31,29,3.4,Unknown
+2509,Ireland,3rd,52,29,3.4,Unknown
+2510,Ireland,4th,,,,Unknown
+2511,Israel,1st,,,,Unknown
+2512,Israel,2nd,,,,Unknown
+2513,Israel,3rd,,,,Unknown
+2514,Israel,4th,,,,Unknown
+2515,Israel,5th,,,,Unknown
+2516,Israel,6th,,,,Unknown
+2517,Israel,7th,,,,Unknown
+2518,Israel,8th,,,,Unknown
+2519,Israel,9th,,,,Unknown
+2520,Israel,10th,,,,Unknown
+2521,Italy,1st,16,351,63,Unknown
+2522,Italy,2nd,31,351,10.8,Unknown
+2523,Italy,3rd,18,351,10,Unknown
+2524,Italy,4th,45,333,4.8,Unknown
+2525,Italy,5th,33,351,4.8,Unknown
+2526,Italy,6th,35,333,2.1,Unknown
+2527,Italy,7th,58,333,1.8,Unknown
+2528,Italy,8th,52,333,1.5,Unknown
+2529,Italy,9th,59,333,1.2,Unknown
+2530,Italy,10th,51,333,1.2,Unknown
+2531,Jamaica,1st,18,14,28.6,Unknown
+2532,Jamaica,2nd,16,14,21.4,Unknown
+2533,Jamaica,3rd,58,14,21.4,Unknown
+2534,Jamaica,4th,52,14,14.3,Unknown
+2535,Jamaica,5th,31,14,14.3,Unknown
+2536,Jamaica,6th,59,14,7.1,Unknown
+2537,Jamaica,7th,66,14,7.1,Unknown
+2538,Jamaica,8th,51,14,7.1,Unknown
+2539,Jamaica,9th,,,,Unknown
+2540,Japan,1st,16,806,32.3,Unknown
+2541,Japan,2nd,18,806,10.2,Unknown
+2542,Japan,3rd,33,806,5.8,Unknown
+2543,Japan,4th,52,423,5.7,Unknown
+2544,Japan,5th,58,806,4.7,Unknown
+2545,Japan,6th,31,711,3.9,Unknown
+2546,Japan,7th,39,205,1.5,Unknown
+2547,Japan,8th,35,619,1.5,Unknown
+2548,Japan,9th,68,152,0.7,Unknown
+2549,Japan,10th,56,289,0.7,Unknown
+2550,Jordan,1st,16,41,68.3,Unknown
+2551,Jordan,2nd,18,41,24.4,Unknown
+2552,Jordan,3rd,56,41,9.8,Unknown
+2553,Jordan,4th,39,41,9.8,Unknown
+2554,Jordan,5th,45,41,7.3,Unknown
+2555,Jordan,6th,33,41,4.9,Unknown
+2556,Jordan,7th,58,41,2.4,Unknown
+2557,Jordan,8th,35,41,2.4,Unknown
+2558,Jordan,9th,59,41,2.4,Unknown
+2559,Jordan,10th,31,41,2.4,Unknown
+2560,Kenya,1st,,,,Unknown
+2561,Kenya,2nd,,,,Unknown
+2562,Kenya,3rd,,,,Unknown
+2563,Kenya,4th,,,,Unknown
+2564,Kenya,5th,,,,Unknown
+2565,Kenya,6th,,,,Unknown
+2566,Kenya,7th,,,,Unknown
+2567,Kenya,8th,,,,Unknown
+2568,Kenya,9th,,,,Unknown
+2569,Kenya,10th,,,,Unknown
+2570,Latvia,1st,16,247,61.1,Unknown
+2571,Latvia,2nd,18,221,9,Unknown
+2572,Latvia,3rd,31,247,5.3,Unknown
+2573,Latvia,4th,45,221,3.2,Unknown
+2574,Latvia,5th,33,221,2.7,Unknown
+2575,Lithuania,1st,,,,Unknown
+2576,Lithuania,2nd,,,,Unknown
+2577,Lithuania,3rd,,,,Unknown
+2578,Lithuania,4th,,,,Unknown
+2579,Lithuania,5th,,,,Unknown
+2580,Lithuania,6th,,,,Unknown
+2581,Lithuania,7th,,,,Unknown
+2582,Lithuania,8th,,,,Unknown
+2583,Lithuania,9th,,,,Unknown
+2584,Lithuania,10th,,,,Unknown
+2585,Luxembourg,1st,,,,Unknown
+2586,Luxembourg,2nd,,,,Unknown
+2587,Luxembourg,3rd,,,,Unknown
+2588,Luxembourg,4th,,,,Unknown
+2589,Malaysia,1st,16,11,72.7,Unknown
+2590,Malaysia,2nd,,,,Unknown
+2591,Malaysia,3rd,,,,Unknown
+2592,Malaysia,4th,,,,Unknown
+2593,Malaysia,5th,,,,Unknown
+2594,Malaysia,6th,,,,Unknown
+2595,Malaysia,7th,,,,Unknown
+2596,Malaysia,8th,,,,Unknown
+2597,Malaysia,9th,,,,Unknown
+2598,Malaysia,10th,,,,Unknown
+2599,Mali,1st,,,,Unknown
+2600,Mali,2nd,,,,Unknown
+2601,Mali,3rd,,,,Unknown
+2602,Mali,4th,,,,Unknown
+2603,Mali,5th,,,,Unknown
+2604,Mali,6th,,,,Unknown
+2605,Mali,7th,,,,Unknown
+2606,Mali,8th,,,,Unknown
+2607,Mali,9th,,,,Unknown
+2608,Mali,10th,,,,Unknown
+2609,Mexico,1st,16,75,40,Unknown
+2610,Mexico,2nd,31,75,20,Unknown
+2611,Mexico,3rd,18,75,17.3,Unknown
+2612,Mexico,4th,33,75,6.7,Unknown
+2613,Mexico,5th,58,75,5.3,Unknown
+2614,Mexico,6th,45,75,2.7,Unknown
+2615,Mexico,7th,35,75,2.7,Unknown
+2616,Mexico,8th,82,75,2.7,Unknown
+2617,Mexico,9th,51,75,1.3,Unknown
+2618,Mexico,10th,52,75,1.3,Unknown
+2619,Mongolia,1st,,,,Unknown
+2620,Morocco,1st,,,,Unknown
+2621,Morocco,2nd,,,,Unknown
+2622,Morocco,3rd,,,,Unknown
+2623,Morocco,4th,,,,Unknown
+2624,Morocco,5th,,,,Unknown
+2625,Morocco,6th,,,,Unknown
+2626,Morocco,7th,,,,Unknown
+2627,Morocco,8th,,,,Unknown
+2628,Morocco,9th,,,,Unknown
+2629,Mozambique,1st,16,72,55.6,Unknown
+2630,Mozambique,2nd,18,72,26.4,Unknown
+2631,Mozambique,3rd,45,72,23.6,Unknown
+2632,Mozambique,4th,35,72,19.4,Unknown
+2633,Mozambique,5th,33,72,9.7,Unknown
+2634,Mozambique,6th,66,72,2.8,Unknown
+2635,Mozambique,7th,31,72,2.8,Unknown
+2636,Mozambique,8th,52,72,1.4,Unknown
+2637,Mozambique,9th,58,72,1.4,Unknown
+2638,Mozambique,10th,51,72,1.4,Unknown
+2639,Nepal,1st,16,122,60.7,Unknown
+2640,Nepal,2nd,18,122,19.7,Unknown
+2641,Nepal,3rd,45,122,4.9,Unknown
+2642,Nepal,4th,31,122,1.6,Unknown
+2643,Nepal,5th,33,122,1.6,Unknown
+2644,Nepal,6th,56,122,0.8,Unknown
+2645,Netherlands,1st,16,573,58.8,Unknown
+2646,Netherlands,2nd,18,573,20.2,Unknown
+2647,Netherlands,3rd,33,128,3.9,Unknown
+2648,Netherlands,4th,59,128,3.1,Unknown
+2649,Netherlands,5th,31,128,2.3,Unknown
+2650,Netherlands,6th,45,128,2.3,Unknown
+2651,Netherlands,7th,52,128,0.8,Unknown
+2652,Netherlands,8th,68,128,0.8,Unknown
+2653,Netherlands,9th,58,128,0.8,Unknown
+2654,Netherlands,10th,,,,Unknown
+2655,Nicaragua,1st,,,,Unknown
+2656,Nicaragua,2nd,,,,Unknown
+2657,Nicaragua,3rd,,,,Unknown
+2658,Nicaragua,4th,,,,Unknown
+2659,Nicaragua,5th,,,,Unknown
+2660,Nicaragua,6th,,,,Unknown
+2661,Nicaragua,7th,,,,Unknown
+2662,Nicaragua,8th,,,,Unknown
+2663,Nicaragua,9th,,,,Unknown
+2664,Nicaragua,10th,,,,Unknown
+2665,Nigeria,1st,16,145,52.4,Unknown
+2666,Nigeria,2nd,18,145,14.5,Unknown
+2667,Nigeria,3rd,35,145,9,Unknown
+2668,Nigeria,4th,45,145,7.6,Unknown
+2669,Nigeria,5th,52,145,2.8,Unknown
+2670,Nigeria,6th,51,145,2.8,Unknown
+2671,Nigeria,7th,59,145,2.8,Unknown
+2672,Nigeria,8th,31,145,2.1,Unknown
+2673,Nigeria,9th,33,145,1.4,Unknown
+2674,Nigeria,10th,58,145,1.4,Unknown
+2675,Norway,1st,16,450,65.3,Unknown
+2676,Norway,2nd,18,450,12.9,Unknown
+2677,Norway,3rd,33,450,7.1,Unknown
+2678,Norway,4th,45,89,4.5,Unknown
+2679,Norway,5th,56,89,1.1,Unknown
+2680,Norway,6th,52,89,1.1,Unknown
+2681,Norway,7th,82,89,1.1,Unknown
+2682,Norway,8th,31,450,1.1,Unknown
+2683,Norway,9th,35,361,0.6,Unknown
+2684,Norway,10th,,,,Unknown
+2685,Pakistan,1st,16,151,83.4,Unknown
+2686,Pakistan,2nd,18,151,4.6,Unknown
+2687,Pakistan,3rd,45,91,4.4,Unknown
+2688,Pakistan,4th,56,91,2.2,Unknown
+2689,Pakistan,5th,59,91,1.1,Unknown
+2690,Pakistan,6th,66,91,1.1,Unknown
+2691,Pakistan,7th,33,91,1.1,Unknown
+2692,Pakistan,8th,,,,Unknown
+2693,Panama,1st,,,,Unknown
+2694,Panama,2nd,,,,Unknown
+2695,Panama,3rd,,,,Unknown
+2696,Panama,4th,,,,Unknown
+2697,Panama,5th,,,,Unknown
+2698,Panama,6th,,,,Unknown
+2699,Panama,7th,,,,Unknown
+2700,Panama,8th,,,,Unknown
+2701,Panama,9th,,,,Unknown
+2702,Panama,10th,,,,Unknown
+2703,Papua New Guinea,1st,,,,Unknown
+2704,Papua New Guinea,2nd,,,,Unknown
+2705,Papua New Guinea,3rd,,,,Unknown
+2706,Papua New Guinea,4th,,,,Unknown
+2707,Papua New Guinea,5th,,,,Unknown
+2708,Papua New Guinea,6th,,,,Unknown
+2709,Papua New Guinea,7th,,,,Unknown
+2710,Papua New Guinea,8th,,,,Unknown
+2711,Papua New Guinea,9th,,,,Unknown
+2712,Papua New Guinea,10th,,,,Unknown
+2713,Paraguay,1st,,,,Unknown
+2714,Paraguay,2nd,,,,Unknown
+2715,Paraguay,3rd,,,,Unknown
+2716,Paraguay,4th,,,,Unknown
+2717,Paraguay,5th,,,,Unknown
+2718,Paraguay,6th,,,,Unknown
+2719,Paraguay,7th,,,,Unknown
+2720,Paraguay,8th,,,,Unknown
+2721,Paraguay,9th,,,,Unknown
+2722,Paraguay,10th,,,,Unknown
+2723,Peru,1st,16,53,50.9,Unknown
+2724,Peru,2nd,31,53,13.2,Unknown
+2725,Peru,3rd,58,53,13.2,Unknown
+2726,Peru,4th,33,53,11.3,Unknown
+2727,Peru,5th,18,53,5.7,Unknown
+2728,Peru,6th,52,53,1.9,Unknown
+2729,Peru,7th,66,53,1.9,Unknown
+2730,Peru,8th,56,53,1.9,Unknown
+2731,Peru,9th,,,,Unknown
+2732,Peru,10th,,,,Unknown
+2733,Philippines,1st,,,,Unknown
+2734,Philippines,2nd,,,,Unknown
+2735,Philippines,3rd,,,,Unknown
+2736,Philippines,4th,,,,Unknown
+2737,Philippines,5th,,,,Unknown
+2738,Philippines,6th,,,,Unknown
+2739,Philippines,7th,,,,Unknown
+2740,Philippines,8th,,,,Unknown
+2741,Philippines,9th,,,,Unknown
+2742,Philippines,10th,,,,Unknown
+2743,Poland,1st,16,113,85.8,Unknown
+2744,Poland,2nd,18,113,9.7,Unknown
+2745,Poland,3rd,45,113,7.1,Unknown
+2746,Poland,4th,35,113,2.7,Unknown
+2747,Poland,5th,58,113,2.7,Unknown
+2748,Poland,6th,33,113,2.7,Unknown
+2749,Poland,7th,52,113,1.8,Unknown
+2750,Poland,8th,39,113,1.8,Unknown
+2751,Poland,9th,31,113,1.8,Unknown
+2752,Poland,10th,66,113,0.9,Unknown
+2753,Portugal,1st,16,168,71.4,Unknown
+2754,Portugal,2nd,18,168,10.1,Unknown
+2755,Portugal,3rd,33,108,9.3,Unknown
+2756,Portugal,4th,45,108,3.7,Unknown
+2757,Portugal,5th,58,108,2.8,Unknown
+2758,Portugal,6th,35,108,1.9,Unknown
+2759,Portugal,7th,56,108,1.9,Unknown
+2760,Portugal,8th,51,64,1.6,Unknown
+2761,Portugal,9th,52,108,0.9,Unknown
+2762,Portugal,10th,31,108,0.9,Unknown
+2763,Republic of Korea,1st,16,300,61.3,Unknown
+2764,Republic of Korea,2nd,18,300,9.7,Unknown
+2765,Republic of Korea,3rd,33,131,8.4,Unknown
+2766,Republic of Korea,4th,58,101,5.9,Unknown
+2767,Republic of Korea,5th,35,101,3,Unknown
+2768,Republic of Korea,6th,51,101,2,Unknown
+2769,Republic of Korea,7th,52,101,2,Unknown
+2770,Republic of Korea,8th,45,101,1,Unknown
+2771,Republic of Korea,9th,68,101,1,Unknown
+2772,Republic of Korea,10th,59,101,1,Unknown
+2773,Russia,1st,16,26,65.4,Unknown
+2774,Russia,2nd,31,26,3.8,Unknown
+2775,Russia,3rd,,,,Unknown
+2776,Russia,4th,,,,Unknown
+2777,Russia,5th,,,,Unknown
+2778,Russia,6th,,,,Unknown
+2779,Russia,7th,,,,Unknown
+2780,Russia,8th,,,,Unknown
+2781,Russia,9th,,,,Unknown
+2782,Saudi Arabia,1st,16,100,67,Unknown
+2783,Saudi Arabia,2nd,18,100,9,Unknown
+2784,Saudi Arabia,3rd,31,100,7,Unknown
+2785,Saudi Arabia,4th,45,100,7,Unknown
+2786,Saudi Arabia,5th,59,100,2,Unknown
+2787,Saudi Arabia,6th,39,100,1,Unknown
+2788,Saudi Arabia,7th,51,100,1,Unknown
+2789,Saudi Arabia,8th,,,,Unknown
+2790,Saudi Arabia,9th,,,,Unknown
+2791,Senegal,1st,16,71,36.6,Unknown
+2792,Senegal,2nd,18,71,7,Unknown
+2793,Senegal,3rd,45,71,7,Unknown
+2794,Senegal,4th,58,71,5.6,Unknown
+2795,Senegal,5th,33,71,5.6,Unknown
+2796,Senegal,6th,52,71,4.2,Unknown
+2797,Senegal,7th,31,71,2.8,Unknown
+2798,Senegal,8th,35,71,1.4,Unknown
+2799,Senegal,9th,56,71,1.4,Unknown
+2800,Senegal,10th,68,71,1.4,Unknown
+2801,Singapore,1st,,,,Unknown
+2802,Singapore,2nd,,,,Unknown
+2803,Singapore,3rd,,,,Unknown
+2804,Singapore,4th,,,,Unknown
+2805,Singapore,5th,,,,Unknown
+2806,Singapore,6th,,,,Unknown
+2807,Singapore,7th,,,,Unknown
+2808,Singapore,8th,,,,Unknown
+2809,Singapore,9th,,,,Unknown
+2810,Slovenia,1st,,,,Unknown
+2811,Slovenia,2nd,,,,Unknown
+2812,Slovenia,3rd,,,,Unknown
+2813,Slovenia,4th,,,,Unknown
+2814,Slovenia,5th,,,,Unknown
+2815,Slovenia,6th,,,,Unknown
+2816,Slovenia,7th,,,,Unknown
+2817,Slovenia,8th,,,,Unknown
+2818,Slovenia,9th,,,,Unknown
+2819,Slovenia,10th,,,,Unknown
+2820,South Africa,1st,16,231,55,Unknown
+2821,South Africa,2nd,18,231,16.5,Unknown
+2822,South Africa,3rd,35,231,8.2,Unknown
+2823,South Africa,4th,33,231,7.4,Unknown
+2824,South Africa,5th,45,231,6.1,Unknown
+2825,South Africa,6th,31,231,1.7,Unknown
+2826,South Africa,7th,52,231,1.3,Unknown
+2827,South Africa,8th,56,181,1.1,Unknown
+2828,South Africa,9th,59,231,0.9,Unknown
+2829,South Africa,10th,51,231,0.9,Unknown
+2830,Spain,1st,16,89,61.8,Unknown
+2831,Spain,2nd,18,89,9,Unknown
+2832,Spain,3rd,31,89,7.9,Unknown
+2833,Spain,4th,45,89,7.9,Unknown
+2834,Spain,5th,52,89,4.5,Unknown
+2835,Spain,6th,35,89,3.4,Unknown
+2836,Spain,7th,33,89,3.4,Unknown
+2837,Spain,8th,58,89,1.1,Unknown
+2838,Spain,9th,68,89,1.1,Unknown
+2839,Spain,10th,56,89,1.1,Unknown
+2840,Sri Lanka,1st,16,98,67.3,Unknown
+2841,Sri Lanka,2nd,18,98,9.2,Unknown
+2842,Sri Lanka,3rd,68,98,2,Unknown
+2843,Sri Lanka,4th,59,98,2,Unknown
+2844,Sri Lanka,5th,45,98,2,Unknown
+2845,Sri Lanka,6th,52,98,1,Unknown
+2846,Sri Lanka,7th,56,98,1,Unknown
+2847,Sri Lanka,8th,,,,Unknown
+2848,Sri Lanka,9th,,,,Unknown
+2849,Sri Lanka,10th,,,,Unknown
+2850,Sudan,1st,,,,Unknown
+2851,Sudan,2nd,,,,Unknown
+2852,Sudan,3rd,,,,Unknown
+2853,Sudan,4th,,,,Unknown
+2854,Sudan,5th,,,,Unknown
+2855,Sudan,6th,,,,Unknown
+2856,Sudan,7th,,,,Unknown
+2857,Sudan,8th,,,,Unknown
+2858,Sudan,9th,,,,Unknown
+2859,Sudan,10th,,,,Unknown
+2860,Suriname,1st,16,116,35.3,Unknown
+2861,Suriname,2nd,18,116,17.2,Unknown
+2862,Sweden,1st,16,214,63.6,Unknown
+2863,Sweden,2nd,18,214,19.6,Unknown
+2864,Sweden,3rd,35,214,14,Unknown
+2865,Sweden,4th,31,214,7.5,Unknown
+2866,Sweden,5th,33,214,4.7,Unknown
+2867,Sweden,6th,,,,Unknown
+2868,Sweden,7th,,,,Unknown
+2869,Sweden,8th,,,,Unknown
+2870,Sweden,9th,,,,Unknown
+2871,Sweden,10th,,,,Unknown
+2872,Syrian Arab Republic,1st,33,88,54.5,Unknown
+2873,Syrian Arab Republic,2nd,16,88,47.7,Unknown
+2874,Syrian Arab Republic,3rd,18,88,40.9,Unknown
+2875,Syrian Arab Republic,4th,45,88,38.6,Unknown
+2876,Syrian Arab Republic,5th,52,88,29.5,Unknown
+2877,Syrian Arab Republic,6th,58,88,25,Unknown
+2878,Syrian Arab Republic,7th,35,88,20.5,Unknown
+2879,Syrian Arab Republic,8th,51,88,15.9,Unknown
+2880,Syrian Arab Republic,9th,31,88,11.4,Unknown
+2881,Thailand,1st,16,416,51,Unknown
+2882,Thailand,2nd,58,416,12.3,Unknown
+2883,Thailand,3rd,52,416,9.1,Unknown
+2884,Thailand,4th,45,416,6.5,Unknown
+2885,Thailand,5th,33,416,5.5,Unknown
+2886,Thailand,6th,35,416,4.1,Unknown
+2887,Thailand,7th,68,416,3.4,Unknown
+2888,Thailand,8th,51,416,2.4,Unknown
+2889,Thailand,9th,39,416,2.4,Unknown
+2890,Thailand,10th,31,416,2.2,Unknown
+2891,Trinidad and Tobago,1st,16,78,47.4,Unknown
+2892,Trinidad and Tobago,2nd,18,78,12.8,Unknown
+2893,Trinidad and Tobago,3rd,45,78,6.4,Unknown
+2894,Trinidad and Tobago,4th,35,78,1.3,Unknown
+2895,Trinidad and Tobago,5th,52,78,1.3,Unknown
+2896,Trinidad and Tobago,6th,39,78,1.3,Unknown
+2897,Trinidad and Tobago,7th,33,78,1.3,Unknown
+2898,Tunisia,1st,,,,Unknown
+2899,Tunisia,2nd,,,,Unknown
+2900,Tunisia,3rd,,,,Unknown
+2901,Tunisia,4th,,,,Unknown
+2902,Tunisia,5th,,,,Unknown
+2903,Tunisia,6th,,,,Unknown
+2904,Tunisia,7th,,,,Unknown
+2905,Tunisia,8th,,,,Unknown
+2906,Tunisia,9th,,,,Unknown
+2907,Tunisia,10th,,,,Unknown
+2908,Turkey,1st,16,23,52.2,Unknown
+2909,Turkey,2nd,18,23,17.4,Unknown
+2910,Turkey,3rd,52,23,8.7,Unknown
+2911,Turkey,4th,68,23,4.3,Unknown
+2912,Turkey,5th,33,23,4.3,Unknown
+2913,Turkey,6th,31,23,4.3,Unknown
+2914,Turkey,7th,,,,Unknown
+2915,Turkey,8th,,,,Unknown
+2916,Turkey,9th,,,,Unknown
+2917,Turkey,10th,,,,Unknown
+2918,Uganda,1st,,,,Unknown
+2919,Uganda,2nd,,,,Unknown
+2920,Uganda,3rd,,,,Unknown
+2921,Uganda,4th,,,,Unknown
+2922,Uganda,5th,,,,Unknown
+2923,Uganda,6th,,,,Unknown
+2924,Uganda,7th,,,,Unknown
+2925,Uganda,8th,,,,Unknown
+2926,Uganda,9th,,,,Unknown
+2927,Uganda,10th,,,,Unknown
+2928,United Kingdom,1st,,,,Unknown
+2929,United Kingdom,2nd,,,,Unknown
+2930,United Kingdom,3rd,,,,Unknown
+2931,United Kingdom,4th,,,,Unknown
+2932,United Kingdom,5th,,,,Unknown
+2933,United Kingdom,6th,,,,Unknown
+2934,United Kingdom,7th,,,,Unknown
+2935,United Kingdom,8th,,,,Unknown
+2936,United Kingdom,9th,,,,Unknown
+2937,United Kingdom,10th,,,,Unknown
+2938,United Republic of Tanzania,1st,16,53,37.7,Unknown
+2939,United Republic of Tanzania,2nd,18,53,32.1,Unknown
+2940,United Republic of Tanzania,3rd,45,53,5.7,Unknown
+2941,United Republic of Tanzania,4th,33,53,1.9,Unknown
+2942,United Republic of Tanzania,5th,,,,Unknown
+2943,United Republic of Tanzania,6th,,,,Unknown
+2944,United Republic of Tanzania,7th,,,,Unknown
