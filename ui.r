@@ -221,15 +221,15 @@ dashboardPage(
                   selectInput(
                     inputId  = "country_choice",
                     label    = "Country",
-                    choices  = unique(HPV_cancersFIX$country),
+                    choices  = unique(HPV_cancers$country),
                     multiple = TRUE,
-                    selected = unique(HPV_cancersFIX$country)
+                    selected = unique(HPV_cancers$country)
                   ),
 
                   selectizeInput(
                     inputId  = "cancers",
                     label    = "Cancer",
-                    choices  = unique(HPV_cancersFIX$cancer_type),
+                    choices  = unique(HPV_cancers$cancer_type),
                     multiple = FALSE,
                     selected = "Cervical"
                   ),
@@ -237,9 +237,9 @@ dashboardPage(
                   selectizeInput(
                     inputId  = "ages",
                     label    = "Age Range",
-                    choices  = unique(HPV_cancersFIX$age_range),
+                    choices  = unique(HPV_cancers$age_range),
                     multiple = TRUE,
-                    selected = unique(HPV_cancersFIX$age_range)
+                    selected = unique(HPV_cancers$age_range)
                   )
                 ),
 
@@ -281,7 +281,7 @@ dashboardPage(
                   selectInput(
                     inputId  = "country_choice_coun",
                     label    = "Country",
-                    choices  = unique(HPV_cancersFIX$country),
+                    choices  = unique(HPV_cancers$country),
                     multiple = FALSE,
                     selected = "United States of America"
                   ),
@@ -289,17 +289,17 @@ dashboardPage(
                   selectizeInput(
                     inputId  = "cancers",
                     label    = "Cancer",
-                    choices  = unique(HPV_cancersFIX$cancer_type),
+                    choices  = unique(HPV_cancers$cancer_type),
                     multiple = TRUE,
-                    selected = unique(HPV_cancersFIX$cancer_type)
+                    selected = unique(HPV_cancers$cancer_type)
                   ),
                   
                   selectizeInput(
                     inputId  = "ages_coun",
                     label    = "Age Range",
-                    choices  = unique(HPV_cancersFIX$age_range),
+                    choices  = unique(HPV_cancers$age_range),
                     multiple = TRUE,
-                    selected = unique(HPV_cancersFIX$age_range)
+                    selected = unique(HPV_cancers$age_range)
                   )
                 ),
                 

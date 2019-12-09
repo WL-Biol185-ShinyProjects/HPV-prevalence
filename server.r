@@ -34,7 +34,7 @@ function(input, output) {
    })
 
   output$Cancer_bar <- renderPlot({
-    HPV_cancersFIX                              %>%
+    HPV_cancers                                 %>%
       filter(country %in% input$country_choice) %>%
       #should a have a filter for registry == National
       filter(cancer_type %in% input$cancers)    %>%
@@ -60,7 +60,7 @@ function(input, output) {
   
   output$Age_bar <- renderPlot({
     
-    HPV_cancersFIX                                   %>%
+    HPV_cancers                                      %>%
       filter(country %in% input$country_choice_coun) %>%
       filter(age_range %in% input$ages_coun)         %>%
       filter(cancer_type %in% input$cancers)         %>%
