@@ -1,5 +1,6 @@
 load(file = ".RData")
 
+
 library(shiny)
 library(ggplot2)
 library(tidyverse)
@@ -35,7 +36,6 @@ function(input, output) {
   output$Cancer_bar <- renderPlot({
     HPV_cancers                                 %>%
       filter(country %in% input$country_choice) %>%
-      #should a have a filter for registry == National
       filter(cancer_type %in% input$cancers)    %>%
       filter(age_range %in% input$ages)         %>%
       ggplot(aes_string("country", "number_of_cases", fill = "age_range")) +
@@ -59,9 +59,10 @@ function(input, output) {
   
   output$Age_bar <- renderPlot({
     
-    HPV_cancers                                     %>%
+    HPV_cancers                                      %>%
       filter(country %in% input$country_choice_coun) %>%
       filter(age_range %in% input$ages_coun)         %>%
+      filter(cancer_type %in% input$cancers_coun)         %>%
       ggplot(aes_string("age_range", "number_of_cases", fill = "cancer_type")) +
       geom_col(alpha    = 0.8)+
       theme(axis.text.x = element_text(size = 9, angle = 60, hjust = 1)) +
