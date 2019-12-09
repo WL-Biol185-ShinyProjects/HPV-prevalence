@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 read.csv("HPV_Prevalence.csv")
 read.csv("HPV_cancers.csv")
 read.csv("HPV_cervicalcancers.csv")
+=======
+load(file = ".RData")
+>>>>>>> 59670a6ee987f97abe161e9edc65bd46510e2360
 
 library(shiny)
 library(ggplot2)
@@ -12,30 +16,29 @@ function(input, output) {
     if (input$X_axis     == "Type"){
       HPV_Prevalence %>%
         filter(Country   == input$chosen_country) %>%
-        filter(Histology == "Any Histology") %>%
-        ggplot(aes_string("Type", "Prevalence")) +
-        geom_bar(stat     = 'identity', fill = "#8B14A8") +
+        filter(Histology == "Any Histology")      %>%
+        ggplot(aes_string("Type", "Prevalence"))          +
+        geom_bar(stat     = 'identity', fill = "#F8AE9E") +
         theme(axis.text.x = element_text(size = 9, angle = 90, hjust = 1))
     } else{
       HPV_Prevalence %>%
-        filter(Type      == input$chosen_type) %>%
-        filter(Histology == "Any Histology") %>%
-        ggplot(aes_string("Country", "Prevalence")) +
-        geom_bar(stat     = 'identity') +
+        filter(Type      == input$chosen_type)    %>%
+        filter(Histology == "Any Histology")      %>%
+        ggplot(aes_string("Country", "Prevalence"))       +
+        geom_bar(stat     = 'identity', fill  = "#F8AE9E")+
         theme(axis.text.x = element_text(size = 9, angle = 90, hjust = 1))
     }
-  })
+   })
   
-  output$Choice <- renderUI({
-    if (input$X_axis     == "Type") {
+   output$Choice <- renderUI({
+    if (input$X_axis     == "Type"){
       selectInput('chosen_country', "Choose Country", choices = unique(HPV_Prevalence$Country))
     } else {
       selectInput('chosen_type', "Choose Type", choices = unique(HPV_Prevalence$Type))
     }
-  })
+   })
 
   output$Cancer_bar <- renderPlot({
-
     HPV_cancers                                 %>%
       filter(country %in% input$country_choice) %>%
       #should a have a filter for registry == National

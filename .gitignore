@@ -26,3 +26,4 @@ vignettes/*.pdf
 # Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
 rsconnect/
 cervical_cancer_cases_bystate.xlsx
+Extra.RData
