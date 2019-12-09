@@ -317,11 +317,11 @@ dashboardPage(
                   p("American Cancer Society"),
                   p("American Sexual Health Association"), 
                   p("Cancer.Net"),
+                  p("Gardasil 9"),
                   p("HPV Information Centre"), 
                   p("Mayo Clinic"),
                   p("Planned Parenthood"), 
-                  p("Urology Care Foundation"), 
-                  p("Gardasil 9")
+                  p("Urology Care Foundation")
                 )
               )
       )
