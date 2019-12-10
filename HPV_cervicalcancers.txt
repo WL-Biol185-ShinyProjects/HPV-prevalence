@@ -1,101 +1,101 @@
-"V1" "country" "Total" "age_range" "number_of_cases" "percent_country_total"
-"1" 1 "Australia" 924 "0-14 years" 0 0
-"2" 2 "China" 106430 "0-14 years" 0 0
-"3" 3 "Russian Federation" 18164 "0-14 years" 1 0.00550539528738163
-"4" 4 "United Kingdom of Great Britain and Northern Ireland" 3430 "0-14 years" 0 0
-"5" 5 "United States of America" 14065 "0-14 years" 4 0.0284393885531461
-"6" 6 "Canada" 1434 "0-14 years" 0 0
-"7" 7 "France" 3067 "0-14 years" 0 0
-"8" 8 "Germany" 4608 "0-14 years" 1 0.0217013888888889
-"9" 9 "India" 96922 "0-14 years" 17 0.0175398774272095
-"10" 10 "Mexico" 7869 "0-14 years" 1 0.012708095056551
-"11" 11 "Australia" 924 "15-39 years" 342 37.012987012987
-"12" 12 "China" 106430 "15-39 years" 19666 18.4778727802311
-"13" 13 "Russian Federation" 18164 "15-39 years" 4741 26.1010790574763
-"14" 14 "United Kingdom of Great Britain and Northern Ireland" 3430 "15-39 years" 1449 42.2448979591837
-"15" 15 "United States of America" 14065 "15-39 years" 3702 26.3206541059367
-"16" 16 "Canada" 1434 "15-39 years" 425 29.6373779637378
-"17" 17 "France" 3067 "15-39 years" 624 20.3456146071079
-"18" 18 "Germany" 4608 "15-39 years" 948 20.5729166666667
-"19" 19 "India" 96922 "15-39 years" 15003 15.4794577082603
-"20" 20 "Mexico" 7869 "15-39 years" 1944 24.7045367899352
-"21" 21 "Australia" 924 "40-44 years" 106 11.4718614718615
-"22" 22 "China" 106430 "40-44 years" 13073 12.2831908296533
-"23" 23 "Russian Federation" 18164 "40-44 years" 2209 12.161418189826
-"24" 24 "United Kingdom of Great Britain and Northern Ireland" 3430 "40-44 years" 366 10.6705539358601
-"25" 25 "United States of America" 14065 "40-44 years" 1475 10.4870245289726
-"26" 26 "Canada" 1434 "40-44 years" 160 11.1576011157601
-"27" 27 "France" 3067 "40-44 years" 351 11.4444082164982
-"28" 28 "Germany" 4608 "40-44 years" 398 8.63715277777778
-"29" 29 "India" 96922 "40-44 years" 11146 11.4999690472751
-"30" 30 "Mexico" 7869 "40-44 years" 941 11.9583174482145
-"31" 31 "Australia" 924 "45-49 years" 97 10.4978354978355
-"32" 32 "China" 106430 "45-49 years" 18533 17.4133233110965
-"33" 33 "Russian Federation" 18164 "45-49 years" 1998 10.9997797841885
-"34" 34 "United Kingdom of Great Britain and Northern Ireland" 3430 "45-49 years" 320 9.32944606413994
-"35" 35 "United States of America" 14065 "45-49 years" 1459 10.37326697476
-"36" 36 "Canada" 1434 "45-49 years" 145 10.1115760111576
-"37" 37 "France" 3067 "45-49 years" 401 13.074665797196
-"38" 38 "Germany" 4608 "45-49 years" 493 10.6987847222222
-"39" 39 "India" 96922 "45-49 years" 13238 13.6584057283176
-"40" 40 "Mexico" 7869 "45-49 years" 955 12.1362307790062
-"41" 41 "Australia" 924 "50-54 years" 80 8.65800865800866
-"42" 42 "China" 106430 "50-54 years" 17636 16.5705158320023
-"43" 43 "Russian Federation" 18164 "50-54 years" 1956 10.7685531821185
-"44" 44 "United Kingdom of Great Britain and Northern Ireland" 3430 "50-54 years" 271 7.90087463556851
-"45" 45 "United States of America" 14065 "50-54 years" 1431 10.174191254888
-"46" 46 "Canada" 1434 "50-54 years" 138 9.6234309623431
-"47" 47 "France" 3067 "50-54 years" 357 11.6400391261819
-"48" 48 "Germany" 4608 "50-54 years" 584 12.6736111111111
-"49" 49 "India" 96922 "50-54 years" 13619 14.0515053341863
-"50" 50 "Mexico" 7869 "50-54 years" 814 10.3443893760325
-"51" 51 "Australia" 924 "55-59 years" 73 7.9004329004329
-"52" 52 "China" 106430 "55-59 years" 12348 11.6019919195715
-"53" 53 "Russian Federation" 18164 "55-59 years" 2154 11.85862144902
-"54" 54 "United Kingdom of Great Britain and Northern Ireland" 3430 "55-59 years" 218 6.35568513119533
-"55" 55 "United States of America" 14065 "55-59 years" 1442 10.2523995734092
-"56" 56 "Canada" 1434 "55-59 years" 138 9.6234309623431
-"57" 57 "France" 3067 "55-59 years" 290 9.45549396804695
-"58" 58 "Germany" 4608 "55-59 years" 534 11.5885416666667
-"59" 59 "India" 96922 "55-59 years" 12503 12.9000639689647
-"60" 60 "Mexico" 7869 "55-59 years" 739 9.39128224679121
-"61" 61 "Australia" 924 "60-64 years" 63 6.81818181818182
-"62" 62 "China" 106430 "60-64 years" 9180 8.62538757869022
-"63" 63 "Russian Federation" 18164 "60-64 years" 1812 9.97577626073552
-"64" 64 "United Kingdom of Great Britain and Northern Ireland" 3430 "60-64 years" 169 4.92711370262391
-"65" 65 "United States of America" 14065 "60-64 years" 1309 9.30678990401706
-"66" 66 "Canada" 1434 "60-64 years" 116 8.08926080892608
-"67" 67 "France" 3067 "60-64 years" 220 7.1731333550701
-"68" 68 "Germany" 4608 "60-64 years" 438 9.50520833333333
-"69" 69 "India" 96922 "60-64 years" 10608 10.9448835145787
-"70" 70 "Mexico" 7869 "60-64 years" 665 8.45088321260643
-"71" 71 "Australia" 924 "65-69 years" 53 5.73593073593074
-"72" 72 "China" 106430 "65-69 years" 7326 6.88339753828808
-"73" 73 "Russian Federation" 18164 "65-69 years" 1316 7.24510019819423
-"74" 74 "United Kingdom of Great Britain and Northern Ireland" 3430 "65-69 years" 160 4.66472303206997
-"75" 75 "United States of America" 14065 "65-69 years" 1094 7.77817276928546
-"76" 76 "Canada" 1434 "65-69 years" 97 6.76429567642957
-"77" 77 "France" 3067 "65-69 years" 206 6.71666123247473
-"78" 78 "Germany" 4608 "65-69 years" 333 7.2265625
-"79" 79 "India" 96922 "65-69 years" 8121 8.37890262272755
-"80" 80 "Mexico" 7869 "65-69 years" 539 6.849663235481
-"81" 81 "Australia" 924 "70-74 years" 42 4.54545454545455
-"82" 82 "China" 106430 "70-74 years" 3977 3.7367283660622
-"83" 83 "Russian Federation" 18164 "70-74 years" 703 3.87029288702929
-"84" 84 "United Kingdom of Great Britain and Northern Ireland" 3430 "70-74 years" 153 4.46064139941691
-"85" 85 "United States of America" 14065 "70-74 years" 829 5.89406327763953
-"86" 86 "Canada" 1434 "70-74 years" 76 5.29986052998605
-"87" 87 "France" 3067 "70-74 years" 171 5.57548092598631
-"88" 88 "Germany" 4608 "70-74 years" 262 5.68576388888889
-"89" 89 "India" 96922 "70-74 years" 5391 5.56220465941685
-"90" 90 "Mexico" 7869 "70-74 years" 401 5.09594611767696
-"91" 91 "Australia" 924 "75+ years" 68 7.35930735930736
-"92" 92 "China" 106430 "75+ years" 4691 4.40759184440477
-"93" 93 "Russian Federation" 18164 "75+ years" 1274 7.0138735961242
-"94" 94 "United Kingdom of Great Britain and Northern Ireland" 3430 "75+ years" 324 9.44606413994169
-"95" 95 "United States of America" 14065 "75+ years" 1320 9.38499822253821
-"96" 96 "Canada" 1434 "75+ years" 139 9.6931659693166
-"97" 97 "France" 3067 "75+ years" 447 14.5745027714379
-"98" 98 "Germany" 4608 "75+ years" 617 13.3897569444444
-"99" 99 "India" 96922 "75+ years" 7276 7.50706753884567
-"100" 100 "Mexico" 7869 "75+ years" 870 11.0560426991994
+"country" "Total" "age_range" "number_of_cases" "percent_country_total"
+"1" "Australia" 924 "0-14 years" 0 0
+"2" "China" 106430 "0-14 years" 0 0
+"3" "Russian Federation" 18164 "0-14 years" 1 0.00550539528738163
+"4" "United Kingdom of Great Britain and Northern Ireland" 3430 "0-14 years" 0 0
+"5" "United States of America" 14065 "0-14 years" 4 0.0284393885531461
+"6" "Canada" 1434 "0-14 years" 0 0
+"7" "France" 3067 "0-14 years" 0 0
+"8" "Germany" 4608 "0-14 years" 1 0.0217013888888889
+"9" "India" 96922 "0-14 years" 17 0.0175398774272095
+"10" "Mexico" 7869 "0-14 years" 1 0.012708095056551
+"11" "Australia" 924 "15-39 years" 342 37.012987012987
+"12" "China" 106430 "15-39 years" 19666 18.4778727802311
+"13" "Russian Federation" 18164 "15-39 years" 4741 26.1010790574763
+"14" "United Kingdom of Great Britain and Northern Ireland" 3430 "15-39 years" 1449 42.2448979591837
+"15" "United States of America" 14065 "15-39 years" 3702 26.3206541059367
+"16" "Canada" 1434 "15-39 years" 425 29.6373779637378
+"17" "France" 3067 "15-39 years" 624 20.3456146071079
+"18" "Germany" 4608 "15-39 years" 948 20.5729166666667
+"19" "India" 96922 "15-39 years" 15003 15.4794577082603
+"20" "Mexico" 7869 "15-39 years" 1944 24.7045367899352
+"21" "Australia" 924 "40-44 years" 106 11.4718614718615
+"22" "China" 106430 "40-44 years" 13073 12.2831908296533
+"23" "Russian Federation" 18164 "40-44 years" 2209 12.161418189826
+"24" "United Kingdom of Great Britain and Northern Ireland" 3430 "40-44 years" 366 10.6705539358601
+"25" "United States of America" 14065 "40-44 years" 1475 10.4870245289726
+"26" "Canada" 1434 "40-44 years" 160 11.1576011157601
+"27" "France" 3067 "40-44 years" 351 11.4444082164982
+"28" "Germany" 4608 "40-44 years" 398 8.63715277777778
+"29" "India" 96922 "40-44 years" 11146 11.4999690472751
+"30" "Mexico" 7869 "40-44 years" 941 11.9583174482145
+"31" "Australia" 924 "45-49 years" 97 10.4978354978355
+"32" "China" 106430 "45-49 years" 18533 17.4133233110965
+"33" "Russian Federation" 18164 "45-49 years" 1998 10.9997797841885
+"34" "United Kingdom of Great Britain and Northern Ireland" 3430 "45-49 years" 320 9.32944606413994
+"35" "United States of America" 14065 "45-49 years" 1459 10.37326697476
+"36" "Canada" 1434 "45-49 years" 145 10.1115760111576
+"37" "France" 3067 "45-49 years" 401 13.074665797196
+"38" "Germany" 4608 "45-49 years" 493 10.6987847222222
+"39" "India" 96922 "45-49 years" 13238 13.6584057283176
+"40" "Mexico" 7869 "45-49 years" 955 12.1362307790062
+"41" "Australia" 924 "50-54 years" 80 8.65800865800866
+"42" "China" 106430 "50-54 years" 17636 16.5705158320023
+"43" "Russian Federation" 18164 "50-54 years" 1956 10.7685531821185
+"44" "United Kingdom of Great Britain and Northern Ireland" 3430 "50-54 years" 271 7.90087463556851
+"45" "United States of America" 14065 "50-54 years" 1431 10.174191254888
+"46" "Canada" 1434 "50-54 years" 138 9.6234309623431
+"47" "France" 3067 "50-54 years" 357 11.6400391261819
+"48" "Germany" 4608 "50-54 years" 584 12.6736111111111
+"49" "India" 96922 "50-54 years" 13619 14.0515053341863
+"50" "Mexico" 7869 "50-54 years" 814 10.3443893760325
+"51" "Australia" 924 "55-59 years" 73 7.9004329004329
+"52" "China" 106430 "55-59 years" 12348 11.6019919195715
+"53" "Russian Federation" 18164 "55-59 years" 2154 11.85862144902
+"54" "United Kingdom of Great Britain and Northern Ireland" 3430 "55-59 years" 218 6.35568513119533
+"55" "United States of America" 14065 "55-59 years" 1442 10.2523995734092
+"56" "Canada" 1434 "55-59 years" 138 9.6234309623431
+"57" "France" 3067 "55-59 years" 290 9.45549396804695
+"58" "Germany" 4608 "55-59 years" 534 11.5885416666667
+"59" "India" 96922 "55-59 years" 12503 12.9000639689647
+"60" "Mexico" 7869 "55-59 years" 739 9.39128224679121
+"61" "Australia" 924 "60-64 years" 63 6.81818181818182
+"62" "China" 106430 "60-64 years" 9180 8.62538757869022
+"63" "Russian Federation" 18164 "60-64 years" 1812 9.97577626073552
+"64" "United Kingdom of Great Britain and Northern Ireland" 3430 "60-64 years" 169 4.92711370262391
+"65" "United States of America" 14065 "60-64 years" 1309 9.30678990401706
+"66" "Canada" 1434 "60-64 years" 116 8.08926080892608
+"67" "France" 3067 "60-64 years" 220 7.1731333550701
+"68" "Germany" 4608 "60-64 years" 438 9.50520833333333
+"69" "India" 96922 "60-64 years" 10608 10.9448835145787
+"70" "Mexico" 7869 "60-64 years" 665 8.45088321260643
+"71" "Australia" 924 "65-69 years" 53 5.73593073593074
+"72" "China" 106430 "65-69 years" 7326 6.88339753828808
+"73" "Russian Federation" 18164 "65-69 years" 1316 7.24510019819423
+"74" "United Kingdom of Great Britain and Northern Ireland" 3430 "65-69 years" 160 4.66472303206997
+"75" "United States of America" 14065 "65-69 years" 1094 7.77817276928546
+"76" "Canada" 1434 "65-69 years" 97 6.76429567642957
+"77" "France" 3067 "65-69 years" 206 6.71666123247473
+"78" "Germany" 4608 "65-69 years" 333 7.2265625
+"79" "India" 96922 "65-69 years" 8121 8.37890262272755
+"80" "Mexico" 7869 "65-69 years" 539 6.849663235481
+"81" "Australia" 924 "70-74 years" 42 4.54545454545455
+"82" "China" 106430 "70-74 years" 3977 3.7367283660622
+"83" "Russian Federation" 18164 "70-74 years" 703 3.87029288702929
+"84" "United Kingdom of Great Britain and Northern Ireland" 3430 "70-74 years" 153 4.46064139941691
+"85" "United States of America" 14065 "70-74 years" 829 5.89406327763953
+"86" "Canada" 1434 "70-74 years" 76 5.29986052998605
+"87" "France" 3067 "70-74 years" 171 5.57548092598631
+"88" "Germany" 4608 "70-74 years" 262 5.68576388888889
+"89" "India" 96922 "70-74 years" 5391 5.56220465941685
+"90" "Mexico" 7869 "70-74 years" 401 5.09594611767696
+"91" "Australia" 924 "75+ years" 68 7.35930735930736
+"92" "China" 106430 "75+ years" 4691 4.40759184440477
+"93" "Russian Federation" 18164 "75+ years" 1274 7.0138735961242
+"94" "United Kingdom of Great Britain and Northern Ireland" 3430 "75+ years" 324 9.44606413994169
+"95" "United States of America" 14065 "75+ years" 1320 9.38499822253821
+"96" "Canada" 1434 "75+ years" 139 9.6931659693166
+"97" "France" 3067 "75+ years" 447 14.5745027714379
+"98" "Germany" 4608 "75+ years" 617 13.3897569444444
+"99" "India" 96922 "75+ years" 7276 7.50706753884567
+"100" "Mexico" 7869 "75+ years" 870 11.0560426991994
