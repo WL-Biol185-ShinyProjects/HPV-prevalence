@@ -23,13 +23,13 @@ dashboardPage(
                icon    = icon("chart-bar"), 
                tabName = "HPV_types"
                ), 
-      menuItem("Related Cancers", 
-               icon    = icon("chart-bar"), 
-               tabName = "Related_cancers"
-               ),
       menuItem("HPV Cervical Cancer",
                icon    = icon("chart-bar"),
                tabName = "Cervical_cancer"
+               ),
+      menuItem("Related Cancers", 
+               icon    = icon("chart-bar"), 
+               tabName = "Related_cancers"
                ),
       menuItem("HPV Age Distribution",
                icon    = icon("chart-bar"),
@@ -214,40 +214,6 @@ dashboardPage(
               )
       ),
 
-      tabItem(tabName = "Related_cancers",
-              sidebarLayout(
-                sidebarPanel(
-                  selectInput(
-                    inputId  = "country_choice",
-                    label    = "Country",
-                    choices  = unique(HPV_cancers$country),
-                    multiple = TRUE,
-                    selected = unique(HPV_cancers$country)
-                  ),
-
-                  selectizeInput(
-                    inputId  = "cancers",
-                    label    = "Cancer",
-                    choices  = unique(HPV_cancers$cancer_type),
-                    multiple = FALSE,
-                    selected = "Cervical"
-                  ),
-
-                  selectizeInput(
-                    inputId  = "ages",
-                    label    = "Age Range",
-                    choices  = unique(HPV_cancers$age_range),
-                    multiple = TRUE,
-                    selected = unique(HPV_cancers$age_range)
-                  )
-                ),
-
-                mainPanel(
-                  plotOutput("Cancer_bar")
-                )
-              )
-      ),
-
       tabItem(tabName = "Cervical_cancer",
               sidebarLayout(
                 sidebarPanel(
@@ -270,6 +236,40 @@ dashboardPage(
 
                 mainPanel(
                   plotOutput("Cervical_cancer_bar")
+                )
+              )
+      ),
+      
+      tabItem(tabName = "Related_cancers",
+              sidebarLayout(
+                sidebarPanel(
+                  selectInput(
+                    inputId  = "country_choice",
+                    label    = "Country",
+                    choices  = unique(HPV_cancers$country),
+                    multiple = TRUE,
+                    selected = unique(HPV_cancers$country)
+                  ),
+                  
+                  selectizeInput(
+                    inputId  = "cancers",
+                    label    = "Cancer",
+                    choices  = unique(HPV_cancers$cancer_type),
+                    multiple = FALSE,
+                    selected = "Cervical"
+                  ),
+                  
+                  selectizeInput(
+                    inputId  = "ages",
+                    label    = "Age Range",
+                    choices  = unique(HPV_cancers$age_range),
+                    multiple = TRUE,
+                    selected = unique(HPV_cancers$age_range)
+                  )
+                ),
+                
+                mainPanel(
+                  plotOutput("Cancer_bar")
                 )
               )
       ),
