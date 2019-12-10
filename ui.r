@@ -194,7 +194,7 @@ dashboardPage(
               )
       ),
       
-      tabItem(tabname = "HPV_Types",
+      tabItem(tabName = "HPV_types",
               sidebarLayout(
                 sidebarPanel(
                   selectInput(
