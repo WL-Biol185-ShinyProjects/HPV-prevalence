@@ -307,7 +307,6 @@ dashboardPage(
                 )
               )
       ),
-      
       tabItem(tabName = "Resources", 
               fluidRow(
                 box(
