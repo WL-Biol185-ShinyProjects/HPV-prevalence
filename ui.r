@@ -218,7 +218,7 @@ dashboardPage(
                   fluidRow(
                     box(
                       width      = 20,
-                      background = "teal", 
+                      background = "aqua", 
                       h4("Country or Type graphed against proportional prevalence of Oncogenic type in a given country"),
                       p("Choose Country or Type to change your x-axis")
                     )
@@ -259,7 +259,7 @@ dashboardPage(
                   fluidRow(
                     box(
                       width      = 15,
-                      background = "teal",
+                      background = "aqua",
                       h4("Proportional prevalence of cervical cancer within each age group for a given country"),
                       p("Remove age groups or countries to given a different comparison")
                       
@@ -310,7 +310,7 @@ dashboardPage(
                   fluidRow(
                     box(
                       width      = 15,
-                      background = "teal", 
+                      background = "aqua", 
                       h4("The prevalence of a related cancer in ten select countries broken down by age group"),
                       p("Choose a Related Cancer to change the graph")
                     )
@@ -359,7 +359,7 @@ dashboardPage(
                   fluidRow(
                     box(
                       width      = 15,
-                      background = "teal", 
+                      background = "aqua", 
                       h4("Age distribution of HPV related cancers for a country plotted against prevalence"),
                       p("Chose a new country to look at a new distribution")
                     )
