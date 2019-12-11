@@ -45,7 +45,7 @@ dashboardPage(
       tabItem(tabName = "Dashboard",
               fluidRow(
                 box(
-                  title      = h3("HPV and Related Cancers"),
+                  title      = h3("HPV Related Cancers"),
                   width      = 15,
                   background = "teal", 
                   h4("Whitley Drinkard and Mikki Whittington"),
