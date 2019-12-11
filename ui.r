@@ -1,5 +1,3 @@
-#load(file = ".RData")
-
 library(shiny)
 library(shinydashboard)
 library(ggplot2)
@@ -14,36 +12,36 @@ dashboardPage(
       menuItem("Dashboard", 
                icon    = icon("dashboard"),
                tabName = "Dashboard" 
-               ), 
+      ), 
       menuItem("About HPV", 
                icon    = icon("angle-right"), 
                tabName = "Information"
-               ),
+      ),
       menuItem("HPV Types", 
                icon    = icon("chart-bar"), 
                tabName = "HPV_types"
-               ), 
+      ), 
       menuItem("HPV Cervical Cancer",
                icon    = icon("chart-bar"),
                tabName = "Cervical_cancer"
-               ),
+      ),
       menuItem("Related Cancers", 
                icon    = icon("chart-bar"), 
                tabName = "Related_cancers"
-               ),
+      ),
       menuItem("HPV Age Distribution",
                icon    = icon("chart-bar"),
                tabName = "Age_country"
-               ),
+      ),
       menuItem("Resources",
                icon    = icon("list"),
                tabName = "Resources"
-               )
+      )
     )
   ),
   
   dashboardBody(
-     tabItems(
+    tabItems(
       tabItem(tabName = "Dashboard",
               fluidRow(
                 box(
@@ -54,7 +52,7 @@ dashboardPage(
                   p("BIOL185 Winter 2019 Final Project")
                 )
               )
-            ), 
+      ), 
       
       tabItem(tabName = "Information", 
               fluidRow(
@@ -73,9 +71,9 @@ dashboardPage(
                     to your sexual partners.")
                 ),
                 valueBox(
-                 14, 
-                 "million new cases of HPV every year in the US", 
-                 icon = icon("diagnoses")
+                  14, 
+                  "million new cases of HPV every year in the US", 
+                  icon = icon("diagnoses")
                 ), 
                 valueBox(
                   630, 
@@ -195,15 +193,6 @@ dashboardPage(
       ),
       
       tabItem(tabName = "HPV_Types",
-              fluidRow(
-                box(
-                  title      = h3("HPV Oncogenic Types"),
-                  width      = 20,
-                  background = "teal", 
-                  h4("Country or Type graphed against proportional prevalence of Oncogenic type in a given country"),
-                  p("Choose Country or Type to change your x-axis")
-                )
-              ),
               sidebarLayout(
                 sidebarPanel(
                   selectInput(
@@ -215,24 +204,24 @@ dashboardPage(
                   ),
                   
                   uiOutput("Choice")
-                  ),
+                ),
                 
                 mainPanel(
                   plotOutput("Country_bar")
                 )
-                )
-           ),
-
+              )
+      ),
+      
       tabItem(tabName = "Cervical_cancer",
               fluidRow(
                 box(
                   title      = h3("Cervical Cancer"),
                   width      = 20,
                   height     = 5,
-                  background = "teal",
+                  background = "teal"
                 )
-                ),
-               sidebarLayout(
+              ),
+              sidebarLayout(
                 sidebarPanel(
                   selectInput(
                     inputId  = "country_choice_cer",
@@ -241,7 +230,7 @@ dashboardPage(
                     multiple = TRUE,
                     selected = unique(HPV_cervicalcancers$country)
                   ),
-
+                  
                   selectizeInput(
                     inputId  = "ages_cer",
                     label    = "Age Range",
@@ -250,12 +239,21 @@ dashboardPage(
                     selected = unique(HPV_cervicalcancers$age_range)
                   )
                 ),
-
+                
                 mainPanel(
-                  plotOutput("Cervical_cancer_bar")
+                  plotOutput("Cervical_cancer_bar"),
+                  fluidRow(
+                    box(
+                      width      = 15,
+                      background = "teal",
+                      h4("Proportional prevalence of cervical cancer within each age group for a given country"),
+                      p("Remove age groups or countries to given a different comparison")
+                      
+                    )
+                  )
+                  
                 )
               )
-              
       ),
       
       tabItem(tabName = "Related_cancers",
@@ -263,9 +261,7 @@ dashboardPage(
                 box(
                   title      = h3("HPV Related Cancers"),
                   width      = 20,
-                  background = "teal", 
-                  h4("The prevalence of a related cancer in ten select countries broken down by age group"),
-                  p("Choose a Related Cancer to change the graph")
+                  background = "teal"
                 )
               ),
               sidebarLayout(
@@ -296,7 +292,15 @@ dashboardPage(
                 ),
                 
                 mainPanel(
-                  plotOutput("Cancer_bar")
+                  plotOutput("Cancer_bar"),
+                  fluidRow(
+                    box(
+                      width      = 15,
+                      background = "teal", 
+                      h4("The prevalence of a related cancer in ten select countries broken down by age group"),
+                      p("Choose a Related Cancer to change the graph")
+                    )
+                  )
                 )
               )
       ),
@@ -305,10 +309,8 @@ dashboardPage(
               fluidRow(
                 box(
                   title      = h3("Age distribution of Related Cancers"),
-                  width      = 20,
-                  background = "teal", 
-                  h4("Age distribution of HPV related cancers for a country plotted against prevalence"),
-                  p("Chose a new country to look at a new distribution")
+                  width      = 15,
+                  background = "teal"
                 )
               ),
               sidebarLayout(
@@ -339,7 +341,16 @@ dashboardPage(
                 ),
                 
                 mainPanel(
-                  plotOutput("Age_bar")
+                  plotOutput("Age_bar"),
+                  fluidRow(
+                    box(
+                      width      = 15,
+                      background = "teal", 
+                      h4("Age distribution of HPV related cancers for a country plotted against prevalence"),
+                      p("Chose a new country to look at a new distribution")
+                    )
+                  )
+                  
                 )
               )
       ),
@@ -361,7 +372,6 @@ dashboardPage(
                 )
               )
       )
-     )
+    )
   )
 )
-
