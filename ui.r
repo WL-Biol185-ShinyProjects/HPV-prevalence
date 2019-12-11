@@ -192,7 +192,14 @@ dashboardPage(
               )
       ),
       
-      tabItem(tabName = "HPV_Types",
+      tabItem(tabName = "HPV_types",
+              fluidRow(
+                box(
+                  title      = h3("HPV Oncogenic Types"),
+                  width      = 20,
+                  background = "teal"
+                )
+              ),
               sidebarLayout(
                 sidebarPanel(
                   selectInput(
@@ -207,7 +214,15 @@ dashboardPage(
                 ),
                 
                 mainPanel(
-                  plotOutput("Country_bar")
+                  plotOutput("Country_bar"),
+                  fluidRow(
+                    box(
+                      width      = 20,
+                      background = "teal", 
+                      h4("Country or Type graphed against proportional prevalence of Oncogenic type in a given country"),
+                      p("Choose Country or Type to change your x-axis")
+                    )
+                  )
                 )
               )
       ),
