@@ -198,7 +198,7 @@ dashboardPage(
               fluidRow(
                 box(
                   title      = h3("HPV Oncogenic Types"),
-                  width      = 25,
+                  width      = 20,
                   background = "teal", 
                   h4("Country or Type graphed against proportional prevalence of Oncogenic type in a given country"),
                   p("Choose Country or Type to change your x-axis")
@@ -220,18 +220,18 @@ dashboardPage(
                 mainPanel(
                   plotOutput("Country_bar")
                 )
-              )
-      ),
+                )
+           ),
 
       tabItem(tabName = "Cervical_cancer",
               fluidRow(
                 box(
                   title      = h3("Cervical Cancer"),
-                  width      = 25,
-                  background = "teal", 
-                  h4("A select ten countries plotted against the proportion of cervical cancer in each age group for that country")
-                  )
-              ),
+                  width      = 20,
+                  height     = 5,
+                  background = "teal",
+                )
+                ),
                sidebarLayout(
                 sidebarPanel(
                   selectInput(
@@ -255,13 +255,14 @@ dashboardPage(
                   plotOutput("Cervical_cancer_bar")
                 )
               )
+              
       ),
       
       tabItem(tabName = "Related_cancers",
               fluidRow(
                 box(
                   title      = h3("HPV Related Cancers"),
-                  width      = 25,
+                  width      = 20,
                   background = "teal", 
                   h4("The prevalence of a related cancer in ten select countries broken down by age group"),
                   p("Choose a Related Cancer to change the graph")
@@ -304,7 +305,7 @@ dashboardPage(
               fluidRow(
                 box(
                   title      = h3("Age distribution of Related Cancers"),
-                  width      = 25,
+                  width      = 20,
                   background = "teal", 
                   h4("Age distribution of HPV related cancers for a country plotted against prevalence"),
                   p("Chose a new country to look at a new distribution")
@@ -363,3 +364,4 @@ dashboardPage(
      )
   )
 )
+
