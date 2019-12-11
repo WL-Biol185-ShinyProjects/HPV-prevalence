@@ -232,7 +232,6 @@ dashboardPage(
                 box(
                   title      = h3("Cervical Cancer"),
                   width      = 20,
-                  height     = 5,
                   background = "teal"
                 )
               ),
@@ -376,11 +375,12 @@ dashboardPage(
                   title = strong("Resources"),
                   width = 15, 
                   background = "teal", 
+                  p("Data pulled from HPV Information Centre's HPV Prevalence Estimates Data Query:
+                    https://hpvcentre.net/datastatistics.php"),
                   p("American Cancer Society"),
                   p("American Sexual Health Association"), 
                   p("Cancer.Net"),
                   p("Gardasil 9"),
-                  p("HPV Information Centre"), 
                   p("Mayo Clinic"),
                   p("Planned Parenthood"), 
                   p("Urology Care Foundation")
